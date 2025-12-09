@@ -1,0 +1,13 @@
+{
+  "pawn.compiler.commandLine": "${workspaceFolder}/pawno/pawncc.exe",
+  "pawn.compiler.useWine": false,
+  "pawn.includes": [
+    "${workspaceFolder}/include",
+    "${workspaceFolder}/include/core",
+    "${workspaceFolder}/include/modules",
+    "${workspaceFolder}/include/modules/admin",
+    "${workspaceFolder}/include/modules/player",
+    "${workspaceFolder}/include/modules/vehicles",
+    "${workspaceFolder}/pawno/include"
+  ]
+}

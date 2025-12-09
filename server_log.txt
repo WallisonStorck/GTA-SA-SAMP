@@ -1,0 +1,5998 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:22:01] filterscripts = ""  (string)
+[09:22:01] 
+[09:22:01] Server Plugins
+[09:22:01] --------------
+[09:22:01]  Loading plugin: sscanf
+[09:22:01] 
+[09:22:01]  ===============================
+[09:22:01] 
+[09:22:01]       sscanf plugin loaded.     
+[09:22:01] 
+[09:22:01]          Version: 2.13.8
+[09:22:01] 
+[09:22:01]    (c) 2022 Alex "Y_Less" Cole  
+[09:22:01] 
+[09:22:01]  ===============================
+[09:22:01] 
+[09:22:01]   Loaded.
+[09:22:01]  Loading plugin: dof2
+[09:22:19]   Failed.
+[09:22:19]  Loaded 1 plugins.
+
+[09:22:19] 
+[09:22:19] Filterscripts
+[09:22:19] ---------------
+[09:22:19]   Loaded 0 filterscripts.
+
+[09:22:19] [INFO] Servidor iniciado.
+[09:22:19] Gamemode carregado com sucesso.
+[09:22:19] Number of vehicle models: 0
+[09:23:29] [connection] incoming connection: 127.0.0.1:53202 id: 0
+[09:23:29] [join] Storck has joined the server (0:127.0.0.1)
+[09:24:55] [part] Storck has left the server (0:1)
+[09:25:16] [connection] incoming connection: 127.0.0.1:60766 id: 0
+[09:25:17] [join] Storck has joined the server (0:127.0.0.1)
+[09:26:00] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:54:53] filterscripts = ""  (string)
+[09:54:53] 
+[09:54:53] Server Plugins
+[09:54:53] --------------
+[09:54:53]  Loading plugin: sscanf
+[09:54:53] 
+[09:54:53]  ===============================
+[09:54:53] 
+[09:54:53]       sscanf plugin loaded.     
+[09:54:53] 
+[09:54:53]          Version: 2.13.8
+[09:54:53] 
+[09:54:53]    (c) 2022 Alex "Y_Less" Cole  
+[09:54:53] 
+[09:54:53]  ===============================
+[09:54:53] 
+[09:54:53]   Loaded.
+[09:54:53]  Loading plugin: dof2
+[09:54:54]   Failed.
+[09:54:54]  Loaded 1 plugins.
+
+[09:54:54] 
+[09:54:54] Filterscripts
+[09:54:54] ---------------
+[09:54:54]   Loaded 0 filterscripts.
+
+[09:54:54] Gamemode carregado com sucesso.
+[09:54:54] Number of vehicle models: 1
+[09:55:24] [connection] incoming connection: 127.0.0.1:58240 id: 0
+[09:55:24] [join] Storck has joined the server (0:127.0.0.1)
+[09:57:39] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:09:02] filterscripts = ""  (string)
+[10:09:02] 
+[10:09:02] Server Plugins
+[10:09:02] --------------
+[10:09:02]  Loading plugin: sscanf
+[10:09:02] 
+[10:09:02]  ===============================
+[10:09:02] 
+[10:09:02]       sscanf plugin loaded.     
+[10:09:02] 
+[10:09:02]          Version: 2.13.8
+[10:09:02] 
+[10:09:02]    (c) 2022 Alex "Y_Less" Cole  
+[10:09:02] 
+[10:09:02]  ===============================
+[10:09:02] 
+[10:09:02]   Loaded.
+[10:09:02]  Loading plugin: dof2
+[10:09:04]   Failed.
+[10:09:04]  Loaded 1 plugins.
+
+[10:09:04] 
+[10:09:04] Filterscripts
+[10:09:04] ---------------
+[10:09:04]   Loaded 0 filterscripts.
+
+[10:09:04] Gamemode carregado com sucesso.
+[10:09:04] Number of vehicle models: 1
+[10:09:25] [connection] incoming connection: 127.0.0.1:57706 id: 0
+[10:09:25] [join] Storck has joined the server (0:127.0.0.1)
+[10:15:58] [part] Storck has left the server (0:1)
+[10:22:12] [connection] incoming connection: 127.0.0.1:61962 id: 0
+[10:22:12] [join] Storck has joined the server (0:127.0.0.1)
+[10:24:45] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:26:16] filterscripts = ""  (string)
+[10:26:16] 
+[10:26:16] Server Plugins
+[10:26:16] --------------
+[10:26:16]  Loading plugin: sscanf
+[10:26:16] 
+[10:26:16]  ===============================
+[10:26:16] 
+[10:26:16]       sscanf plugin loaded.     
+[10:26:16] 
+[10:26:16]          Version: 2.13.8
+[10:26:16] 
+[10:26:16]    (c) 2022 Alex "Y_Less" Cole  
+[10:26:16] 
+[10:26:16]  ===============================
+[10:26:16] 
+[10:26:16]   Loaded.
+[10:26:16]  Loading plugin: dof2
+[10:26:17]   Failed.
+[10:26:17]  Loaded 1 plugins.
+
+[10:26:17] 
+[10:26:17] Filterscripts
+[10:26:17] ---------------
+[10:26:17]   Loaded 0 filterscripts.
+
+[10:26:17] Gamemode carregado com sucesso.
+[10:26:17] Number of vehicle models: 1
+[10:26:42] [connection] incoming connection: 127.0.0.1:51482 id: 0
+[10:26:42] [join] Storck has joined the server (0:127.0.0.1)
+[10:30:59] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:38:08] filterscripts = ""  (string)
+[10:38:08] 
+[10:38:08] Server Plugins
+[10:38:08] --------------
+[10:38:08]  Loading plugin: sscanf
+[10:38:08] 
+[10:38:08]  ===============================
+[10:38:08] 
+[10:38:08]       sscanf plugin loaded.     
+[10:38:08] 
+[10:38:08]          Version: 2.13.8
+[10:38:08] 
+[10:38:08]    (c) 2022 Alex "Y_Less" Cole  
+[10:38:08] 
+[10:38:08]  ===============================
+[10:38:08] 
+[10:38:08]   Loaded.
+[10:38:08]  Loading plugin: dof2
+[10:38:09]   Failed.
+[10:38:09]  Loaded 1 plugins.
+
+[10:38:09] 
+[10:38:09] Filterscripts
+[10:38:09] ---------------
+[10:38:09]   Loaded 0 filterscripts.
+
+[10:38:09] [SERVER] Veiculos fixos carregados com sucesso!
+[10:38:09] Gamemode carregado com sucesso.
+[10:38:09] Number of vehicle models: 1
+[10:38:29] [connection] incoming connection: 127.0.0.1:52958 id: 0
+[10:38:29] [join] Storck has joined the server (0:127.0.0.1)
+[10:49:05] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:01:04] filterscripts = ""  (string)
+[11:01:04] 
+[11:01:04] Server Plugins
+[11:01:04] --------------
+[11:01:04]  Loading plugin: sscanf
+[11:01:04] 
+[11:01:04]  ===============================
+[11:01:04] 
+[11:01:04]       sscanf plugin loaded.     
+[11:01:04] 
+[11:01:04]          Version: 2.13.8
+[11:01:04] 
+[11:01:04]    (c) 2022 Alex "Y_Less" Cole  
+[11:01:04] 
+[11:01:04]  ===============================
+[11:01:04] 
+[11:01:04]   Loaded.
+[11:01:04]  Loading plugin: dof2
+[11:01:05]   Failed.
+[11:01:05]  Loaded 1 plugins.
+
+[11:01:05] 
+[11:01:05] Filterscripts
+[11:01:05] ---------------
+[11:01:05]   Loaded 0 filterscripts.
+
+[11:01:05] [SERVER] Veiculos fixos carregados com sucesso!
+[11:01:05] Server carregado com sucesso! by: Wallison Storck
+[11:01:05] Number of vehicle models: 1
+[11:01:26] [connection] incoming connection: 127.0.0.1:57200 id: 0
+[11:01:26] [join] Storck has joined the server (0:127.0.0.1)
+[11:14:19] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:20:05] filterscripts = ""  (string)
+[11:20:05] 
+[11:20:05] Server Plugins
+[11:20:05] --------------
+[11:20:05]  Loading plugin: sscanf
+[11:20:05] 
+[11:20:05]  ===============================
+[11:20:05] 
+[11:20:05]       sscanf plugin loaded.     
+[11:20:05] 
+[11:20:05]          Version: 2.13.8
+[11:20:05] 
+[11:20:05]    (c) 2022 Alex "Y_Less" Cole  
+[11:20:05] 
+[11:20:05]  ===============================
+[11:20:05] 
+[11:20:05]   Loaded.
+[11:20:05]  Loading plugin: dof2
+[11:20:07]   Failed.
+[11:20:07]  Loaded 1 plugins.
+
+[11:20:07] 
+[11:20:07] Filterscripts
+[11:20:07] ---------------
+[11:20:07]   Loaded 0 filterscripts.
+
+[11:20:07] [SERVER] Veiculos fixos carregados com sucesso!
+[11:20:07] Server carregado com sucesso! by: Wallison Storck
+[11:20:07] Number of vehicle models: 1
+[11:20:26] [connection] incoming connection: 127.0.0.1:65173 id: 0
+[11:20:26] [join] Storck has joined the server (0:127.0.0.1)
+[11:54:51] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:18:56] filterscripts = ""  (string)
+[12:18:56] 
+[12:18:56] Server Plugins
+[12:18:56] --------------
+[12:18:56]  Loading plugin: sscanf
+[12:18:56] 
+[12:18:56]  ===============================
+[12:18:56] 
+[12:18:56]       sscanf plugin loaded.     
+[12:18:56] 
+[12:18:56]          Version: 2.13.8
+[12:18:56] 
+[12:18:56]    (c) 2022 Alex "Y_Less" Cole  
+[12:18:56] 
+[12:18:56]  ===============================
+[12:18:56] 
+[12:18:56]   Loaded.
+[12:18:56]  Loading plugin: dof2
+[12:18:58]   Failed.
+[12:18:58]  Loaded 1 plugins.
+
+[12:18:58] 
+[12:18:58] Filterscripts
+[12:18:58] ---------------
+[12:18:58]   Loaded 0 filterscripts.
+
+[12:18:58] [SERVER] Veiculos fixos carregados com sucesso!
+[12:18:58] Server carregado com sucesso! by: Wallison Storck
+[12:18:58] Number of vehicle models: 1
+[12:19:19] [connection] incoming connection: 127.0.0.1:56290 id: 0
+[12:19:19] [join] Storck has joined the server (0:127.0.0.1)
+[12:25:53] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:49] filterscripts = ""  (string)
+[12:26:49] 
+[12:26:49] Server Plugins
+[12:26:49] --------------
+[12:26:49]  Loading plugin: sscanf
+[12:26:49] 
+[12:26:49]  ===============================
+[12:26:49] 
+[12:26:49]       sscanf plugin loaded.     
+[12:26:49] 
+[12:26:49]          Version: 2.13.8
+[12:26:49] 
+[12:26:49]    (c) 2022 Alex "Y_Less" Cole  
+[12:26:49] 
+[12:26:49]  ===============================
+[12:26:49] 
+[12:26:49]   Loaded.
+[12:26:49]  Loading plugin: dof2
+[12:26:50]   Failed.
+[12:26:50]  Loaded 1 plugins.
+
+[12:26:50] 
+[12:26:50] Filterscripts
+[12:26:50] ---------------
+[12:26:50]   Loaded 0 filterscripts.
+
+[12:26:50] [SERVER] Veiculos fixos carregados com sucesso!
+[12:26:50] Server carregado com sucesso! by: Wallison Storck
+[12:26:50] Number of vehicle models: 1
+[12:27:09] [connection] incoming connection: 127.0.0.1:63669 id: 0
+[12:27:10] [join] Storck has joined the server (0:127.0.0.1)
+[12:30:17] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:33:59] filterscripts = ""  (string)
+[14:33:59] 
+[14:33:59] Server Plugins
+[14:33:59] --------------
+[14:33:59]  Loading plugin: sscanf
+[14:33:59] 
+[14:33:59]  ===============================
+[14:33:59] 
+[14:33:59]       sscanf plugin loaded.     
+[14:33:59] 
+[14:33:59]          Version: 2.13.8
+[14:33:59] 
+[14:33:59]    (c) 2022 Alex "Y_Less" Cole  
+[14:33:59] 
+[14:33:59]  ===============================
+[14:33:59] 
+[14:33:59]   Loaded.
+[14:33:59]  Loading plugin: dof2
+[14:34:00]   Failed.
+[14:34:00]  Loaded 1 plugins.
+
+[14:34:00] 
+[14:34:00] Filterscripts
+[14:34:00] ---------------
+[14:34:00]   Loaded 0 filterscripts.
+
+[14:34:00] [SERVER] Veiculos fixos carregados com sucesso!
+[14:34:00] Server carregado com sucesso! by: Wallison Storck
+[14:34:00] Number of vehicle models: 1
+[14:34:22] [connection] incoming connection: 127.0.0.1:55513 id: 0
+[14:34:22] [join] Storck has joined the server (0:127.0.0.1)
+[14:36:22] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:40:11] filterscripts = ""  (string)
+[14:40:11] 
+[14:40:11] Server Plugins
+[14:40:11] --------------
+[14:40:11]  Loading plugin: sscanf
+[14:40:11] 
+[14:40:11]  ===============================
+[14:40:11] 
+[14:40:11]       sscanf plugin loaded.     
+[14:40:11] 
+[14:40:11]          Version: 2.13.8
+[14:40:11] 
+[14:40:11]    (c) 2022 Alex "Y_Less" Cole  
+[14:40:11] 
+[14:40:11]  ===============================
+[14:40:11] 
+[14:40:11]   Loaded.
+[14:40:11]  Loading plugin: dof2
+[14:40:12]   Failed.
+[14:40:12]  Loaded 1 plugins.
+
+[14:40:12] 
+[14:40:12] Filterscripts
+[14:40:12] ---------------
+[14:40:12]   Loaded 0 filterscripts.
+
+[14:40:12] [SERVER] Veiculos fixos carregados com sucesso!
+[14:40:12] Server carregado com sucesso! by: Wallison Storck
+[14:40:12] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:40:48] filterscripts = ""  (string)
+[14:40:48] 
+[14:40:48] Server Plugins
+[14:40:48] --------------
+[14:40:48]  Loading plugin: sscanf
+[14:40:48] 
+[14:40:48]  ===============================
+[14:40:48] 
+[14:40:48]       sscanf plugin loaded.     
+[14:40:48] 
+[14:40:48]          Version: 2.13.8
+[14:40:48] 
+[14:40:48]    (c) 2022 Alex "Y_Less" Cole  
+[14:40:48] 
+[14:40:48]  ===============================
+[14:40:48] 
+[14:40:48]   Loaded.
+[14:40:48]  Loading plugin: dof2
+[14:40:49]   Failed.
+[14:40:49]  Loaded 1 plugins.
+
+[14:40:49] 
+[14:40:49] Filterscripts
+[14:40:49] ---------------
+[14:40:49]   Loaded 0 filterscripts.
+
+[14:40:49] [SERVER] Veiculos fixos carregados com sucesso!
+[14:40:49] Server carregado com sucesso! by: Wallison Storck
+[14:40:49] Number of vehicle models: 1
+[14:41:15] [connection] incoming connection: 127.0.0.1:58770 id: 0
+[14:41:15] [join] Storck has joined the server (0:127.0.0.1)
+[14:47:14] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:48] filterscripts = ""  (string)
+[15:07:48] 
+[15:07:48] Server Plugins
+[15:07:48] --------------
+[15:07:48]  Loading plugin: sscanf
+[15:07:48] 
+[15:07:48]  ===============================
+[15:07:48] 
+[15:07:48]       sscanf plugin loaded.     
+[15:07:48] 
+[15:07:48]          Version: 2.13.8
+[15:07:48] 
+[15:07:48]    (c) 2022 Alex "Y_Less" Cole  
+[15:07:48] 
+[15:07:48]  ===============================
+[15:07:48] 
+[15:07:48]   Loaded.
+[15:07:48]  Loading plugin: dof2
+[15:07:50]   Failed.
+[15:07:50]  Loaded 1 plugins.
+
+[15:07:50] 
+[15:07:50] Filterscripts
+[15:07:50] ---------------
+[15:07:50]   Loaded 0 filterscripts.
+
+[15:07:50] [SERVER] Veiculos fixos carregados com sucesso!
+[15:07:50] Server carregado com sucesso! by: Wallison Storck
+[15:07:50] Number of vehicle models: 1
+[15:08:18] [connection] incoming connection: 127.0.0.1:52057 id: 0
+[15:08:19] [join] Storck has joined the server (0:127.0.0.1)
+[15:14:57] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:30:47] filterscripts = ""  (string)
+[17:30:47] 
+[17:30:47] Server Plugins
+[17:30:47] --------------
+[17:30:47]  Loading plugin: sscanf
+[17:30:47] 
+[17:30:47]  ===============================
+[17:30:47] 
+[17:30:47]       sscanf plugin loaded.     
+[17:30:47] 
+[17:30:47]          Version: 2.13.8
+[17:30:47] 
+[17:30:47]    (c) 2022 Alex "Y_Less" Cole  
+[17:30:47] 
+[17:30:47]  ===============================
+[17:30:47] 
+[17:30:47]   Loaded.
+[17:30:47]  Loading plugin: dof2
+[17:30:50]   Failed.
+[17:30:50]  Loaded 1 plugins.
+
+[17:30:50] 
+[17:30:50] Filterscripts
+[17:30:50] ---------------
+[17:30:50]   Loaded 0 filterscripts.
+
+[17:30:50] [SERVER] Veiculos fixos carregados com sucesso!
+[17:30:50] Server carregado com sucesso! by: Wallison Storck
+[17:30:50] Number of vehicle models: 1
+[17:31:14] [connection] incoming connection: 127.0.0.1:53399 id: 0
+[17:31:14] [join] Storck has joined the server (0:127.0.0.1)
+[17:37:17] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:01:29] filterscripts = ""  (string)
+[09:01:29] 
+[09:01:29] Server Plugins
+[09:01:29] --------------
+[09:01:29]  Loading plugin: sscanf
+[09:01:29] 
+[09:01:29]  ===============================
+[09:01:29] 
+[09:01:29]       sscanf plugin loaded.     
+[09:01:29] 
+[09:01:29]          Version: 2.13.8
+[09:01:29] 
+[09:01:29]    (c) 2022 Alex "Y_Less" Cole  
+[09:01:29] 
+[09:01:29]  ===============================
+[09:01:29] 
+[09:01:29]   Loaded.
+[09:01:29]  Loading plugin: dof2
+[09:01:32]   Failed.
+[09:01:32]  Loaded 1 plugins.
+
+[09:01:32] 
+[09:01:32] Filterscripts
+[09:01:32] ---------------
+[09:01:32]   Loaded 0 filterscripts.
+
+[09:01:32] [SERVER] Veiculos fixos carregados com sucesso!
+[09:01:32] Server carregado com sucesso! by: Wallison Storck
+[09:01:32] Number of vehicle models: 1
+[09:01:59] [connection] incoming connection: 127.0.0.1:53161 id: 0
+[09:02:00] [join] Storck has joined the server (0:127.0.0.1)
+[09:17:42] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:16:18] filterscripts = ""  (string)
+[10:16:18] 
+[10:16:18] Server Plugins
+[10:16:18] --------------
+[10:16:18]  Loading plugin: sscanf
+[10:16:18] 
+[10:16:18]  ===============================
+[10:16:18] 
+[10:16:18]       sscanf plugin loaded.     
+[10:16:18] 
+[10:16:18]          Version: 2.13.8
+[10:16:18] 
+[10:16:18]    (c) 2022 Alex "Y_Less" Cole  
+[10:16:18] 
+[10:16:18]  ===============================
+[10:16:18] 
+[10:16:18]   Loaded.
+[10:16:18]  Loading plugin: dof2
+[10:16:19]   Failed.
+[10:16:19]  Loaded 1 plugins.
+
+[10:16:19] 
+[10:16:19] Filterscripts
+[10:16:19] ---------------
+[10:16:19]   Loaded 0 filterscripts.
+
+[10:16:19] [SERVER] Veiculos fixos carregados com sucesso!
+[10:16:19] Server carregado com sucesso! by: Wallison Storck
+[10:16:19] Number of vehicle models: 1
+[10:16:44] [connection] incoming connection: 127.0.0.1:63813 id: 0
+[10:16:44] [join] Storck has joined the server (0:127.0.0.1)
+[10:18:27] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:32:20] filterscripts = ""  (string)
+[10:32:20] 
+[10:32:20] Server Plugins
+[10:32:20] --------------
+[10:32:20]  Loading plugin: sscanf
+[10:32:20] 
+[10:32:20]  ===============================
+[10:32:20] 
+[10:32:20]       sscanf plugin loaded.     
+[10:32:20] 
+[10:32:20]          Version: 2.13.8
+[10:32:20] 
+[10:32:20]    (c) 2022 Alex "Y_Less" Cole  
+[10:32:20] 
+[10:32:20]  ===============================
+[10:32:20] 
+[10:32:20]   Loaded.
+[10:32:20]  Loading plugin: dof2
+[10:32:21]   Failed.
+[10:32:21]  Loaded 1 plugins.
+
+[10:32:22] 
+[10:32:22] Filterscripts
+[10:32:22] ---------------
+[10:32:22]   Loaded 0 filterscripts.
+
+[10:32:22] [SERVER] Veiculos fixos carregados com sucesso!
+[10:32:22] Server carregado com sucesso! by: Wallison Storck
+[10:32:22] Number of vehicle models: 1
+[10:32:40] [connection] incoming connection: 127.0.0.1:54014 id: 0
+[10:32:40] [join] Storck has joined the server (0:127.0.0.1)
+[10:39:33] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:39:39] filterscripts = ""  (string)
+[10:39:39] 
+[10:39:39] Server Plugins
+[10:39:39] --------------
+[10:39:39]  Loading plugin: sscanf
+[10:39:39] 
+[10:39:39]  ===============================
+[10:39:39] 
+[10:39:39]       sscanf plugin loaded.     
+[10:39:39] 
+[10:39:39]          Version: 2.13.8
+[10:39:39] 
+[10:39:39]    (c) 2022 Alex "Y_Less" Cole  
+[10:39:39] 
+[10:39:39]  ===============================
+[10:39:39] 
+[10:39:39]   Loaded.
+[10:39:39]  Loading plugin: dof2
+[10:39:41]   Failed.
+[10:39:41]  Loaded 1 plugins.
+
+[10:39:41] 
+[10:39:41] Filterscripts
+[10:39:41] ---------------
+[10:39:41]   Loaded 0 filterscripts.
+
+[10:39:41] [SERVER] Veiculos fixos carregados com sucesso!
+[10:39:41] Server carregado com sucesso! by: Wallison Storck
+[10:39:41] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:24:08] filterscripts = ""  (string)
+[11:24:08] 
+[11:24:08] Server Plugins
+[11:24:08] --------------
+[11:24:08]  Loading plugin: sscanf
+[11:24:08] 
+[11:24:08]  ===============================
+[11:24:08] 
+[11:24:08]       sscanf plugin loaded.     
+[11:24:08] 
+[11:24:08]          Version: 2.13.8
+[11:24:08] 
+[11:24:08]    (c) 2022 Alex "Y_Less" Cole  
+[11:24:08] 
+[11:24:08]  ===============================
+[11:24:08] 
+[11:24:08]   Loaded.
+[11:24:08]  Loading plugin: dof2
+[11:24:10]   Failed.
+[11:24:10]  Loaded 1 plugins.
+
+[11:24:10] 
+[11:24:10] Filterscripts
+[11:24:10] ---------------
+[11:24:10]   Loaded 0 filterscripts.
+
+[11:24:10] [SERVER] Veiculos fixos carregados com sucesso!
+[11:24:10] Server carregado com sucesso! by: Wallison Storck
+[11:24:10] Number of vehicle models: 1
+[11:25:06] [connection] incoming connection: 127.0.0.1:62030 id: 0
+[11:25:06] [join] Storck has joined the server (0:127.0.0.1)
+[11:25:45] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:56] filterscripts = ""  (string)
+[11:28:56] 
+[11:28:56] Server Plugins
+[11:28:56] --------------
+[11:28:56]  Loading plugin: sscanf
+[11:28:56] 
+[11:28:56]  ===============================
+[11:28:56] 
+[11:28:56]       sscanf plugin loaded.     
+[11:28:56] 
+[11:28:56]          Version: 2.13.8
+[11:28:56] 
+[11:28:56]    (c) 2022 Alex "Y_Less" Cole  
+[11:28:56] 
+[11:28:56]  ===============================
+[11:28:56] 
+[11:28:56]   Loaded.
+[11:28:56]  Loading plugin: dof2
+[11:28:57]   Failed.
+[11:28:57]  Loaded 1 plugins.
+
+[11:28:57] 
+[11:28:57] Filterscripts
+[11:28:57] ---------------
+[11:28:57]   Loaded 0 filterscripts.
+
+[11:28:57] [SERVER] Veiculos fixos carregados com sucesso!
+[11:28:57] Server carregado com sucesso! by: Wallison Storck
+[11:28:57] Number of vehicle models: 1
+[11:29:17] [connection] incoming connection: 127.0.0.1:63674 id: 0
+[11:29:17] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:46:07] filterscripts = ""  (string)
+[11:46:07] 
+[11:46:07] Server Plugins
+[11:46:07] --------------
+[11:46:07]  Loading plugin: sscanf
+[11:46:07] 
+[11:46:07]  ===============================
+[11:46:07] 
+[11:46:07]       sscanf plugin loaded.     
+[11:46:07] 
+[11:46:07]          Version: 2.13.8
+[11:46:07] 
+[11:46:07]    (c) 2022 Alex "Y_Less" Cole  
+[11:46:07] 
+[11:46:07]  ===============================
+[11:46:07] 
+[11:46:07]   Loaded.
+[11:46:07]  Loading plugin: dof2
+[11:46:09]   Failed.
+[11:46:09]  Loaded 1 plugins.
+
+[11:46:09] 
+[11:46:09] Filterscripts
+[11:46:09] ---------------
+[11:46:09]   Loaded 0 filterscripts.
+
+[11:46:09] [SERVER] Veiculos fixos carregados com sucesso!
+[11:46:09] Server carregado com sucesso! by: Wallison Storck
+[11:46:09] Number of vehicle models: 1
+[11:46:33] [connection] incoming connection: 127.0.0.1:58986 id: 0
+[11:46:33] [join] Storck has joined the server (0:127.0.0.1)
+[11:47:43] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:57:04] filterscripts = ""  (string)
+[11:57:04] 
+[11:57:04] Server Plugins
+[11:57:04] --------------
+[11:57:04]  Loading plugin: sscanf
+[11:57:04] 
+[11:57:04]  ===============================
+[11:57:04] 
+[11:57:04]       sscanf plugin loaded.     
+[11:57:04] 
+[11:57:04]          Version: 2.13.8
+[11:57:04] 
+[11:57:04]    (c) 2022 Alex "Y_Less" Cole  
+[11:57:04] 
+[11:57:04]  ===============================
+[11:57:04] 
+[11:57:04]   Loaded.
+[11:57:04]  Loading plugin: dof2
+[11:57:05]   Failed.
+[11:57:05]  Loaded 1 plugins.
+
+[11:57:05] 
+[11:57:05] Filterscripts
+[11:57:05] ---------------
+[11:57:05]   Loaded 0 filterscripts.
+
+[11:57:05] [SERVER] Veiculos fixos carregados com sucesso!
+[11:57:05] Server carregado com sucesso! by: Wallison Storck
+[11:57:05] Number of vehicle models: 1
+[11:57:54] [connection] incoming connection: 127.0.0.1:59451 id: 0
+[11:57:54] [join] Storck has joined the server (0:127.0.0.1)
+[12:01:12] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:31] filterscripts = ""  (string)
+[12:09:31] 
+[12:09:31] Server Plugins
+[12:09:31] --------------
+[12:09:31]  Loading plugin: sscanf
+[12:09:31] 
+[12:09:31]  ===============================
+[12:09:31] 
+[12:09:31]       sscanf plugin loaded.     
+[12:09:31] 
+[12:09:31]          Version: 2.13.8
+[12:09:31] 
+[12:09:31]    (c) 2022 Alex "Y_Less" Cole  
+[12:09:31] 
+[12:09:31]  ===============================
+[12:09:31] 
+[12:09:31]   Loaded.
+[12:09:31]  Loading plugin: dof2
+[12:09:32]   Failed.
+[12:09:32]  Loaded 1 plugins.
+
+[12:09:32] 
+[12:09:32] Filterscripts
+[12:09:32] ---------------
+[12:09:32]   Loaded 0 filterscripts.
+
+[12:09:32] [SERVER] Veiculos fixos carregados com sucesso!
+[12:09:32] Server carregado com sucesso! by: Wallison Storck
+[12:09:32] Number of vehicle models: 1
+[12:09:51] [connection] incoming connection: 127.0.0.1:61126 id: 0
+[12:09:51] [join] Storck has joined the server (0:127.0.0.1)
+[12:17:50] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:20:03] filterscripts = ""  (string)
+[12:20:03] 
+[12:20:03] Server Plugins
+[12:20:03] --------------
+[12:20:03]  Loading plugin: sscanf
+[12:20:03] 
+[12:20:03]  ===============================
+[12:20:03] 
+[12:20:03]       sscanf plugin loaded.     
+[12:20:03] 
+[12:20:03]          Version: 2.13.8
+[12:20:03] 
+[12:20:03]    (c) 2022 Alex "Y_Less" Cole  
+[12:20:03] 
+[12:20:03]  ===============================
+[12:20:03] 
+[12:20:03]   Loaded.
+[12:20:03]  Loading plugin: dof2
+[12:20:04]   Failed.
+[12:20:04]  Loaded 1 plugins.
+
+[12:20:04] 
+[12:20:04] Filterscripts
+[12:20:04] ---------------
+[12:20:04]   Loaded 0 filterscripts.
+
+[12:20:04] [SERVER] Veiculos fixos carregados com sucesso!
+[12:20:04] Server carregado com sucesso! by: Wallison Storck
+[12:20:04] Number of vehicle models: 1
+[12:20:28] [connection] incoming connection: 127.0.0.1:50985 id: 0
+[12:20:29] [join] Storck has joined the server (0:127.0.0.1)
+[12:21:09] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:23:41] filterscripts = ""  (string)
+[12:23:41] 
+[12:23:41] Server Plugins
+[12:23:41] --------------
+[12:23:41]  Loading plugin: sscanf
+[12:23:41] 
+[12:23:41]  ===============================
+[12:23:41] 
+[12:23:41]       sscanf plugin loaded.     
+[12:23:41] 
+[12:23:41]          Version: 2.13.8
+[12:23:41] 
+[12:23:41]    (c) 2022 Alex "Y_Less" Cole  
+[12:23:41] 
+[12:23:41]  ===============================
+[12:23:41] 
+[12:23:41]   Loaded.
+[12:23:41]  Loading plugin: dof2
+[12:23:42]   Failed.
+[12:23:42]  Loaded 1 plugins.
+
+[12:23:42] 
+[12:23:42] Filterscripts
+[12:23:42] ---------------
+[12:23:42]   Loaded 0 filterscripts.
+
+[12:23:42] [SERVER] Veiculos fixos carregados com sucesso!
+[12:23:42] Server carregado com sucesso! by: Wallison Storck
+[12:23:42] Number of vehicle models: 1
+[12:24:04] [connection] incoming connection: 127.0.0.1:57039 id: 0
+[12:24:04] [join] Storck has joined the server (0:127.0.0.1)
+[12:24:16] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:25:57] filterscripts = ""  (string)
+[12:25:57] 
+[12:25:57] Server Plugins
+[12:25:57] --------------
+[12:25:57]  Loading plugin: sscanf
+[12:25:57] 
+[12:25:57]  ===============================
+[12:25:57] 
+[12:25:57]       sscanf plugin loaded.     
+[12:25:57] 
+[12:25:57]          Version: 2.13.8
+[12:25:57] 
+[12:25:57]    (c) 2022 Alex "Y_Less" Cole  
+[12:25:57] 
+[12:25:57]  ===============================
+[12:25:57] 
+[12:25:57]   Loaded.
+[12:25:57]  Loading plugin: dof2
+[12:25:58]   Failed.
+[12:25:58]  Loaded 1 plugins.
+
+[12:25:58] 
+[12:25:58] Filterscripts
+[12:25:58] ---------------
+[12:25:58]   Loaded 0 filterscripts.
+
+[12:25:58] [SERVER] Veiculos fixos carregados com sucesso!
+[12:25:58] Server carregado com sucesso! by: Wallison Storck
+[12:25:58] Number of vehicle models: 1
+[12:26:25] [connection] incoming connection: 127.0.0.1:55324 id: 0
+[12:26:25] [join] Storck has joined the server (0:127.0.0.1)
+[12:27:32] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:35:56] filterscripts = ""  (string)
+[14:35:56] 
+[14:35:56] Server Plugins
+[14:35:56] --------------
+[14:35:56]  Loading plugin: sscanf
+[14:35:56] 
+[14:35:56]  ===============================
+[14:35:56] 
+[14:35:56]       sscanf plugin loaded.     
+[14:35:56] 
+[14:35:56]          Version: 2.13.8
+[14:35:56] 
+[14:35:56]    (c) 2022 Alex "Y_Less" Cole  
+[14:35:56] 
+[14:35:56]  ===============================
+[14:35:56] 
+[14:35:56]   Loaded.
+[14:35:56]  Loading plugin: dof2
+[14:35:58]   Failed.
+[14:35:58]  Loaded 1 plugins.
+
+[14:35:58] 
+[14:35:58] Filterscripts
+[14:35:58] ---------------
+[14:35:58]   Loaded 0 filterscripts.
+
+[14:35:58] [SERVER] Veiculos fixos carregados com sucesso!
+[14:35:58] Server carregado com sucesso! by: Wallison Storck
+[14:35:58] Number of vehicle models: 1
+[14:36:17] [connection] incoming connection: 127.0.0.1:59975 id: 0
+[14:36:17] [join] Storck has joined the server (0:127.0.0.1)
+[14:43:23] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:37] filterscripts = ""  (string)
+[14:43:37] 
+[14:43:37] Server Plugins
+[14:43:37] --------------
+[14:43:37]  Loading plugin: sscanf
+[14:43:37] 
+[14:43:37]  ===============================
+[14:43:37] 
+[14:43:37]       sscanf plugin loaded.     
+[14:43:37] 
+[14:43:37]          Version: 2.13.8
+[14:43:37] 
+[14:43:37]    (c) 2022 Alex "Y_Less" Cole  
+[14:43:37] 
+[14:43:37]  ===============================
+[14:43:37] 
+[14:43:37]   Loaded.
+[14:43:37]  Loading plugin: dof2
+[14:43:38]   Failed.
+[14:43:38]  Loaded 1 plugins.
+
+[14:43:38] 
+[14:43:38] Filterscripts
+[14:43:38] ---------------
+[14:43:38]   Loaded 0 filterscripts.
+
+[14:43:38] [SERVER] Veiculos fixos carregados com sucesso!
+[14:43:38] Server carregado com sucesso! by: Wallison Storck
+[14:43:38] Number of vehicle models: 1
+[14:44:33] [connection] incoming connection: 127.0.0.1:50250 id: 0
+[14:44:33] [join] Storck has joined the server (0:127.0.0.1)
+[14:45:59] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:29] filterscripts = ""  (string)
+[14:46:29] 
+[14:46:29] Server Plugins
+[14:46:29] --------------
+[14:46:29]  Loading plugin: sscanf
+[14:46:29] 
+[14:46:29]  ===============================
+[14:46:29] 
+[14:46:29]       sscanf plugin loaded.     
+[14:46:29] 
+[14:46:29]          Version: 2.13.8
+[14:46:29] 
+[14:46:29]    (c) 2022 Alex "Y_Less" Cole  
+[14:46:29] 
+[14:46:29]  ===============================
+[14:46:29] 
+[14:46:29]   Loaded.
+[14:46:29]  Loading plugin: dof2
+[14:46:30]   Failed.
+[14:46:30]  Loaded 1 plugins.
+
+[14:46:30] 
+[14:46:30] Filterscripts
+[14:46:30] ---------------
+[14:46:30]   Loaded 0 filterscripts.
+
+[14:46:30] [SERVER] Veiculos fixos carregados com sucesso!
+[14:46:30] Server carregado com sucesso! by: Wallison Storck
+[14:46:30] Number of vehicle models: 1
+[14:46:50] [connection] incoming connection: 127.0.0.1:59698 id: 0
+[14:46:50] [join] Storck has joined the server (0:127.0.0.1)
+[14:47:41] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:47:58] filterscripts = ""  (string)
+[14:47:58] 
+[14:47:58] Server Plugins
+[14:47:58] --------------
+[14:47:58]  Loading plugin: sscanf
+[14:47:58] 
+[14:47:58]  ===============================
+[14:47:58] 
+[14:47:58]       sscanf plugin loaded.     
+[14:47:58] 
+[14:47:58]          Version: 2.13.8
+[14:47:58] 
+[14:47:58]    (c) 2022 Alex "Y_Less" Cole  
+[14:47:58] 
+[14:47:58]  ===============================
+[14:47:58] 
+[14:47:58]   Loaded.
+[14:47:58]  Loading plugin: dof2
+[14:47:59]   Failed.
+[14:47:59]  Loaded 1 plugins.
+
+[14:47:59] 
+[14:47:59] Filterscripts
+[14:47:59] ---------------
+[14:47:59]   Loaded 0 filterscripts.
+
+[14:47:59] [SERVER] Veiculos fixos carregados com sucesso!
+[14:47:59] Server carregado com sucesso! by: Wallison Storck
+[14:47:59] Number of vehicle models: 1
+[14:48:18] [connection] incoming connection: 127.0.0.1:57104 id: 0
+[14:48:18] [join] Storck has joined the server (0:127.0.0.1)
+[14:49:09] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:08:17] filterscripts = ""  (string)
+[15:08:17] 
+[15:08:17] Server Plugins
+[15:08:17] --------------
+[15:08:17]  Loading plugin: sscanf
+[15:08:17] 
+[15:08:17]  ===============================
+[15:08:17] 
+[15:08:17]       sscanf plugin loaded.     
+[15:08:17] 
+[15:08:17]          Version: 2.13.8
+[15:08:17] 
+[15:08:17]    (c) 2022 Alex "Y_Less" Cole  
+[15:08:17] 
+[15:08:17]  ===============================
+[15:08:17] 
+[15:08:17]   Loaded.
+[15:08:17]  Loading plugin: dof2
+[15:08:18]   Failed.
+[15:08:18]  Loaded 1 plugins.
+
+[15:08:18] 
+[15:08:18] Filterscripts
+[15:08:18] ---------------
+[15:08:18]   Loaded 0 filterscripts.
+
+[15:08:18] [SERVER] Veiculos fixos carregados com sucesso!
+[15:08:18] Server carregado com sucesso! by: Wallison Storck
+[15:08:18] Number of vehicle models: 1
+[15:08:48] [connection] incoming connection: 127.0.0.1:62112 id: 0
+[15:08:48] [join] Storck has joined the server (0:127.0.0.1)
+[15:10:09] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:35] filterscripts = ""  (string)
+[10:33:35] 
+[10:33:35] Server Plugins
+[10:33:35] --------------
+[10:33:35]  Loading plugin: sscanf
+[10:33:36] 
+[10:33:36]  ===============================
+[10:33:36] 
+[10:33:36]       sscanf plugin loaded.     
+[10:33:36] 
+[10:33:36]          Version: 2.13.8
+[10:33:36] 
+[10:33:36]    (c) 2022 Alex "Y_Less" Cole  
+[10:33:36] 
+[10:33:36]  ===============================
+[10:33:36] 
+[10:33:36]   Loaded.
+[10:33:36]  Loading plugin: dof2
+[10:33:37]   Failed.
+[10:33:37]  Loaded 1 plugins.
+
+[10:33:37] 
+[10:33:37] Filterscripts
+[10:33:37] ---------------
+[10:33:37]   Loaded 0 filterscripts.
+
+[10:33:37] [SERVER] Veiculos fixos carregados com sucesso!
+[10:33:37] 
+-------------------------------------------
+[10:33:37] Bem-vindo ao meu servidor SAMP by: Storck
+[10:33:37] 
+-------------------------------------------
+[10:33:37] Number of vehicle models: 1
+[10:34:07] [connection] incoming connection: 127.0.0.1:59732 id: 0
+[10:34:07] [join] Storck has joined the server (0:127.0.0.1)
+[11:03:33] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:20:27] filterscripts = ""  (string)
+[11:20:27] 
+[11:20:27] Server Plugins
+[11:20:27] --------------
+[11:20:27]  Loading plugin: sscanf
+[11:20:27] 
+[11:20:27]  ===============================
+[11:20:27] 
+[11:20:27]       sscanf plugin loaded.     
+[11:20:27] 
+[11:20:27]          Version: 2.13.8
+[11:20:27] 
+[11:20:27]    (c) 2022 Alex "Y_Less" Cole  
+[11:20:27] 
+[11:20:27]  ===============================
+[11:20:27] 
+[11:20:27]   Loaded.
+[11:20:27]  Loading plugin: dof2
+[11:20:28]   Failed.
+[11:20:28]  Loaded 1 plugins.
+
+[11:20:28] 
+[11:20:28] Filterscripts
+[11:20:28] ---------------
+[11:20:28]   Loaded 0 filterscripts.
+
+[11:20:28] [SERVER] Veiculos fixos carregados com sucesso!
+[11:20:28] 
+-------------------------------------------
+[11:20:28] Bem-vindo ao meu servidor SAMP by: Storck
+[11:20:28] 
+-------------------------------------------
+[11:20:28] Number of vehicle models: 1
+[11:20:48] [connection] incoming connection: 127.0.0.1:53191 id: 0
+[11:20:48] [join] Storck has joined the server (0:127.0.0.1)
+[11:23:19] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:19] filterscripts = ""  (string)
+[11:31:19] 
+[11:31:19] Server Plugins
+[11:31:19] --------------
+[11:31:19]  Loading plugin: sscanf
+[11:31:19] 
+[11:31:19]  ===============================
+[11:31:19] 
+[11:31:19]       sscanf plugin loaded.     
+[11:31:19] 
+[11:31:19]          Version: 2.13.8
+[11:31:19] 
+[11:31:19]    (c) 2022 Alex "Y_Less" Cole  
+[11:31:19] 
+[11:31:19]  ===============================
+[11:31:19] 
+[11:31:19]   Loaded.
+[11:31:19]  Loading plugin: dof2
+[11:31:20]   Failed.
+[11:31:20]  Loaded 1 plugins.
+
+[11:31:20] 
+[11:31:20] Filterscripts
+[11:31:20] ---------------
+[11:31:20]   Loaded 0 filterscripts.
+
+[11:31:20] [SERVER] Veiculos fixos carregados com sucesso!
+[11:31:20] 
+-------------------------------------------
+[11:31:20] Bem-vindo ao meu servidor SAMP by: Storck
+[11:31:20] 
+-------------------------------------------
+[11:31:20] Number of vehicle models: 1
+[11:31:40] [connection] incoming connection: 127.0.0.1:56852 id: 0
+[11:31:40] [join] Storck has joined the server (0:127.0.0.1)
+[11:34:35] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:48:44] filterscripts = ""  (string)
+[11:48:44] 
+[11:48:44] Server Plugins
+[11:48:44] --------------
+[11:48:44]  Loading plugin: sscanf
+[11:48:44] 
+[11:48:44]  ===============================
+[11:48:44] 
+[11:48:44]       sscanf plugin loaded.     
+[11:48:44] 
+[11:48:44]          Version: 2.13.8
+[11:48:44] 
+[11:48:44]    (c) 2022 Alex "Y_Less" Cole  
+[11:48:44] 
+[11:48:44]  ===============================
+[11:48:44] 
+[11:48:44]   Loaded.
+[11:48:44]  Loading plugin: dof2
+[11:48:45]   Failed.
+[11:48:45]  Loaded 1 plugins.
+
+[11:48:45] 
+[11:48:45] Filterscripts
+[11:48:45] ---------------
+[11:48:45]   Loaded 0 filterscripts.
+
+[11:48:45] [SERVER] Veiculos fixos carregados com sucesso!
+[11:48:45] 
+-------------------------------------------
+[11:48:45] Bem-vindo ao meu servidor SAMP by: Storck
+[11:48:45] 
+-------------------------------------------
+[11:48:45] Number of vehicle models: 1
+[11:49:04] [connection] incoming connection: 127.0.0.1:61037 id: 0
+[11:49:04] [join] Storck has joined the server (0:127.0.0.1)
+[11:49:33] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:49:38] filterscripts = ""  (string)
+[11:49:38] 
+[11:49:38] Server Plugins
+[11:49:38] --------------
+[11:49:38]  Loading plugin: sscanf
+[11:49:38] 
+[11:49:38]  ===============================
+[11:49:38] 
+[11:49:38]       sscanf plugin loaded.     
+[11:49:38] 
+[11:49:38]          Version: 2.13.8
+[11:49:38] 
+[11:49:38]    (c) 2022 Alex "Y_Less" Cole  
+[11:49:38] 
+[11:49:38]  ===============================
+[11:49:38] 
+[11:49:38]   Loaded.
+[11:49:38]  Loading plugin: dof2
+[11:49:39]   Failed.
+[11:49:39]  Loaded 1 plugins.
+
+[11:49:39] 
+[11:49:39] Filterscripts
+[11:49:39] ---------------
+[11:49:39]   Loaded 0 filterscripts.
+
+[11:49:39] [SERVER] Veiculos fixos carregados com sucesso!
+[11:49:39] 
+-------------------------------------------
+[11:49:39] Bem-vindo ao meu servidor SAMP by: Storck
+[11:49:39] 
+-------------------------------------------
+[11:49:39] Number of vehicle models: 1
+[11:50:02] [connection] incoming connection: 127.0.0.1:55312 id: 0
+[11:50:02] [join] Storck has joined the server (0:127.0.0.1)
+[11:54:46] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:55:03] filterscripts = ""  (string)
+[11:55:03] 
+[11:55:03] Server Plugins
+[11:55:03] --------------
+[11:55:03]  Loading plugin: sscanf
+[11:55:03] 
+[11:55:03]  ===============================
+[11:55:03] 
+[11:55:03]       sscanf plugin loaded.     
+[11:55:03] 
+[11:55:03]          Version: 2.13.8
+[11:55:03] 
+[11:55:03]    (c) 2022 Alex "Y_Less" Cole  
+[11:55:03] 
+[11:55:03]  ===============================
+[11:55:03] 
+[11:55:03]   Loaded.
+[11:55:03]  Loading plugin: dof2
+[11:55:04]   Failed.
+[11:55:04]  Loaded 1 plugins.
+
+[11:55:04] 
+[11:55:04] Filterscripts
+[11:55:04] ---------------
+[11:55:04]   Loaded 0 filterscripts.
+
+[11:55:04] [SERVER] Veiculos fixos carregados com sucesso!
+[11:55:04] 
+-------------------------------------------
+[11:55:04] Bem-vindo ao meu servidor SAMP by: Storck
+[11:55:04] 
+-------------------------------------------
+[11:55:04] Number of vehicle models: 1
+[11:55:25] [connection] incoming connection: 127.0.0.1:61493 id: 0
+[11:55:25] [join] Storck has joined the server (0:127.0.0.1)
+[11:57:29] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:58:37] filterscripts = ""  (string)
+[11:58:37] 
+[11:58:37] Server Plugins
+[11:58:37] --------------
+[11:58:37]  Loading plugin: sscanf
+[11:58:37] 
+[11:58:37]  ===============================
+[11:58:37] 
+[11:58:37]       sscanf plugin loaded.     
+[11:58:37] 
+[11:58:37]          Version: 2.13.8
+[11:58:37] 
+[11:58:37]    (c) 2022 Alex "Y_Less" Cole  
+[11:58:37] 
+[11:58:37]  ===============================
+[11:58:37] 
+[11:58:37]   Loaded.
+[11:58:37]  Loading plugin: dof2
+[11:58:38]   Failed.
+[11:58:38]  Loaded 1 plugins.
+
+[11:58:38] 
+[11:58:38] Filterscripts
+[11:58:38] ---------------
+[11:58:38]   Loaded 0 filterscripts.
+
+[11:58:38] [SERVER] Veiculos fixos carregados com sucesso!
+[11:58:38] ------------------------------
+[11:58:38]  TESTE DE CRIAÇÃO DE ARQUIVO 
+[11:58:38] ------------------------------
+[11:58:38] [SUCESSO] Arquivo POSITION_TEST.txt criado com sucesso!
+[11:58:38] 
+-------------------------------------------
+[11:58:38] Bem-vindo ao meu servidor SAMP by: Storck
+[11:58:38] 
+-------------------------------------------
+[11:58:38] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:03:29] filterscripts = ""  (string)
+[12:03:29] 
+[12:03:29] Server Plugins
+[12:03:29] --------------
+[12:03:29]  Loading plugin: sscanf
+[12:03:29] 
+[12:03:29]  ===============================
+[12:03:29] 
+[12:03:29]       sscanf plugin loaded.     
+[12:03:29] 
+[12:03:29]          Version: 2.13.8
+[12:03:29] 
+[12:03:29]    (c) 2022 Alex "Y_Less" Cole  
+[12:03:29] 
+[12:03:29]  ===============================
+[12:03:29] 
+[12:03:29]   Loaded.
+[12:03:29]  Loading plugin: dof2
+[12:03:30]   Failed.
+[12:03:30]  Loaded 1 plugins.
+
+[12:03:30] 
+[12:03:30] Filterscripts
+[12:03:30] ---------------
+[12:03:30]   Loaded 0 filterscripts.
+
+[12:03:30] [SERVER] Veiculos fixos carregados com sucesso!
+[12:03:30] 
+-------------------------------------------
+[12:03:30] Bem-vindo ao meu servidor SAMP by: Storck
+[12:03:30] 
+-------------------------------------------
+[12:03:30] Number of vehicle models: 1
+[12:03:58] [connection] incoming connection: 127.0.0.1:53489 id: 0
+[12:03:58] [join] Storck has joined the server (0:127.0.0.1)
+[12:12:45] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:11] filterscripts = ""  (string)
+[12:13:11] 
+[12:13:11] Server Plugins
+[12:13:11] --------------
+[12:13:11]  Loading plugin: sscanf
+[12:13:11] 
+[12:13:11]  ===============================
+[12:13:11] 
+[12:13:11]       sscanf plugin loaded.     
+[12:13:11] 
+[12:13:11]          Version: 2.13.8
+[12:13:11] 
+[12:13:11]    (c) 2022 Alex "Y_Less" Cole  
+[12:13:11] 
+[12:13:11]  ===============================
+[12:13:11] 
+[12:13:11]   Loaded.
+[12:13:11]  Loading plugin: dof2
+[12:13:12]   Failed.
+[12:13:12]  Loaded 1 plugins.
+
+[12:13:12] 
+[12:13:12] Filterscripts
+[12:13:12] ---------------
+[12:13:12]   Loaded 0 filterscripts.
+
+[12:13:12] [SERVER] Veiculos fixos carregados com sucesso!
+[12:13:12] 
+-------------------------------------------
+[12:13:12] Bem-vindo ao meu servidor SAMP by: Storck
+[12:13:12] 
+-------------------------------------------
+[12:13:12] Number of vehicle models: 1
+[12:13:32] [connection] incoming connection: 127.0.0.1:58819 id: 0
+[12:13:33] [join] Storck has joined the server (0:127.0.0.1)
+[12:14:24] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:24:59] filterscripts = ""  (string)
+[14:24:59] 
+[14:24:59] Server Plugins
+[14:24:59] --------------
+[14:24:59]  Loading plugin: sscanf
+[14:24:59] 
+[14:24:59]  ===============================
+[14:24:59] 
+[14:24:59]       sscanf plugin loaded.     
+[14:24:59] 
+[14:24:59]          Version: 2.13.8
+[14:24:59] 
+[14:24:59]    (c) 2022 Alex "Y_Less" Cole  
+[14:24:59] 
+[14:24:59]  ===============================
+[14:24:59] 
+[14:24:59]   Loaded.
+[14:24:59]  Loading plugin: dof2
+[14:25:02]   Failed.
+[14:25:02]  Loaded 1 plugins.
+
+[14:25:02] 
+[14:25:02] Filterscripts
+[14:25:02] ---------------
+[14:25:02]   Loaded 0 filterscripts.
+
+[14:25:02] [SERVER] Veiculos fixos carregados com sucesso!
+[14:25:02] 
+-------------------------------------------
+[14:25:02] Bem-vindo ao meu servidor SAMP by: Storck
+[14:25:02] 
+-------------------------------------------
+[14:25:02] Number of vehicle models: 1
+[14:25:28] [connection] incoming connection: 127.0.0.1:53538 id: 0
+[14:25:28] [join] Storck has joined the server (0:127.0.0.1)
+[14:27:41] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:34:03] filterscripts = ""  (string)
+[14:34:03] 
+[14:34:03] Server Plugins
+[14:34:03] --------------
+[14:34:03]  Loading plugin: sscanf
+[14:34:03] 
+[14:34:03]  ===============================
+[14:34:03] 
+[14:34:03]       sscanf plugin loaded.     
+[14:34:03] 
+[14:34:03]          Version: 2.13.8
+[14:34:03] 
+[14:34:03]    (c) 2022 Alex "Y_Less" Cole  
+[14:34:03] 
+[14:34:03]  ===============================
+[14:34:03] 
+[14:34:03]   Loaded.
+[14:34:03]  Loading plugin: dof2
+[14:34:13]   Failed.
+[14:34:13]  Loaded 1 plugins.
+
+[14:34:13] 
+[14:34:13] Filterscripts
+[14:34:13] ---------------
+[14:34:13]   Loaded 0 filterscripts.
+
+[14:34:13] [SERVER] Veiculos fixos carregados com sucesso!
+[14:34:13] 
+-------------------------------------------
+[14:34:13] Bem-vindo ao meu servidor SAMP by: Storck
+[14:34:13] 
+-------------------------------------------
+[14:34:13] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:34:27] filterscripts = ""  (string)
+[14:34:27] 
+[14:34:27] Server Plugins
+[14:34:27] --------------
+[14:34:27]  Loading plugin: sscanf
+[14:34:27] 
+[14:34:27]  ===============================
+[14:34:27] 
+[14:34:27]       sscanf plugin loaded.     
+[14:34:27] 
+[14:34:27]          Version: 2.13.8
+[14:34:27] 
+[14:34:27]    (c) 2022 Alex "Y_Less" Cole  
+[14:34:27] 
+[14:34:27]  ===============================
+[14:34:27] 
+[14:34:27]   Loaded.
+[14:34:27]  Loading plugin: dof2
+[14:34:27]   Failed.
+[14:34:27]  Loaded 1 plugins.
+
+[14:34:27] 
+[14:34:27] Filterscripts
+[14:34:27] ---------------
+[14:34:27]   Loaded 0 filterscripts.
+
+[14:34:27] [SERVER] Veiculos fixos carregados com sucesso!
+[14:34:27] 
+-------------------------------------------
+[14:34:27] Bem-vindo ao meu servidor SAMP by: Storck
+[14:34:27] 
+-------------------------------------------
+[14:34:27] Number of vehicle models: 1
+[14:35:02] [connection] incoming connection: 127.0.0.1:51178 id: 0
+[14:35:02] [join] Storck has joined the server (0:127.0.0.1)
+[14:37:09] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:03] filterscripts = ""  (string)
+[14:59:03] 
+[14:59:03] Server Plugins
+[14:59:03] --------------
+[14:59:03]  Loading plugin: sscanf
+[14:59:03] 
+[14:59:03]  ===============================
+[14:59:03] 
+[14:59:03]       sscanf plugin loaded.     
+[14:59:03] 
+[14:59:03]          Version: 2.13.8
+[14:59:03] 
+[14:59:03]    (c) 2022 Alex "Y_Less" Cole  
+[14:59:03] 
+[14:59:03]  ===============================
+[14:59:03] 
+[14:59:03]   Loaded.
+[14:59:03]  Loading plugin: dof2
+[14:59:03]   Failed.
+[14:59:03]  Loaded 1 plugins.
+
+[14:59:03] 
+[14:59:03] Filterscripts
+[14:59:03] ---------------
+[14:59:03]   Loaded 0 filterscripts.
+
+[14:59:03] [SERVER] Veiculos fixos carregados com sucesso!
+[14:59:03] 
+-------------------------------------------
+[14:59:03] Bem-vindo ao meu servidor SAMP by: Storck
+[14:59:03] 
+-------------------------------------------
+[14:59:03] Number of vehicle models: 1
+[14:59:27] [connection] incoming connection: 127.0.0.1:54078 id: 0
+[14:59:27] [join] Storck has joined the server (0:127.0.0.1)
+[15:03:11] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:56:23] filterscripts = ""  (string)
+[08:56:23] 
+[08:56:23] Server Plugins
+[08:56:23] --------------
+[08:56:23]  Loading plugin: sscanf
+[08:56:23] 
+[08:56:23]  ===============================
+[08:56:23] 
+[08:56:23]       sscanf plugin loaded.     
+[08:56:23] 
+[08:56:23]          Version: 2.13.8
+[08:56:23] 
+[08:56:23]    (c) 2022 Alex "Y_Less" Cole  
+[08:56:23] 
+[08:56:23]  ===============================
+[08:56:23] 
+[08:56:23]   Loaded.
+[08:56:23]  Loading plugin: dof2
+[08:56:23]   Failed.
+[08:56:23]  Loaded 1 plugins.
+
+[08:56:23] 
+[08:56:23] Filterscripts
+[08:56:23] ---------------
+[08:56:23]   Loaded 0 filterscripts.
+
+[08:56:23] [SERVER] Veiculos fixos carregados com sucesso!
+[08:56:23] 
+-------------------------------------------
+[08:56:23] Bem-vindo ao meu servidor SAMP by: Storck
+[08:56:23] 
+-------------------------------------------
+[08:56:23] Number of vehicle models: 1
+[08:56:53] [connection] incoming connection: 127.0.0.1:55051 id: 0
+[08:56:54] [join] Storck has joined the server (0:127.0.0.1)
+[09:01:09] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:06:17] filterscripts = ""  (string)
+[09:06:17] 
+[09:06:17] Server Plugins
+[09:06:17] --------------
+[09:06:17]  Loading plugin: sscanf
+[09:06:17] 
+[09:06:17]  ===============================
+[09:06:17] 
+[09:06:17]       sscanf plugin loaded.     
+[09:06:17] 
+[09:06:17]          Version: 2.13.8
+[09:06:17] 
+[09:06:17]    (c) 2022 Alex "Y_Less" Cole  
+[09:06:17] 
+[09:06:17]  ===============================
+[09:06:17] 
+[09:06:17]   Loaded.
+[09:06:17]  Loading plugin: dof2
+[09:06:17]   Failed.
+[09:06:17]  Loaded 1 plugins.
+
+[09:06:17] 
+[09:06:17] Filterscripts
+[09:06:17] ---------------
+[09:06:17]   Loaded 0 filterscripts.
+
+[09:06:17] [SERVER] Veiculos fixos carregados com sucesso!
+[09:06:17] 
+-------------------------------------------
+[09:06:17] Bem-vindo ao meu servidor SAMP by: Storck
+[09:06:17] 
+-------------------------------------------
+[09:06:17] Number of vehicle models: 1
+[09:06:37] [connection] incoming connection: 127.0.0.1:55509 id: 0
+[09:06:37] [join] Storck has joined the server (0:127.0.0.1)
+[09:12:15] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:44:03] filterscripts = ""  (string)
+[10:44:03] 
+[10:44:03] Server Plugins
+[10:44:03] --------------
+[10:44:03]  Loading plugin: sscanf
+[10:44:03] 
+[10:44:03]  ===============================
+[10:44:03] 
+[10:44:03]       sscanf plugin loaded.     
+[10:44:03] 
+[10:44:03]          Version: 2.13.8
+[10:44:03] 
+[10:44:03]    (c) 2022 Alex "Y_Less" Cole  
+[10:44:03] 
+[10:44:03]  ===============================
+[10:44:03] 
+[10:44:03]   Loaded.
+[10:44:03]  Loading plugin: dof2
+[10:44:03]   Failed.
+[10:44:03]  Loaded 1 plugins.
+
+[10:44:03] 
+[10:44:03] Filterscripts
+[10:44:03] ---------------
+[10:44:03]   Loaded 0 filterscripts.
+
+[10:44:03] [SERVER] Veiculos fixos carregados com sucesso!
+[10:44:03] 
+-------------------------------------------
+[10:44:03] Bem-vindo ao meu servidor SAMP by: Storck
+[10:44:03] 
+-------------------------------------------
+[10:44:03] Number of vehicle models: 1
+[10:44:37] [connection] incoming connection: 127.0.0.1:51941 id: 0
+[10:44:38] [join] Storck has joined the server (0:127.0.0.1)
+[10:50:25] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:10:52] filterscripts = ""  (string)
+[16:10:52] 
+[16:10:52] Server Plugins
+[16:10:52] --------------
+[16:10:52]  Loading plugin: sscanf
+[16:10:52] 
+[16:10:52]  ===============================
+[16:10:52] 
+[16:10:52]       sscanf plugin loaded.     
+[16:10:52] 
+[16:10:52]          Version: 2.13.8
+[16:10:52] 
+[16:10:52]    (c) 2022 Alex "Y_Less" Cole  
+[16:10:52] 
+[16:10:52]  ===============================
+[16:10:52] 
+[16:10:52]   Loaded.
+[16:10:52]  Loading plugin: dof2
+[16:10:52]   Failed.
+[16:10:52]  Loaded 1 plugins.
+
+[16:10:52] 
+[16:10:52] Filterscripts
+[16:10:52] ---------------
+[16:10:52]   Loaded 0 filterscripts.
+
+[16:10:52] [SERVER] Veiculos fixos carregados com sucesso!
+[16:10:52] 
+-------------------------------------------
+[16:10:52] Bem-vindo ao meu servidor SAMP by: Storck
+[16:10:52] 
+-------------------------------------------
+[16:10:52] Number of vehicle models: 1
+[16:11:16] [connection] incoming connection: 127.0.0.1:60956 id: 0
+[16:11:17] [join] Storck has joined the server (0:127.0.0.1)
+[16:21:38] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:41:28] filterscripts = ""  (string)
+[09:41:28] 
+[09:41:28] Server Plugins
+[09:41:28] --------------
+[09:41:28]  Loading plugin: sscanf
+[09:41:28] 
+[09:41:28]  ===============================
+[09:41:28] 
+[09:41:28]       sscanf plugin loaded.     
+[09:41:28] 
+[09:41:28]          Version: 2.13.8
+[09:41:28] 
+[09:41:28]    (c) 2022 Alex "Y_Less" Cole  
+[09:41:28] 
+[09:41:28]  ===============================
+[09:41:28] 
+[09:41:28]   Loaded.
+[09:41:28]  Loading plugin: dof2
+[09:41:28]   Failed.
+[09:41:28]  Loaded 1 plugins.
+
+[09:41:28] 
+[09:41:28] Filterscripts
+[09:41:28] ---------------
+[09:41:28]   Loaded 0 filterscripts.
+
+[09:41:28] [SERVER] Veiculos fixos carregados com sucesso!
+[09:41:28] 
+-------------------------------------------
+[09:41:28]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:41:28] 
+-------------------------------------------
+[09:41:28] Number of vehicle models: 1
+[09:41:55] [connection] incoming connection: 127.0.0.1:55712 id: 0
+[09:41:55] [join] Storck has joined the server (0:127.0.0.1)
+[09:46:14] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:43:09] filterscripts = ""  (string)
+[10:43:09] 
+[10:43:09] Server Plugins
+[10:43:09] --------------
+[10:43:09]  Loading plugin: sscanf
+[10:43:09] 
+[10:43:09]  ===============================
+[10:43:09] 
+[10:43:09]       sscanf plugin loaded.     
+[10:43:09] 
+[10:43:09]          Version: 2.13.8
+[10:43:09] 
+[10:43:09]    (c) 2022 Alex "Y_Less" Cole  
+[10:43:09] 
+[10:43:09]  ===============================
+[10:43:09] 
+[10:43:09]   Loaded.
+[10:43:09]  Loading plugin: dof2
+[10:43:09]   Failed.
+[10:43:09]  Loaded 1 plugins.
+
+[10:43:09] 
+[10:43:09] Filterscripts
+[10:43:09] ---------------
+[10:43:09]   Loaded 0 filterscripts.
+
+[10:43:09] [SERVER] Veiculos fixos carregados com sucesso!
+[10:43:09] 
+-------------------------------------------------------------
+[10:43:09]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:43:09] 
+-------------------------------------------------------------
+[10:43:09] Number of vehicle models: 1
+[10:43:39] [connection] incoming connection: 127.0.0.1:60751 id: 0
+[10:43:39] [join] Storck has joined the server (0:127.0.0.1)
+[10:46:59] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:59:45] filterscripts = ""  (string)
+[10:59:45] 
+[10:59:45] Server Plugins
+[10:59:45] --------------
+[10:59:45]  Loading plugin: sscanf
+[10:59:45] 
+[10:59:45]  ===============================
+[10:59:45] 
+[10:59:45]       sscanf plugin loaded.     
+[10:59:45] 
+[10:59:45]          Version: 2.13.8
+[10:59:45] 
+[10:59:45]    (c) 2022 Alex "Y_Less" Cole  
+[10:59:45] 
+[10:59:45]  ===============================
+[10:59:45] 
+[10:59:45]   Loaded.
+[10:59:45]  Loading plugin: dof2
+[10:59:45]   Failed.
+[10:59:45]  Loaded 1 plugins.
+
+[10:59:45] 
+[10:59:45] Filterscripts
+[10:59:45] ---------------
+[10:59:45]   Loaded 0 filterscripts.
+
+[10:59:45] [SERVER] Veiculos fixos carregados com sucesso!
+[10:59:45] 
+--------------------------------------------------------------
+[10:59:45]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:59:45] 
+--------------------------------------------------------------
+[10:59:45] Number of vehicle models: 1
+[11:00:33] [connection] incoming connection: 127.0.0.1:57883 id: 0
+[11:00:33] [join] Storck has joined the server (0:127.0.0.1)
+[11:01:35] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:02:18] filterscripts = ""  (string)
+[11:02:18] 
+[11:02:18] Server Plugins
+[11:02:18] --------------
+[11:02:18]  Loading plugin: sscanf
+[11:02:18] 
+[11:02:18]  ===============================
+[11:02:18] 
+[11:02:18]       sscanf plugin loaded.     
+[11:02:18] 
+[11:02:18]          Version: 2.13.8
+[11:02:18] 
+[11:02:18]    (c) 2022 Alex "Y_Less" Cole  
+[11:02:18] 
+[11:02:18]  ===============================
+[11:02:18] 
+[11:02:18]   Loaded.
+[11:02:18]  Loading plugin: dof2
+[11:02:18]   Failed.
+[11:02:18]  Loaded 1 plugins.
+
+[11:02:18] 
+[11:02:18] Filterscripts
+[11:02:18] ---------------
+[11:02:18]   Loaded 0 filterscripts.
+
+[11:02:18] [SERVER] Veiculos fixos carregados com sucesso!
+[11:02:18] 
+--------------------------------------------------------------
+[11:02:18]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:02:18] 
+--------------------------------------------------------------
+[11:02:18] Number of vehicle models: 1
+[11:02:37] [connection] incoming connection: 127.0.0.1:55753 id: 0
+[11:02:37] [join] Storck has joined the server (0:127.0.0.1)
+[11:02:56] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:04:29] filterscripts = ""  (string)
+[11:04:29] 
+[11:04:29] Server Plugins
+[11:04:29] --------------
+[11:04:29]  Loading plugin: sscanf
+[11:04:29] 
+[11:04:29]  ===============================
+[11:04:29] 
+[11:04:29]       sscanf plugin loaded.     
+[11:04:29] 
+[11:04:29]          Version: 2.13.8
+[11:04:29] 
+[11:04:29]    (c) 2022 Alex "Y_Less" Cole  
+[11:04:29] 
+[11:04:29]  ===============================
+[11:04:29] 
+[11:04:29]   Loaded.
+[11:04:29]  Loading plugin: dof2
+[11:04:29]   Failed.
+[11:04:29]  Loaded 1 plugins.
+
+[11:04:29] 
+[11:04:29] Filterscripts
+[11:04:29] ---------------
+[11:04:29]   Loaded 0 filterscripts.
+
+[11:04:29] [SERVER] Veiculos fixos carregados com sucesso!
+[11:04:29] 
+--------------------------------------------------------------
+[11:04:29]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:04:29] 
+--------------------------------------------------------------
+[11:04:29] Number of vehicle models: 1
+[11:04:49] [connection] incoming connection: 127.0.0.1:50465 id: 0
+[11:04:50] [join] Storck has joined the server (0:127.0.0.1)
+[11:05:10] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:05:56] filterscripts = ""  (string)
+[11:05:56] 
+[11:05:56] Server Plugins
+[11:05:56] --------------
+[11:05:56]  Loading plugin: sscanf
+[11:05:56] 
+[11:05:56]  ===============================
+[11:05:56] 
+[11:05:56]       sscanf plugin loaded.     
+[11:05:56] 
+[11:05:56]          Version: 2.13.8
+[11:05:56] 
+[11:05:56]    (c) 2022 Alex "Y_Less" Cole  
+[11:05:56] 
+[11:05:56]  ===============================
+[11:05:56] 
+[11:05:56]   Loaded.
+[11:05:56]  Loading plugin: dof2
+[11:05:56]   Failed.
+[11:05:56]  Loaded 1 plugins.
+
+[11:05:56] 
+[11:05:56] Filterscripts
+[11:05:56] ---------------
+[11:05:56]   Loaded 0 filterscripts.
+
+[11:05:56] [SERVER] Veiculos fixos carregados com sucesso!
+[11:05:56] 
+--------------------------------------------------------------
+[11:05:56]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:05:56] 
+--------------------------------------------------------------
+[11:05:56] Number of vehicle models: 1
+[11:06:15] [connection] incoming connection: 127.0.0.1:56871 id: 0
+[11:06:15] [join] Storck has joined the server (0:127.0.0.1)
+[11:08:25] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:21] filterscripts = ""  (string)
+[21:54:21] 
+[21:54:21] Server Plugins
+[21:54:21] --------------
+[21:54:21]  Loading plugin: sscanf
+[21:54:21] 
+[21:54:21]  ===============================
+[21:54:21] 
+[21:54:21]       sscanf plugin loaded.     
+[21:54:21] 
+[21:54:21]          Version: 2.13.8
+[21:54:21] 
+[21:54:21]    (c) 2022 Alex "Y_Less" Cole  
+[21:54:21] 
+[21:54:21]  ===============================
+[21:54:21] 
+[21:54:21]   Loaded.
+[21:54:21]  Loading plugin: dof2
+[21:54:21]   Failed.
+[21:54:21]  Loaded 1 plugins.
+
+[21:54:21] 
+[21:54:21] Filterscripts
+[21:54:21] ---------------
+[21:54:21]   Loaded 0 filterscripts.
+
+[21:54:21] [SERVER] Veiculos fixos carregados com sucesso!
+[21:54:21] 
+--------------------------------------------------------------
+[21:54:21]   Bem-vindo ao meu servidor SAMP by: Storck
+[21:54:21] 
+--------------------------------------------------------------
+[21:54:21] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:39] filterscripts = ""  (string)
+[21:54:39] 
+[21:54:39] Server Plugins
+[21:54:39] --------------
+[21:54:39]  Loading plugin: sscanf
+[21:54:39] 
+[21:54:39]  ===============================
+[21:54:39] 
+[21:54:39]       sscanf plugin loaded.     
+[21:54:39] 
+[21:54:39]          Version: 2.13.8
+[21:54:39] 
+[21:54:39]    (c) 2022 Alex "Y_Less" Cole  
+[21:54:39] 
+[21:54:39]  ===============================
+[21:54:39] 
+[21:54:39]   Loaded.
+[21:54:39]  Loading plugin: dof2
+[21:54:39]   Failed.
+[21:54:39]  Loaded 1 plugins.
+
+[21:54:39] 
+[21:54:39] Filterscripts
+[21:54:39] ---------------
+[21:54:39]   Loaded 0 filterscripts.
+
+[21:54:39] [SERVER] Veiculos fixos carregados com sucesso!
+[21:54:39] 
+--------------------------------------------------------------
+[21:54:39]   Bem-vindo ao meu servidor SAMP by: Storck
+[21:54:39] 
+--------------------------------------------------------------
+[21:54:39] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:07] filterscripts = ""  (string)
+[21:55:07] 
+[21:55:07] Server Plugins
+[21:55:07] --------------
+[21:55:07]  Loading plugin: sscanf
+[21:55:07] 
+[21:55:07]  ===============================
+[21:55:07] 
+[21:55:07]       sscanf plugin loaded.     
+[21:55:07] 
+[21:55:07]          Version: 2.13.8
+[21:55:07] 
+[21:55:07]    (c) 2022 Alex "Y_Less" Cole  
+[21:55:07] 
+[21:55:07]  ===============================
+[21:55:07] 
+[21:55:07]   Loaded.
+[21:55:07]  Loading plugin: dof2
+[21:55:07]   Failed.
+[21:55:07]  Loaded 1 plugins.
+
+[21:55:07] 
+[21:55:07] Filterscripts
+[21:55:07] ---------------
+[21:55:07]   Loaded 0 filterscripts.
+
+[21:55:07] [SERVER] Veiculos fixos carregados com sucesso!
+[21:55:07] 
+--------------------------------------------------------------
+[21:55:07]   Bem-vindo ao meu servidor SAMP by: Storck
+[21:55:07] 
+--------------------------------------------------------------
+[21:55:07] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:40] filterscripts = ""  (string)
+[21:56:40] 
+[21:56:40] Server Plugins
+[21:56:40] --------------
+[21:56:40]  Loading plugin: sscanf
+[21:56:40] 
+[21:56:40]  ===============================
+[21:56:40] 
+[21:56:40]       sscanf plugin loaded.     
+[21:56:40] 
+[21:56:40]          Version: 2.13.8
+[21:56:40] 
+[21:56:40]    (c) 2022 Alex "Y_Less" Cole  
+[21:56:40] 
+[21:56:40]  ===============================
+[21:56:40] 
+[21:56:40]   Loaded.
+[21:56:40]  Loading plugin: dof2
+[21:56:40]   Failed.
+[21:56:40]  Loaded 1 plugins.
+
+[21:56:40] 
+[21:56:40] Filterscripts
+[21:56:40] ---------------
+[21:56:40]   Loaded 0 filterscripts.
+
+[21:56:40] [SERVER] Veiculos fixos carregados com sucesso!
+[21:56:40] 
+--------------------------------------------------------------
+[21:56:40]   Bem-vindo ao meu servidor SAMP by: Storck
+[21:56:40] 
+--------------------------------------------------------------
+[21:56:40] Number of vehicle models: 1
+[21:57:11] [connection] incoming connection: 127.0.0.1:60471 id: 0
+[21:57:11] [join] Storck has joined the server (0:127.0.0.1)
+[22:03:08] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:22:48] filterscripts = ""  (string)
+[22:22:48] 
+[22:22:48] Server Plugins
+[22:22:48] --------------
+[22:22:48]  Loading plugin: sscanf
+[22:22:48] 
+[22:22:48]  ===============================
+[22:22:48] 
+[22:22:48]       sscanf plugin loaded.     
+[22:22:48] 
+[22:22:48]          Version: 2.13.8
+[22:22:48] 
+[22:22:48]    (c) 2022 Alex "Y_Less" Cole  
+[22:22:48] 
+[22:22:48]  ===============================
+[22:22:48] 
+[22:22:48]   Loaded.
+[22:22:48]  Loading plugin: dof2
+[22:22:48]   Failed.
+[22:22:48]  Loaded 1 plugins.
+
+[22:22:48] 
+[22:22:48] Filterscripts
+[22:22:48] ---------------
+[22:22:48]   Loaded 0 filterscripts.
+
+[22:22:48] [SERVER] Veiculos fixos carregados com sucesso!
+[22:22:48] 
+--------------------------------------------------------------
+[22:22:48]   Bem-vindo ao meu servidor SAMP by: Storck
+[22:22:48] 
+--------------------------------------------------------------
+[22:22:48] Number of vehicle models: 1
+[22:23:15] [connection] incoming connection: 127.0.0.1:53223 id: 0
+[22:23:15] [join] Storck has joined the server (0:127.0.0.1)
+[22:41:58] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:22] filterscripts = ""  (string)
+[23:22:22] 
+[23:22:22] Server Plugins
+[23:22:22] --------------
+[23:22:22]  Loading plugin: sscanf
+[23:22:22] 
+[23:22:22]  ===============================
+[23:22:22] 
+[23:22:22]       sscanf plugin loaded.     
+[23:22:22] 
+[23:22:22]          Version: 2.13.8
+[23:22:22] 
+[23:22:22]    (c) 2022 Alex "Y_Less" Cole  
+[23:22:22] 
+[23:22:22]  ===============================
+[23:22:22] 
+[23:22:22]   Loaded.
+[23:22:22]  Loading plugin: dof2
+[23:22:22]   Failed.
+[23:22:22]  Loaded 1 plugins.
+
+[23:22:22] 
+[23:22:22] Filterscripts
+[23:22:22] ---------------
+[23:22:22]   Loaded 0 filterscripts.
+
+[23:22:22] [SERVER] Veiculos fixos carregados com sucesso!
+[23:22:22] 
+--------------------------------------------------------------
+[23:22:22]   Bem-vindo ao meu servidor SAMP by: Storck
+[23:22:22] 
+--------------------------------------------------------------
+[23:22:22] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:10:21] filterscripts = ""  (string)
+[01:10:21] 
+[01:10:21] Server Plugins
+[01:10:21] --------------
+[01:10:21]  Loading plugin: sscanf
+[01:10:21] 
+[01:10:21]  ===============================
+[01:10:21] 
+[01:10:21]       sscanf plugin loaded.     
+[01:10:21] 
+[01:10:21]          Version: 2.13.8
+[01:10:21] 
+[01:10:21]    (c) 2022 Alex "Y_Less" Cole  
+[01:10:21] 
+[01:10:21]  ===============================
+[01:10:21] 
+[01:10:21]   Loaded.
+[01:10:21]  Loading plugin: dof2
+[01:10:21]   Failed.
+[01:10:21]  Loaded 1 plugins.
+
+[01:10:21] 
+[01:10:21] Filterscripts
+[01:10:21] ---------------
+[01:10:21]   Loaded 0 filterscripts.
+
+[01:10:21] [SERVER] Veiculos fixos carregados com sucesso!
+[01:10:21] 
+--------------------------------------------------------------
+[01:10:21]   Bem-vindo ao meu servidor SAMP by: Storck
+[01:10:21] 
+--------------------------------------------------------------
+[01:10:21] Number of vehicle models: 1
+[01:10:47] [connection] incoming connection: 127.0.0.1:62358 id: 0
+[01:10:47] [join] Storck has joined the server (0:127.0.0.1)
+[01:13:21] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:13:29] filterscripts = ""  (string)
+[01:13:29] 
+[01:13:29] Server Plugins
+[01:13:29] --------------
+[01:13:29]  Loading plugin: sscanf
+[01:13:29] 
+[01:13:29]  ===============================
+[01:13:29] 
+[01:13:29]       sscanf plugin loaded.     
+[01:13:29] 
+[01:13:29]          Version: 2.13.8
+[01:13:29] 
+[01:13:29]    (c) 2022 Alex "Y_Less" Cole  
+[01:13:29] 
+[01:13:29]  ===============================
+[01:13:29] 
+[01:13:29]   Loaded.
+[01:13:29]  Loading plugin: dof2
+[01:13:29]   Failed.
+[01:13:29]  Loaded 1 plugins.
+
+[01:13:29] 
+[01:13:29] Filterscripts
+[01:13:29] ---------------
+[01:13:29]   Loaded 0 filterscripts.
+
+[01:13:29] [SERVER] Veiculos fixos carregados com sucesso!
+[01:13:29] 
+--------------------------------------------------------------
+[01:13:29]   Bem-vindo ao meu servidor SAMP by: Storck
+[01:13:29] 
+--------------------------------------------------------------
+[01:13:29] Number of vehicle models: 1
+[01:13:49] [connection] incoming connection: 127.0.0.1:50594 id: 0
+[01:13:50] [join] Storck has joined the server (0:127.0.0.1)
+[01:14:08] [part] Storck has left the server (0:1)
+[01:16:26] [connection] incoming connection: 127.0.0.1:50619 id: 0
+[01:16:27] [join] Storck has joined the server (0:127.0.0.1)
+[01:17:55] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:18:03] filterscripts = ""  (string)
+[01:18:03] 
+[01:18:03] Server Plugins
+[01:18:03] --------------
+[01:18:03]  Loading plugin: sscanf
+[01:18:03] 
+[01:18:03]  ===============================
+[01:18:03] 
+[01:18:03]       sscanf plugin loaded.     
+[01:18:03] 
+[01:18:03]          Version: 2.13.8
+[01:18:03] 
+[01:18:03]    (c) 2022 Alex "Y_Less" Cole  
+[01:18:03] 
+[01:18:03]  ===============================
+[01:18:03] 
+[01:18:03]   Loaded.
+[01:18:03]  Loading plugin: dof2
+[01:18:03]   Failed.
+[01:18:03]  Loaded 1 plugins.
+
+[01:18:03] 
+[01:18:03] Filterscripts
+[01:18:03] ---------------
+[01:18:03]   Loaded 0 filterscripts.
+
+[01:18:03] [SERVER] Veículos fixos carregados com sucesso!
+[01:18:03] 
+---------------------------------------------------------------
+[01:18:03]   Bem-vindo ao meu servidor SAMP by: Storck
+[01:18:03] 
+---------------------------------------------------------------
+[01:18:03] Number of vehicle models: 1
+[01:18:24] [connection] incoming connection: 127.0.0.1:51951 id: 0
+[01:18:24] [join] Storck has joined the server (0:127.0.0.1)
+[01:26:13] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:01:29] filterscripts = ""  (string)
+[01:01:29] 
+[01:01:29] Server Plugins
+[01:01:29] --------------
+[01:01:29]  Loading plugin: sscanf
+[01:01:29] 
+[01:01:29]  ===============================
+[01:01:29] 
+[01:01:29]       sscanf plugin loaded.     
+[01:01:29] 
+[01:01:29]          Version: 2.13.8
+[01:01:29] 
+[01:01:29]    (c) 2022 Alex "Y_Less" Cole  
+[01:01:29] 
+[01:01:29]  ===============================
+[01:01:29] 
+[01:01:29]   Loaded.
+[01:01:29]  Loading plugin: dof2
+[01:01:29]   Failed.
+[01:01:29]  Loaded 1 plugins.
+
+[01:01:29] 
+[01:01:29] Filterscripts
+[01:01:29] ---------------
+[01:01:29]   Loaded 0 filterscripts.
+
+[01:01:29] [SERVER] Veículos fixos carregados com sucesso!
+[01:01:29] 
+---------------------------------------------------------------
+[01:01:29]   Bem-vindo ao meu servidor SAMP by: Storck
+[01:01:29] 
+---------------------------------------------------------------
+[01:01:29] Number of vehicle models: 1
+[01:01:54] [connection] incoming connection: 127.0.0.1:54537 id: 0
+[01:01:54] [join] Storck has joined the server (0:127.0.0.1)
+[01:07:07] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:07:36] filterscripts = ""  (string)
+[01:07:36] 
+[01:07:36] Server Plugins
+[01:07:36] --------------
+[01:07:36]  Loading plugin: sscanf
+[01:07:36] 
+[01:07:36]  ===============================
+[01:07:36] 
+[01:07:36]       sscanf plugin loaded.     
+[01:07:36] 
+[01:07:36]          Version: 2.13.8
+[01:07:36] 
+[01:07:36]    (c) 2022 Alex "Y_Less" Cole  
+[01:07:36] 
+[01:07:36]  ===============================
+[01:07:36] 
+[01:07:36]   Loaded.
+[01:07:36]  Loading plugin: dof2
+[01:07:36]   Failed.
+[01:07:36]  Loaded 1 plugins.
+
+[01:07:36] 
+[01:07:36] Filterscripts
+[01:07:36] ---------------
+[01:07:36]   Loaded 0 filterscripts.
+
+[01:07:36] [SERVER] Veículos fixos carregados com sucesso!
+[01:07:36] 
+---------------------------------------------------------------
+[01:07:36]   Bem-vindo ao meu servidor SAMP by: Storck
+[01:07:36] 
+---------------------------------------------------------------
+[01:07:36] Number of vehicle models: 1
+[01:07:58] [connection] incoming connection: 127.0.0.1:63002 id: 0
+[01:07:58] [join] Storck has joined the server (0:127.0.0.1)
+[01:10:17] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:48:59] filterscripts = ""  (string)
+[08:48:59] 
+[08:48:59] Server Plugins
+[08:48:59] --------------
+[08:48:59]  Loading plugin: sscanf
+[08:48:59] 
+[08:48:59]  ===============================
+[08:48:59] 
+[08:48:59]       sscanf plugin loaded.     
+[08:48:59] 
+[08:48:59]          Version: 2.13.8
+[08:48:59] 
+[08:48:59]    (c) 2022 Alex "Y_Less" Cole  
+[08:48:59] 
+[08:48:59]  ===============================
+[08:48:59] 
+[08:48:59]   Loaded.
+[08:48:59]  Loading plugin: dof2
+[08:48:59]   Failed.
+[08:48:59]  Loaded 1 plugins.
+
+[08:48:59] 
+[08:48:59] Filterscripts
+[08:48:59] ---------------
+[08:48:59]   Loaded 0 filterscripts.
+
+[08:48:59] [SERVER] Veículos fixos carregados com sucesso!
+[08:48:59] 
+---------------------------------------------------------------
+[08:48:59]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:48:59] 
+---------------------------------------------------------------
+[08:48:59] Number of vehicle models: 1
+[08:49:23] [connection] incoming connection: 127.0.0.1:49937 id: 0
+[08:49:24] [join] Storck has joined the server (0:127.0.0.1)
+[08:52:49] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:58:13] filterscripts = ""  (string)
+[08:58:13] 
+[08:58:13] Server Plugins
+[08:58:13] --------------
+[08:58:13]  Loading plugin: sscanf
+[08:58:13] 
+[08:58:13]  ===============================
+[08:58:13] 
+[08:58:13]       sscanf plugin loaded.     
+[08:58:13] 
+[08:58:13]          Version: 2.13.8
+[08:58:13] 
+[08:58:13]    (c) 2022 Alex "Y_Less" Cole  
+[08:58:13] 
+[08:58:13]  ===============================
+[08:58:13] 
+[08:58:13]   Loaded.
+[08:58:13]  Loading plugin: dof2
+[08:58:13]   Failed.
+[08:58:13]  Loaded 1 plugins.
+
+[08:58:13] 
+[08:58:13] Filterscripts
+[08:58:13] ---------------
+[08:58:13]   Loaded 0 filterscripts.
+
+[08:58:13] [SERVER] Veículos fixos carregados com sucesso!
+[08:58:13] 
+---------------------------------------------------------------
+[08:58:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:58:13] 
+---------------------------------------------------------------
+[08:58:13] Number of vehicle models: 1
+[08:58:39] [connection] incoming connection: 127.0.0.1:60773 id: 0
+[08:58:39] [join] Storck has joined the server (0:127.0.0.1)
+[09:00:12] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:03:11] filterscripts = ""  (string)
+[09:03:11] 
+[09:03:11] Server Plugins
+[09:03:11] --------------
+[09:03:11]  Loading plugin: sscanf
+[09:03:11] 
+[09:03:11]  ===============================
+[09:03:11] 
+[09:03:11]       sscanf plugin loaded.     
+[09:03:11] 
+[09:03:11]          Version: 2.13.8
+[09:03:11] 
+[09:03:11]    (c) 2022 Alex "Y_Less" Cole  
+[09:03:11] 
+[09:03:11]  ===============================
+[09:03:11] 
+[09:03:11]   Loaded.
+[09:03:11]  Loading plugin: dof2
+[09:03:11]   Failed.
+[09:03:11]  Loaded 1 plugins.
+
+[09:03:11] 
+[09:03:11] Filterscripts
+[09:03:11] ---------------
+[09:03:11]   Loaded 0 filterscripts.
+
+[09:03:11] [SERVER] Veículos fixos carregados com sucesso!
+[09:03:11] 
+---------------------------------------------------------------
+[09:03:11]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:03:11] 
+---------------------------------------------------------------
+[09:03:11] Number of vehicle models: 1
+[09:03:30] [connection] incoming connection: 127.0.0.1:64441 id: 0
+[09:03:31] [join] Storck has joined the server (0:127.0.0.1)
+[09:04:24] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:06:55] filterscripts = ""  (string)
+[09:06:55] 
+[09:06:55] Server Plugins
+[09:06:55] --------------
+[09:06:55]  Loading plugin: sscanf
+[09:06:55] 
+[09:06:55]  ===============================
+[09:06:55] 
+[09:06:55]       sscanf plugin loaded.     
+[09:06:55] 
+[09:06:55]          Version: 2.13.8
+[09:06:55] 
+[09:06:55]    (c) 2022 Alex "Y_Less" Cole  
+[09:06:55] 
+[09:06:55]  ===============================
+[09:06:55] 
+[09:06:55]   Loaded.
+[09:06:55]  Loading plugin: dof2
+[09:06:55]   Failed.
+[09:06:55]  Loaded 1 plugins.
+
+[09:06:55] 
+[09:06:55] Filterscripts
+[09:06:55] ---------------
+[09:06:55]   Loaded 0 filterscripts.
+
+[09:06:55] [SERVER] Veículos fixos carregados com sucesso!
+[09:06:55] 
+---------------------------------------------------------------
+[09:06:55]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:06:55] 
+---------------------------------------------------------------
+[09:06:55] Number of vehicle models: 1
+[09:07:32] [connection] incoming connection: 127.0.0.1:63862 id: 0
+[09:07:32] [join] Storck has joined the server (0:127.0.0.1)
+[09:11:26] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:19:54] filterscripts = ""  (string)
+[09:19:54] 
+[09:19:54] Server Plugins
+[09:19:54] --------------
+[09:19:54]  Loading plugin: sscanf
+[09:19:54] 
+[09:19:54]  ===============================
+[09:19:54] 
+[09:19:54]       sscanf plugin loaded.     
+[09:19:54] 
+[09:19:54]          Version: 2.13.8
+[09:19:54] 
+[09:19:54]    (c) 2022 Alex "Y_Less" Cole  
+[09:19:54] 
+[09:19:54]  ===============================
+[09:19:54] 
+[09:19:54]   Loaded.
+[09:19:54]  Loading plugin: dof2
+[09:19:54]   Failed.
+[09:19:54]  Loaded 1 plugins.
+
+[09:19:54] 
+[09:19:54] Filterscripts
+[09:19:54] ---------------
+[09:19:54]   Loaded 0 filterscripts.
+
+[09:19:54] [SERVER] Veículos fixos carregados com sucesso!
+[09:19:54] 
+---------------------------------------------------------------
+[09:19:54]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:19:54] 
+---------------------------------------------------------------
+[09:19:54] Number of vehicle models: 1
+[09:20:17] [connection] incoming connection: 127.0.0.1:64738 id: 0
+[09:20:17] [join] Storck has joined the server (0:127.0.0.1)
+[09:45:43] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:09:08] filterscripts = ""  (string)
+[10:09:08] 
+[10:09:08] Server Plugins
+[10:09:08] --------------
+[10:09:08]  Loading plugin: sscanf
+[10:09:08] 
+[10:09:08]  ===============================
+[10:09:08] 
+[10:09:08]       sscanf plugin loaded.     
+[10:09:08] 
+[10:09:08]          Version: 2.13.8
+[10:09:08] 
+[10:09:08]    (c) 2022 Alex "Y_Less" Cole  
+[10:09:08] 
+[10:09:08]  ===============================
+[10:09:08] 
+[10:09:08]   Loaded.
+[10:09:08]  Loading plugin: dof2
+[10:09:08]   Failed.
+[10:09:08]  Loaded 1 plugins.
+
+[10:09:09] 
+[10:09:09] Filterscripts
+[10:09:09] ---------------
+[10:09:09]   Loaded 0 filterscripts.
+
+[10:09:09] [SERVER] Veículos fixos carregados com sucesso!
+[10:09:09] 
+---------------------------------------------------------------
+[10:09:09]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:09:09] 
+---------------------------------------------------------------
+[10:09:09] Number of vehicle models: 1
+[10:09:28] [connection] incoming connection: 127.0.0.1:61831 id: 0
+[10:09:28] [join] Storck has joined the server (0:127.0.0.1)
+[10:17:40] [part] Storck has left the server (0:1)
+[10:18:08] [connection] incoming connection: 127.0.0.1:59391 id: 0
+[10:18:09] [join] Storck has joined the server (0:127.0.0.1)
+[10:18:30] [part] Storck has left the server (0:1)
+[10:20:53] [connection] incoming connection: 127.0.0.1:62891 id: 0
+[10:20:53] [join] Storck has joined the server (0:127.0.0.1)
+[10:24:53] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:33] filterscripts = ""  (string)
+[10:25:33] 
+[10:25:33] Server Plugins
+[10:25:33] --------------
+[10:25:33]  Loading plugin: sscanf
+[10:25:33] 
+[10:25:33]  ===============================
+[10:25:33] 
+[10:25:33]       sscanf plugin loaded.     
+[10:25:33] 
+[10:25:33]          Version: 2.13.8
+[10:25:33] 
+[10:25:33]    (c) 2022 Alex "Y_Less" Cole  
+[10:25:33] 
+[10:25:33]  ===============================
+[10:25:33] 
+[10:25:33]   Loaded.
+[10:25:33]  Loading plugin: dof2
+[10:25:33]   Failed.
+[10:25:33]  Loaded 1 plugins.
+
+[10:25:33] 
+[10:25:33] Filterscripts
+[10:25:33] ---------------
+[10:25:33]   Loaded 0 filterscripts.
+
+[10:25:33] [SERVER] Veículos fixos carregados com sucesso!
+[10:25:33] 
+---------------------------------------------------------------
+[10:25:33]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:25:33] 
+---------------------------------------------------------------
+[10:25:33] Number of vehicle models: 1
+[10:25:53] [connection] incoming connection: 127.0.0.1:57333 id: 0
+[10:25:54] [join] Storck has joined the server (0:127.0.0.1)
+[10:27:12] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:27:52] filterscripts = ""  (string)
+[10:27:52] 
+[10:27:52] Server Plugins
+[10:27:52] --------------
+[10:27:52]  Loading plugin: sscanf
+[10:27:52] 
+[10:27:52]  ===============================
+[10:27:52] 
+[10:27:52]       sscanf plugin loaded.     
+[10:27:52] 
+[10:27:52]          Version: 2.13.8
+[10:27:52] 
+[10:27:52]    (c) 2022 Alex "Y_Less" Cole  
+[10:27:52] 
+[10:27:52]  ===============================
+[10:27:52] 
+[10:27:52]   Loaded.
+[10:27:52]  Loading plugin: dof2
+[10:27:52]   Failed.
+[10:27:52]  Loaded 1 plugins.
+
+[10:27:52] 
+[10:27:52] Filterscripts
+[10:27:52] ---------------
+[10:27:52]   Loaded 0 filterscripts.
+
+[10:27:52] [SERVER] Veículos fixos carregados com sucesso!
+[10:27:52] 
+---------------------------------------------------------------
+[10:27:52]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:27:52] 
+---------------------------------------------------------------
+[10:27:52] Number of vehicle models: 1
+[10:28:10] [connection] incoming connection: 127.0.0.1:57211 id: 0
+[10:28:10] [join] Storck has joined the server (0:127.0.0.1)
+[10:32:35] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:36:13] filterscripts = ""  (string)
+[10:36:13] 
+[10:36:13] Server Plugins
+[10:36:13] --------------
+[10:36:13]  Loading plugin: sscanf
+[10:36:13] 
+[10:36:13]  ===============================
+[10:36:13] 
+[10:36:13]       sscanf plugin loaded.     
+[10:36:13] 
+[10:36:13]          Version: 2.13.8
+[10:36:13] 
+[10:36:13]    (c) 2022 Alex "Y_Less" Cole  
+[10:36:13] 
+[10:36:13]  ===============================
+[10:36:13] 
+[10:36:13]   Loaded.
+[10:36:13]  Loading plugin: dof2
+[10:36:13]   Failed.
+[10:36:13]  Loaded 1 plugins.
+
+[10:36:13] 
+[10:36:13] Filterscripts
+[10:36:13] ---------------
+[10:36:13]   Loaded 0 filterscripts.
+
+[10:36:13] [SERVER] Veículos fixos carregados com sucesso!
+[10:36:13] 
+---------------------------------------------------------------
+[10:36:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:36:13] 
+---------------------------------------------------------------
+[10:36:13] Number of vehicle models: 1
+[10:36:31] [connection] incoming connection: 127.0.0.1:52909 id: 0
+[10:36:31] [join] Storck has joined the server (0:127.0.0.1)
+[10:39:58] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:54:24] filterscripts = ""  (string)
+[09:54:24] 
+[09:54:24] Server Plugins
+[09:54:24] --------------
+[09:54:24]  Loading plugin: sscanf
+[09:54:24] 
+[09:54:24]  ===============================
+[09:54:24] 
+[09:54:24]       sscanf plugin loaded.     
+[09:54:24] 
+[09:54:24]          Version: 2.13.8
+[09:54:24] 
+[09:54:24]    (c) 2022 Alex "Y_Less" Cole  
+[09:54:24] 
+[09:54:24]  ===============================
+[09:54:24] 
+[09:54:24]   Loaded.
+[09:54:24]  Loading plugin: dof2
+[09:54:24]   Failed.
+[09:54:24]  Loaded 1 plugins.
+
+[09:54:24] 
+[09:54:24] Filterscripts
+[09:54:24] ---------------
+[09:54:24]   Loaded 0 filterscripts.
+
+[09:54:24] [SERVER] Veículos fixos carregados com sucesso!
+[09:54:24] 
+---------------------------------------------------------------
+[09:54:24]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:54:24] 
+---------------------------------------------------------------
+[09:54:24] Number of vehicle models: 1
+[09:56:02] [connection] incoming connection: 127.0.0.1:51369 id: 0
+[09:56:03] [join] Storck has joined the server (0:127.0.0.1)
+[10:08:45] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:19:16] filterscripts = ""  (string)
+[10:19:16] 
+[10:19:16] Server Plugins
+[10:19:16] --------------
+[10:19:16]  Loading plugin: sscanf
+[10:19:16] 
+[10:19:16]  ===============================
+[10:19:16] 
+[10:19:16]       sscanf plugin loaded.     
+[10:19:16] 
+[10:19:16]          Version: 2.13.8
+[10:19:16] 
+[10:19:16]    (c) 2022 Alex "Y_Less" Cole  
+[10:19:16] 
+[10:19:16]  ===============================
+[10:19:16] 
+[10:19:16]   Loaded.
+[10:19:16]  Loading plugin: dof2
+[10:19:16]   Failed.
+[10:19:16]  Loaded 1 plugins.
+
+[10:19:16] 
+[10:19:16] Filterscripts
+[10:19:16] ---------------
+[10:19:16]   Loaded 0 filterscripts.
+
+[10:19:16] 
+----------------------------------
+[10:19:16]   Rivershell by Kye 2006-2013
+
+[10:19:16] ----------------------------------
+
+[10:19:16] Number of vehicle models: 3
+[10:19:38] [connection] incoming connection: 127.0.0.1:51998 id: 0
+[10:19:38] [join] Storck has joined the server (0:127.0.0.1)
+[10:25:20] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:45] filterscripts = ""  (string)
+[10:25:45] 
+[10:25:45] Server Plugins
+[10:25:45] --------------
+[10:25:45]  Loading plugin: sscanf
+[10:25:45] 
+[10:25:45]  ===============================
+[10:25:45] 
+[10:25:45]       sscanf plugin loaded.     
+[10:25:45] 
+[10:25:45]          Version: 2.13.8
+[10:25:45] 
+[10:25:45]    (c) 2022 Alex "Y_Less" Cole  
+[10:25:45] 
+[10:25:45]  ===============================
+[10:25:45] 
+[10:25:45]   Loaded.
+[10:25:45]  Loading plugin: dof2
+[10:25:45]   Failed.
+[10:25:45]  Loaded 1 plugins.
+
+[10:25:45] 
+[10:25:45] Filterscripts
+[10:25:45] ---------------
+[10:25:45]   Loaded 0 filterscripts.
+
+[10:25:45] [SERVER] Veículos fixos carregados com sucesso!
+[10:25:45] 
+---------------------------------------------------------------
+[10:25:45]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:25:45] 
+---------------------------------------------------------------
+[10:25:45] Number of vehicle models: 1
+[10:26:30] [connection] incoming connection: 127.0.0.1:58767 id: 0
+[10:26:31] [join] Storck has joined the server (0:127.0.0.1)
+[10:38:30] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:20:13] filterscripts = ""  (string)
+[11:20:13] 
+[11:20:13] Server Plugins
+[11:20:13] --------------
+[11:20:13]  Loading plugin: sscanf
+[11:20:13] 
+[11:20:13]  ===============================
+[11:20:13] 
+[11:20:13]       sscanf plugin loaded.     
+[11:20:13] 
+[11:20:13]          Version: 2.13.8
+[11:20:13] 
+[11:20:13]    (c) 2022 Alex "Y_Less" Cole  
+[11:20:13] 
+[11:20:13]  ===============================
+[11:20:13] 
+[11:20:13]   Loaded.
+[11:20:13]  Loading plugin: dof2
+[11:20:13]   Failed.
+[11:20:13]  Loaded 1 plugins.
+
+[11:20:13] 
+[11:20:13] Filterscripts
+[11:20:13] ---------------
+[11:20:13]   Loaded 0 filterscripts.
+
+[11:20:13] [SERVER] Veículos fixos carregados com sucesso!
+[11:20:13] 
+---------------------------------------------------------------
+[11:20:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:20:13] 
+---------------------------------------------------------------
+[11:20:13] Number of vehicle models: 2
+[11:20:34] [connection] incoming connection: 127.0.0.1:54871 id: 0
+[11:20:34] [join] Storck has joined the server (0:127.0.0.1)
+[11:26:57] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:29:55] filterscripts = ""  (string)
+[11:29:55] 
+[11:29:55] Server Plugins
+[11:29:55] --------------
+[11:29:55]  Loading plugin: sscanf
+[11:29:55] 
+[11:29:55]  ===============================
+[11:29:55] 
+[11:29:55]       sscanf plugin loaded.     
+[11:29:55] 
+[11:29:55]          Version: 2.13.8
+[11:29:55] 
+[11:29:55]    (c) 2022 Alex "Y_Less" Cole  
+[11:29:55] 
+[11:29:55]  ===============================
+[11:29:55] 
+[11:29:55]   Loaded.
+[11:29:55]  Loading plugin: dof2
+[11:29:55]   Failed.
+[11:29:55]  Loaded 1 plugins.
+
+[11:29:55] 
+[11:29:55] Filterscripts
+[11:29:55] ---------------
+[11:29:55]   Loaded 0 filterscripts.
+
+[11:29:55] [SERVER] Veículos fixos carregados com sucesso!
+[11:29:55] 
+---------------------------------------------------------------
+[11:29:55]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:29:55] 
+---------------------------------------------------------------
+[11:29:55] Number of vehicle models: 2
+[11:30:14] [connection] incoming connection: 127.0.0.1:49390 id: 0
+[11:30:14] [join] Storck has joined the server (0:127.0.0.1)
+[12:01:41] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:06] filterscripts = ""  (string)
+[12:26:06] 
+[12:26:06] Server Plugins
+[12:26:06] --------------
+[12:26:06]  Loading plugin: sscanf
+[12:26:06] 
+[12:26:06]  ===============================
+[12:26:06] 
+[12:26:06]       sscanf plugin loaded.     
+[12:26:06] 
+[12:26:06]          Version: 2.13.8
+[12:26:06] 
+[12:26:06]    (c) 2022 Alex "Y_Less" Cole  
+[12:26:06] 
+[12:26:06]  ===============================
+[12:26:06] 
+[12:26:06]   Loaded.
+[12:26:06]  Loading plugin: dof2
+[12:26:06]   Failed.
+[12:26:06]  Loaded 1 plugins.
+
+[12:26:06] 
+[12:26:06] Filterscripts
+[12:26:06] ---------------
+[12:26:06]   Loaded 0 filterscripts.
+
+[12:26:06] [SERVER] Veículos fixos carregados com sucesso!
+[12:26:06] 
+---------------------------------------------------------------
+[12:26:06]   Bem-vindo ao meu servidor SAMP by: Storck
+[12:26:06] 
+---------------------------------------------------------------
+[12:26:06] Number of vehicle models: 2
+[12:26:32] [connection] incoming connection: 127.0.0.1:65083 id: 0
+[12:26:32] [join] Storck has joined the server (0:127.0.0.1)
+[12:28:43] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:02] filterscripts = ""  (string)
+[14:30:02] 
+[14:30:02] Server Plugins
+[14:30:02] --------------
+[14:30:02]  Loading plugin: sscanf
+[14:30:02] 
+[14:30:02]  ===============================
+[14:30:02] 
+[14:30:02]       sscanf plugin loaded.     
+[14:30:02] 
+[14:30:02]          Version: 2.13.8
+[14:30:02] 
+[14:30:02]    (c) 2022 Alex "Y_Less" Cole  
+[14:30:02] 
+[14:30:02]  ===============================
+[14:30:02] 
+[14:30:02]   Loaded.
+[14:30:02]  Loading plugin: dof2
+[14:30:02]   Failed.
+[14:30:02]  Loaded 1 plugins.
+
+[14:30:02] 
+[14:30:02] Filterscripts
+[14:30:02] ---------------
+[14:30:02]   Loaded 0 filterscripts.
+
+[14:30:02] [SERVER] Veículos fixos carregados com sucesso!
+[14:30:02] 
+---------------------------------------------------------------
+[14:30:02]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:30:02] 
+---------------------------------------------------------------
+[14:30:02] Number of vehicle models: 2
+[14:30:27] [connection] incoming connection: 127.0.0.1:62264 id: 0
+[14:30:27] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:36:30] filterscripts = ""  (string)
+[14:36:30] 
+[14:36:30] Server Plugins
+[14:36:30] --------------
+[14:36:30]  Loading plugin: sscanf
+[14:36:30] 
+[14:36:30]  ===============================
+[14:36:30] 
+[14:36:30]       sscanf plugin loaded.     
+[14:36:30] 
+[14:36:30]          Version: 2.13.8
+[14:36:30] 
+[14:36:30]    (c) 2022 Alex "Y_Less" Cole  
+[14:36:30] 
+[14:36:30]  ===============================
+[14:36:30] 
+[14:36:30]   Loaded.
+[14:36:30]  Loading plugin: dof2
+[14:36:30]   Failed.
+[14:36:30]  Loaded 1 plugins.
+
+[14:36:30] 
+[14:36:30] Filterscripts
+[14:36:30] ---------------
+[14:36:30]   Loaded 0 filterscripts.
+
+[14:36:30] [SERVER] Veículos fixos carregados com sucesso!
+[14:36:30] 
+---------------------------------------------------------------
+[14:36:30]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:36:30] 
+---------------------------------------------------------------
+[14:36:30] Number of vehicle models: 2
+[14:36:37] [connection] incoming connection: 127.0.0.1:62031 id: 0
+[14:36:38] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:13] filterscripts = ""  (string)
+[14:42:13] 
+[14:42:13] Server Plugins
+[14:42:13] --------------
+[14:42:13]  Loading plugin: sscanf
+[14:42:13] 
+[14:42:13]  ===============================
+[14:42:13] 
+[14:42:13]       sscanf plugin loaded.     
+[14:42:13] 
+[14:42:13]          Version: 2.13.8
+[14:42:13] 
+[14:42:13]    (c) 2022 Alex "Y_Less" Cole  
+[14:42:13] 
+[14:42:13]  ===============================
+[14:42:13] 
+[14:42:13]   Loaded.
+[14:42:13]  Loading plugin: dof2
+[14:42:13]   Failed.
+[14:42:13]  Loaded 1 plugins.
+
+[14:42:13] 
+[14:42:13] Filterscripts
+[14:42:13] ---------------
+[14:42:13]   Loaded 0 filterscripts.
+
+[14:42:13] [SERVER] Veículos fixos carregados com sucesso!
+[14:42:13] 
+---------------------------------------------------------------
+[14:42:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:42:13] 
+---------------------------------------------------------------
+[14:42:13] Number of vehicle models: 2
+[14:42:24] [connection] incoming connection: 127.0.0.1:52061 id: 0
+[14:42:24] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:52:26] filterscripts = ""  (string)
+[14:52:26] 
+[14:52:26] Server Plugins
+[14:52:26] --------------
+[14:52:26]  Loading plugin: sscanf
+[14:52:26] 
+[14:52:26]  ===============================
+[14:52:26] 
+[14:52:26]       sscanf plugin loaded.     
+[14:52:26] 
+[14:52:26]          Version: 2.13.8
+[14:52:26] 
+[14:52:26]    (c) 2022 Alex "Y_Less" Cole  
+[14:52:26] 
+[14:52:26]  ===============================
+[14:52:26] 
+[14:52:26]   Loaded.
+[14:52:26]  Loading plugin: dof2
+[14:52:26]   Failed.
+[14:52:26]  Loaded 1 plugins.
+
+[14:52:26] 
+[14:52:26] Filterscripts
+[14:52:26] ---------------
+[14:52:26]   Loaded 0 filterscripts.
+
+[14:52:26] [SERVER] Veículos fixos carregados com sucesso!
+[14:52:26] 
+---------------------------------------------------------------
+[14:52:26]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:52:26] 
+---------------------------------------------------------------
+[14:52:26] Number of vehicle models: 2
+[14:52:47] [connection] incoming connection: 127.0.0.1:49748 id: 0
+[14:52:48] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:01:48] filterscripts = ""  (string)
+[15:01:48] 
+[15:01:48] Server Plugins
+[15:01:48] --------------
+[15:01:48]  Loading plugin: sscanf
+[15:01:48] 
+[15:01:48]  ===============================
+[15:01:48] 
+[15:01:48]       sscanf plugin loaded.     
+[15:01:48] 
+[15:01:48]          Version: 2.13.8
+[15:01:48] 
+[15:01:48]    (c) 2022 Alex "Y_Less" Cole  
+[15:01:48] 
+[15:01:48]  ===============================
+[15:01:48] 
+[15:01:48]   Loaded.
+[15:01:48]  Loading plugin: dof2
+[15:01:48]   Failed.
+[15:01:48]  Loaded 1 plugins.
+
+[15:01:48] 
+[15:01:48] Filterscripts
+[15:01:48] ---------------
+[15:01:48]   Loaded 0 filterscripts.
+
+[15:01:48] [SERVER] Veículos fixos carregados com sucesso!
+[15:01:48] 
+---------------------------------------------------------------
+[15:01:48]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:01:48] 
+---------------------------------------------------------------
+[15:01:48] Number of vehicle models: 2
+[15:01:59] [connection] incoming connection: 127.0.0.1:63030 id: 0
+[15:01:59] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:02:47] filterscripts = ""  (string)
+[15:02:47] 
+[15:02:47] Server Plugins
+[15:02:47] --------------
+[15:02:47]  Loading plugin: sscanf
+[15:02:47] 
+[15:02:47]  ===============================
+[15:02:47] 
+[15:02:47]       sscanf plugin loaded.     
+[15:02:47] 
+[15:02:47]          Version: 2.13.8
+[15:02:47] 
+[15:02:47]    (c) 2022 Alex "Y_Less" Cole  
+[15:02:47] 
+[15:02:47]  ===============================
+[15:02:47] 
+[15:02:47]   Loaded.
+[15:02:47]  Loading plugin: dof2
+[15:02:47]   Failed.
+[15:02:47]  Loaded 1 plugins.
+
+[15:02:47] 
+[15:02:47] Filterscripts
+[15:02:47] ---------------
+[15:02:47]   Loaded 0 filterscripts.
+
+[15:02:47] [SERVER] Veículos fixos carregados com sucesso!
+[15:02:47] 
+---------------------------------------------------------------
+[15:02:47]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:02:47] 
+---------------------------------------------------------------
+[15:02:47] Number of vehicle models: 2
+[15:02:58] [connection] incoming connection: 127.0.0.1:58703 id: 0
+[15:02:58] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:03:30] filterscripts = ""  (string)
+[15:03:30] 
+[15:03:30] Server Plugins
+[15:03:30] --------------
+[15:03:30]  Loading plugin: sscanf
+[15:03:30] 
+[15:03:30]  ===============================
+[15:03:30] 
+[15:03:30]       sscanf plugin loaded.     
+[15:03:30] 
+[15:03:30]          Version: 2.13.8
+[15:03:30] 
+[15:03:30]    (c) 2022 Alex "Y_Less" Cole  
+[15:03:30] 
+[15:03:30]  ===============================
+[15:03:30] 
+[15:03:30]   Loaded.
+[15:03:30]  Loading plugin: dof2
+[15:03:30]   Failed.
+[15:03:30]  Loaded 1 plugins.
+
+[15:03:30] 
+[15:03:30] Filterscripts
+[15:03:30] ---------------
+[15:03:30]   Loaded 0 filterscripts.
+
+[15:03:30] [SERVER] Veículos fixos carregados com sucesso!
+[15:03:30] 
+---------------------------------------------------------------
+[15:03:30]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:03:30] 
+---------------------------------------------------------------
+[15:03:30] Number of vehicle models: 2
+[15:03:48] [connection] incoming connection: 127.0.0.1:52109 id: 0
+[15:03:48] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:30] filterscripts = ""  (string)
+[15:19:30] 
+[15:19:30] Server Plugins
+[15:19:30] --------------
+[15:19:30]  Loading plugin: sscanf
+[15:19:30] 
+[15:19:30]  ===============================
+[15:19:30] 
+[15:19:30]       sscanf plugin loaded.     
+[15:19:30] 
+[15:19:30]          Version: 2.13.8
+[15:19:30] 
+[15:19:30]    (c) 2022 Alex "Y_Less" Cole  
+[15:19:30] 
+[15:19:30]  ===============================
+[15:19:30] 
+[15:19:30]   Loaded.
+[15:19:30]  Loading plugin: dof2
+[15:19:30]   Failed.
+[15:19:30]  Loaded 1 plugins.
+
+[15:19:30] 
+[15:19:30] Filterscripts
+[15:19:30] ---------------
+[15:19:30]   Loaded 0 filterscripts.
+
+[15:19:30] [SERVER] Veículos fixos carregados com sucesso!
+[15:19:30] 
+---------------------------------------------------------------
+[15:19:30]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:19:30] 
+---------------------------------------------------------------
+[15:19:30] Number of vehicle models: 2
+[15:19:52] [connection] incoming connection: 127.0.0.1:56396 id: 0
+[15:19:52] [join] Storck has joined the server (0:127.0.0.1)
+[15:23:32] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:21:56] filterscripts = ""  (string)
+[17:21:56] 
+[17:21:56] Server Plugins
+[17:21:56] --------------
+[17:21:56]  Loading plugin: sscanf
+[17:21:56] 
+[17:21:56]  ===============================
+[17:21:56] 
+[17:21:56]       sscanf plugin loaded.     
+[17:21:56] 
+[17:21:56]          Version: 2.13.8
+[17:21:56] 
+[17:21:56]    (c) 2022 Alex "Y_Less" Cole  
+[17:21:56] 
+[17:21:56]  ===============================
+[17:21:56] 
+[17:21:56]   Loaded.
+[17:21:56]  Loading plugin: dof2
+[17:21:56]   Failed.
+[17:21:56]  Loaded 1 plugins.
+
+[17:21:56] 
+[17:21:56] Filterscripts
+[17:21:56] ---------------
+[17:21:56]   Loaded 0 filterscripts.
+
+[17:21:56] [SERVER] Veículos fixos carregados com sucesso!
+[17:21:56] 
+---------------------------------------------------------------
+[17:21:56]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:21:56] 
+---------------------------------------------------------------
+[17:21:56] Number of vehicle models: 2
+[17:23:06] [connection] incoming connection: 127.0.0.1:55047 id: 0
+[17:23:21] [connection] incoming connection: 127.0.0.1:59171 id: 0
+[17:23:21] [join] Storck has joined the server (0:127.0.0.1)
+[17:42:36] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:27:50] filterscripts = ""  (string)
+[17:27:50] 
+[17:27:50] Server Plugins
+[17:27:50] --------------
+[17:27:50]  Loading plugin: sscanf
+[17:27:50] 
+[17:27:50]  ===============================
+[17:27:50] 
+[17:27:50]       sscanf plugin loaded.     
+[17:27:50] 
+[17:27:50]          Version: 2.13.8
+[17:27:50] 
+[17:27:50]    (c) 2022 Alex "Y_Less" Cole  
+[17:27:50] 
+[17:27:50]  ===============================
+[17:27:50] 
+[17:27:50]   Loaded.
+[17:27:50]  Loading plugin: dof2
+[17:27:50]   Failed.
+[17:27:50]  Loaded 1 plugins.
+
+[17:27:50] 
+[17:27:50] Filterscripts
+[17:27:50] ---------------
+[17:27:50]   Loaded 0 filterscripts.
+
+[17:27:50] [SERVER] Veículos fixos carregados com sucesso!
+[17:27:50] 
+---------------------------------------------------------------
+[17:27:50]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:27:50] 
+---------------------------------------------------------------
+[17:27:50] Number of vehicle models: 2
+[17:28:12] [connection] incoming connection: 127.0.0.1:50818 id: 0
+[17:28:12] [join] Storck has joined the server (0:127.0.0.1)
+[17:59:08] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:01:22] filterscripts = ""  (string)
+[18:01:22] 
+[18:01:22] Server Plugins
+[18:01:22] --------------
+[18:01:22]  Loading plugin: sscanf
+[18:01:22] 
+[18:01:22]  ===============================
+[18:01:22] 
+[18:01:22]       sscanf plugin loaded.     
+[18:01:22] 
+[18:01:22]          Version: 2.13.8
+[18:01:22] 
+[18:01:22]    (c) 2022 Alex "Y_Less" Cole  
+[18:01:22] 
+[18:01:22]  ===============================
+[18:01:22] 
+[18:01:22]   Loaded.
+[18:01:22]  Loading plugin: dof2
+[18:01:22]   Failed.
+[18:01:22]  Loaded 1 plugins.
+
+[18:01:22] 
+[18:01:22] Filterscripts
+[18:01:22] ---------------
+[18:01:22]   Loaded 0 filterscripts.
+
+[18:01:22] [SERVER] Veículos fixos carregados com sucesso!
+[18:01:22] 
+---------------------------------------------------------------
+[18:01:22]   Bem-vindo ao meu servidor SAMP by: Storck
+[18:01:22] 
+---------------------------------------------------------------
+[18:01:22] Number of vehicle models: 2
+[18:01:45] [connection] incoming connection: 127.0.0.1:61051 id: 0
+[18:01:46] [join] Storck has joined the server (0:127.0.0.1)
+[18:04:20] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:22:00] filterscripts = ""  (string)
+[08:22:00] 
+[08:22:00] Server Plugins
+[08:22:00] --------------
+[08:22:00]  Loading plugin: sscanf
+[08:22:00] 
+[08:22:00]  ===============================
+[08:22:00] 
+[08:22:00]       sscanf plugin loaded.     
+[08:22:00] 
+[08:22:00]          Version: 2.13.8
+[08:22:00] 
+[08:22:00]    (c) 2022 Alex "Y_Less" Cole  
+[08:22:00] 
+[08:22:00]  ===============================
+[08:22:00] 
+[08:22:00]   Loaded.
+[08:22:00]  Loading plugin: dof2
+[08:22:00]   Failed.
+[08:22:00]  Loaded 1 plugins.
+
+[08:22:00] 
+[08:22:00] Filterscripts
+[08:22:00] ---------------
+[08:22:00]   Loaded 0 filterscripts.
+
+[08:22:00] [SERVER] Veículos fixos carregados com sucesso!
+[08:22:00] 
+---------------------------------------------------------------
+[08:22:00]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:22:00] 
+---------------------------------------------------------------
+[08:22:00] Number of vehicle models: 2
+[08:23:18] [connection] incoming connection: 127.0.0.1:52425 id: 0
+[08:23:18] [join] Storck has joined the server (0:127.0.0.1)
+[08:26:11] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:49:34] filterscripts = ""  (string)
+[08:49:34] 
+[08:49:34] Server Plugins
+[08:49:34] --------------
+[08:49:34]  Loading plugin: sscanf
+[08:49:34] 
+[08:49:34]  ===============================
+[08:49:34] 
+[08:49:34]       sscanf plugin loaded.     
+[08:49:34] 
+[08:49:34]          Version: 2.13.8
+[08:49:34] 
+[08:49:34]    (c) 2022 Alex "Y_Less" Cole  
+[08:49:34] 
+[08:49:34]  ===============================
+[08:49:34] 
+[08:49:34]   Loaded.
+[08:49:34]  Loading plugin: dof2
+[08:49:34]   Failed.
+[08:49:34]  Loaded 1 plugins.
+
+[08:49:35] 
+[08:49:35] Filterscripts
+[08:49:35] ---------------
+[08:49:35]   Loaded 0 filterscripts.
+
+[08:49:35] [SERVER] Veículos fixos carregados com sucesso!
+[08:49:35] 
+---------------------------------------------------------------
+[08:49:35]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:49:35] 
+---------------------------------------------------------------
+[08:49:35] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:49:46] filterscripts = ""  (string)
+[08:49:46] 
+[08:49:46] Server Plugins
+[08:49:46] --------------
+[08:49:46]  Loading plugin: sscanf
+[08:49:46] 
+[08:49:46]  ===============================
+[08:49:46] 
+[08:49:46]       sscanf plugin loaded.     
+[08:49:46] 
+[08:49:46]          Version: 2.13.8
+[08:49:46] 
+[08:49:46]    (c) 2022 Alex "Y_Less" Cole  
+[08:49:46] 
+[08:49:46]  ===============================
+[08:49:46] 
+[08:49:46]   Loaded.
+[08:49:46]  Loading plugin: dof2
+[08:49:46]   Failed.
+[08:49:46]  Loaded 1 plugins.
+
+[08:49:46] 
+[08:49:46] Filterscripts
+[08:49:46] ---------------
+[08:49:46]   Loaded 0 filterscripts.
+
+[08:49:46] [SERVER] Veículos fixos carregados com sucesso!
+[08:49:46] 
+---------------------------------------------------------------
+[08:49:46]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:49:46] 
+---------------------------------------------------------------
+[08:49:46] Number of vehicle models: 2
+[08:50:12] [connection] incoming connection: 127.0.0.1:50739 id: 0
+[08:50:12] [join] Storck has joined the server (0:127.0.0.1)
+[09:08:37] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:24:08] filterscripts = ""  (string)
+[11:24:08] 
+[11:24:08] Server Plugins
+[11:24:08] --------------
+[11:24:08]  Loading plugin: sscanf
+[11:24:08] 
+[11:24:08]  ===============================
+[11:24:08] 
+[11:24:08]       sscanf plugin loaded.     
+[11:24:08] 
+[11:24:08]          Version: 2.13.8
+[11:24:08] 
+[11:24:08]    (c) 2022 Alex "Y_Less" Cole  
+[11:24:08] 
+[11:24:08]  ===============================
+[11:24:08] 
+[11:24:08]   Loaded.
+[11:24:08]  Loading plugin: dof2
+[11:24:08]   Failed.
+[11:24:08]  Loaded 1 plugins.
+
+[11:24:08] 
+[11:24:08] Filterscripts
+[11:24:08] ---------------
+[11:24:08]   Loaded 0 filterscripts.
+
+[11:24:08] [SERVER] Veículos fixos carregados com sucesso!
+[11:24:08] 
+---------------------------------------------------------------
+[11:24:08]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:24:08] 
+---------------------------------------------------------------
+[11:24:08] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:24:12] filterscripts = ""  (string)
+[11:24:12] 
+[11:24:12] Server Plugins
+[11:24:12] --------------
+[11:24:12]  Loading plugin: sscanf
+[11:24:12] 
+[11:24:12]  ===============================
+[11:24:12] 
+[11:24:12]       sscanf plugin loaded.     
+[11:24:12] 
+[11:24:12]          Version: 2.13.8
+[11:24:12] 
+[11:24:12]    (c) 2022 Alex "Y_Less" Cole  
+[11:24:12] 
+[11:24:12]  ===============================
+[11:24:12] 
+[11:24:12]   Loaded.
+[11:24:12]  Loading plugin: dof2
+[11:24:12]   Failed.
+[11:24:12]  Loaded 1 plugins.
+
+[11:24:12] 
+[11:24:12] Filterscripts
+[11:24:12] ---------------
+[11:24:12]   Loaded 0 filterscripts.
+
+[11:24:12] [SERVER] Veículos fixos carregados com sucesso!
+[11:24:12] 
+---------------------------------------------------------------
+[11:24:12]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:24:12] 
+---------------------------------------------------------------
+[11:24:12] Number of vehicle models: 2
+[11:24:32] [connection] incoming connection: 127.0.0.1:54846 id: 0
+[11:24:33] [join] Storck has joined the server (0:127.0.0.1)
+[11:31:06] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:16] filterscripts = ""  (string)
+[11:31:16] 
+[11:31:16] Server Plugins
+[11:31:16] --------------
+[11:31:16]  Loading plugin: sscanf
+[11:31:16] 
+[11:31:16]  ===============================
+[11:31:16] 
+[11:31:16]       sscanf plugin loaded.     
+[11:31:16] 
+[11:31:16]          Version: 2.13.8
+[11:31:16] 
+[11:31:16]    (c) 2022 Alex "Y_Less" Cole  
+[11:31:16] 
+[11:31:16]  ===============================
+[11:31:16] 
+[11:31:16]   Loaded.
+[11:31:16]  Loading plugin: dof2
+[11:31:16]   Failed.
+[11:31:16]  Loaded 1 plugins.
+
+[11:31:16] 
+[11:31:16] Filterscripts
+[11:31:16] ---------------
+[11:31:16]   Loaded 0 filterscripts.
+
+[11:31:16] [SERVER] Veículos fixos carregados com sucesso!
+[11:31:16] 
+---------------------------------------------------------------
+[11:31:16]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:31:16] 
+---------------------------------------------------------------
+[11:31:16] Number of vehicle models: 2
+[11:31:46] [connection] incoming connection: 127.0.0.1:62709 id: 0
+[11:31:46] [join] Storck has joined the server (0:127.0.0.1)
+[11:34:37] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:36:22] filterscripts = ""  (string)
+[11:36:22] 
+[11:36:22] Server Plugins
+[11:36:22] --------------
+[11:36:22]  Loading plugin: sscanf
+[11:36:22] 
+[11:36:22]  ===============================
+[11:36:22] 
+[11:36:22]       sscanf plugin loaded.     
+[11:36:22] 
+[11:36:22]          Version: 2.13.8
+[11:36:22] 
+[11:36:22]    (c) 2022 Alex "Y_Less" Cole  
+[11:36:22] 
+[11:36:22]  ===============================
+[11:36:22] 
+[11:36:22]   Loaded.
+[11:36:22]  Loading plugin: dof2
+[11:36:22]   Failed.
+[11:36:22]  Loaded 1 plugins.
+
+[11:36:22] 
+[11:36:22] Filterscripts
+[11:36:22] ---------------
+[11:36:22]   Loaded 0 filterscripts.
+
+[11:36:22] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[11:36:22] 
+---------------------------------------------------------------
+[11:36:22]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:36:22] 
+---------------------------------------------------------------
+[11:36:22] Number of vehicle models: 4
+[11:36:42] [connection] incoming connection: 127.0.0.1:57408 id: 0
+[11:36:42] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:46:44] filterscripts = ""  (string)
+[11:46:44] 
+[11:46:44] Server Plugins
+[11:46:44] --------------
+[11:46:44]  Loading plugin: sscanf
+[11:46:44] 
+[11:46:44]  ===============================
+[11:46:44] 
+[11:46:44]       sscanf plugin loaded.     
+[11:46:44] 
+[11:46:44]          Version: 2.13.8
+[11:46:44] 
+[11:46:44]    (c) 2022 Alex "Y_Less" Cole  
+[11:46:44] 
+[11:46:44]  ===============================
+[11:46:44] 
+[11:46:44]   Loaded.
+[11:46:44]  Loading plugin: dof2
+[11:46:44]   Failed.
+[11:46:44]  Loaded 1 plugins.
+
+[11:46:44] 
+[11:46:44] Filterscripts
+[11:46:44] ---------------
+[11:46:44]   Loaded 0 filterscripts.
+
+[11:46:44] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[11:46:44] 
+---------------------------------------------------------------
+[11:46:44]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:46:44] 
+---------------------------------------------------------------
+[11:46:44] Number of vehicle models: 4
+[11:46:46] [connection] incoming connection: 127.0.0.1:63039 id: 0
+[11:46:47] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:06:43] filterscripts = ""  (string)
+[12:06:43] 
+[12:06:43] Server Plugins
+[12:06:43] --------------
+[12:06:43]  Loading plugin: sscanf
+[12:06:43] 
+[12:06:43]  ===============================
+[12:06:43] 
+[12:06:43]       sscanf plugin loaded.     
+[12:06:43] 
+[12:06:43]          Version: 2.13.8
+[12:06:43] 
+[12:06:43]    (c) 2022 Alex "Y_Less" Cole  
+[12:06:43] 
+[12:06:43]  ===============================
+[12:06:43] 
+[12:06:43]   Loaded.
+[12:06:43]  Loading plugin: dof2
+[12:06:43]   Failed.
+[12:06:43]  Loaded 1 plugins.
+
+[12:06:43] 
+[12:06:43] Filterscripts
+[12:06:43] ---------------
+[12:06:43]   Loaded 0 filterscripts.
+
+[12:06:43] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[12:06:43] 
+---------------------------------------------------------------
+[12:06:43]   Bem-vindo ao meu servidor SAMP by: Storck
+[12:06:43] 
+---------------------------------------------------------------
+[12:06:43] Number of vehicle models: 4
+[12:06:47] [connection] incoming connection: 127.0.0.1:50473 id: 0
+[12:06:47] [join] Storck has joined the server (0:127.0.0.1)
+[14:28:46] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:29:05] filterscripts = ""  (string)
+[14:29:05] 
+[14:29:05] Server Plugins
+[14:29:05] --------------
+[14:29:05]  Loading plugin: sscanf
+[14:29:05] 
+[14:29:05]  ===============================
+[14:29:05] 
+[14:29:05]       sscanf plugin loaded.     
+[14:29:05] 
+[14:29:05]          Version: 2.13.8
+[14:29:05] 
+[14:29:05]    (c) 2022 Alex "Y_Less" Cole  
+[14:29:05] 
+[14:29:05]  ===============================
+[14:29:05] 
+[14:29:05]   Loaded.
+[14:29:05]  Loading plugin: dof2
+[14:29:05]   Failed.
+[14:29:05]  Loaded 1 plugins.
+
+[14:29:05] 
+[14:29:05] Filterscripts
+[14:29:05] ---------------
+[14:29:05]   Loaded 0 filterscripts.
+
+[14:29:05] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[14:29:05] 
+---------------------------------------------------------------
+[14:29:05]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:29:05] 
+---------------------------------------------------------------
+[14:29:05] Number of vehicle models: 4
+[14:29:48] [connection] incoming connection: 127.0.0.1:52447 id: 0
+[14:29:48] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:44] filterscripts = ""  (string)
+[14:43:44] 
+[14:43:44] Server Plugins
+[14:43:44] --------------
+[14:43:44]  Loading plugin: sscanf
+[14:43:44] 
+[14:43:44]  ===============================
+[14:43:44] 
+[14:43:44]       sscanf plugin loaded.     
+[14:43:44] 
+[14:43:44]          Version: 2.13.8
+[14:43:44] 
+[14:43:44]    (c) 2022 Alex "Y_Less" Cole  
+[14:43:44] 
+[14:43:44]  ===============================
+[14:43:44] 
+[14:43:44]   Loaded.
+[14:43:44]  Loading plugin: dof2
+[14:43:44]   Failed.
+[14:43:44]  Loaded 1 plugins.
+
+[14:43:44] 
+[14:43:44] Filterscripts
+[14:43:44] ---------------
+[14:43:44]   Loaded 0 filterscripts.
+
+[14:43:44] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[14:43:44] 
+---------------------------------------------------------------
+[14:43:44]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:43:44] 
+---------------------------------------------------------------
+[14:43:44] Number of vehicle models: 4
+[14:43:47] [connection] incoming connection: 127.0.0.1:53384 id: 0
+[14:43:47] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:10] filterscripts = ""  (string)
+[14:46:10] 
+[14:46:10] Server Plugins
+[14:46:10] --------------
+[14:46:10]  Loading plugin: sscanf
+[14:46:10] 
+[14:46:10]  ===============================
+[14:46:10] 
+[14:46:10]       sscanf plugin loaded.     
+[14:46:10] 
+[14:46:10]          Version: 2.13.8
+[14:46:10] 
+[14:46:10]    (c) 2022 Alex "Y_Less" Cole  
+[14:46:10] 
+[14:46:10]  ===============================
+[14:46:10] 
+[14:46:10]   Loaded.
+[14:46:10]  Loading plugin: dof2
+[14:46:10]   Failed.
+[14:46:10]  Loaded 1 plugins.
+
+[14:46:10] 
+[14:46:10] Filterscripts
+[14:46:10] ---------------
+[14:46:10]   Loaded 0 filterscripts.
+
+[14:46:10] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[14:46:10] 
+---------------------------------------------------------------
+[14:46:10]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:46:10] 
+---------------------------------------------------------------
+[14:46:10] Number of vehicle models: 4
+[14:46:16] [connection] incoming connection: 127.0.0.1:59649 id: 0
+[14:46:16] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:50:36] filterscripts = ""  (string)
+[14:50:36] 
+[14:50:36] Server Plugins
+[14:50:36] --------------
+[14:50:36]  Loading plugin: sscanf
+[14:50:36] 
+[14:50:36]  ===============================
+[14:50:36] 
+[14:50:36]       sscanf plugin loaded.     
+[14:50:36] 
+[14:50:36]          Version: 2.13.8
+[14:50:36] 
+[14:50:36]    (c) 2022 Alex "Y_Less" Cole  
+[14:50:36] 
+[14:50:36]  ===============================
+[14:50:36] 
+[14:50:36]   Loaded.
+[14:50:36]  Loading plugin: dof2
+[14:50:36]   Failed.
+[14:50:36]  Loaded 1 plugins.
+
+[14:50:36] 
+[14:50:36] Filterscripts
+[14:50:36] ---------------
+[14:50:36]   Loaded 0 filterscripts.
+
+[14:50:36] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[14:50:36] 
+---------------------------------------------------------------
+[14:50:36]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:50:36] 
+---------------------------------------------------------------
+[14:50:36] Number of vehicle models: 4
+[14:50:48] [connection] incoming connection: 127.0.0.1:63816 id: 0
+[14:50:49] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:54:20] filterscripts = ""  (string)
+[14:54:20] 
+[14:54:20] Server Plugins
+[14:54:20] --------------
+[14:54:20]  Loading plugin: sscanf
+[14:54:20] 
+[14:54:20]  ===============================
+[14:54:20] 
+[14:54:20]       sscanf plugin loaded.     
+[14:54:20] 
+[14:54:20]          Version: 2.13.8
+[14:54:20] 
+[14:54:20]    (c) 2022 Alex "Y_Less" Cole  
+[14:54:20] 
+[14:54:20]  ===============================
+[14:54:20] 
+[14:54:20]   Loaded.
+[14:54:20]  Loading plugin: dof2
+[14:54:20]   Failed.
+[14:54:20]  Loaded 1 plugins.
+
+[14:54:20] 
+[14:54:20] Filterscripts
+[14:54:20] ---------------
+[14:54:20]   Loaded 0 filterscripts.
+
+[14:54:20] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[14:54:20] 
+---------------------------------------------------------------
+[14:54:20]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:54:20] 
+---------------------------------------------------------------
+[14:54:20] Number of vehicle models: 4
+[14:54:23] [connection] incoming connection: 127.0.0.1:64765 id: 0
+[14:54:23] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:03:13] filterscripts = ""  (string)
+[15:03:13] 
+[15:03:13] Server Plugins
+[15:03:13] --------------
+[15:03:13]  Loading plugin: sscanf
+[15:03:13] 
+[15:03:13]  ===============================
+[15:03:13] 
+[15:03:13]       sscanf plugin loaded.     
+[15:03:13] 
+[15:03:13]          Version: 2.13.8
+[15:03:13] 
+[15:03:13]    (c) 2022 Alex "Y_Less" Cole  
+[15:03:13] 
+[15:03:13]  ===============================
+[15:03:13] 
+[15:03:13]   Loaded.
+[15:03:13]  Loading plugin: dof2
+[15:03:13]   Failed.
+[15:03:13]  Loaded 1 plugins.
+
+[15:03:13] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:03:13] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:56] filterscripts = ""  (string)
+[15:04:56] 
+[15:04:56] Server Plugins
+[15:04:56] --------------
+[15:04:56]  Loading plugin: sscanf
+[15:04:56] 
+[15:04:56]  ===============================
+[15:04:56] 
+[15:04:56]       sscanf plugin loaded.     
+[15:04:56] 
+[15:04:56]          Version: 2.13.8
+[15:04:56] 
+[15:04:56]    (c) 2022 Alex "Y_Less" Cole  
+[15:04:56] 
+[15:04:56]  ===============================
+[15:04:56] 
+[15:04:56]   Loaded.
+[15:04:56]  Loading plugin: dof2
+[15:04:56]   Failed.
+[15:04:56]  Loaded 1 plugins.
+
+[15:04:56] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:04:56] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:16] filterscripts = ""  (string)
+[15:05:16] 
+[15:05:16] Server Plugins
+[15:05:16] --------------
+[15:05:16]  Loading plugin: sscanf
+[15:05:16] 
+[15:05:16]  ===============================
+[15:05:16] 
+[15:05:16]       sscanf plugin loaded.     
+[15:05:16] 
+[15:05:16]          Version: 2.13.8
+[15:05:16] 
+[15:05:16]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:16] 
+[15:05:16]  ===============================
+[15:05:16] 
+[15:05:16]   Loaded.
+[15:05:16]  Loading plugin: dof2
+[15:05:16]   Failed.
+[15:05:16]  Loaded 1 plugins.
+
+[15:05:16] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:05:16] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:17] filterscripts = ""  (string)
+[15:05:17] 
+[15:05:17] Server Plugins
+[15:05:17] --------------
+[15:05:17]  Loading plugin: sscanf
+[15:05:17] 
+[15:05:17]  ===============================
+[15:05:17] 
+[15:05:17]       sscanf plugin loaded.     
+[15:05:17] 
+[15:05:17]          Version: 2.13.8
+[15:05:17] 
+[15:05:17]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:17] 
+[15:05:17]  ===============================
+[15:05:17] 
+[15:05:17]   Loaded.
+[15:05:17]  Loading plugin: dof2
+[15:05:17]   Failed.
+[15:05:17]  Loaded 1 plugins.
+
+[15:05:17] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:05:17] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:18] filterscripts = ""  (string)
+[15:05:18] 
+[15:05:18] Server Plugins
+[15:05:18] --------------
+[15:05:18]  Loading plugin: sscanf
+[15:05:18] 
+[15:05:18]  ===============================
+[15:05:18] 
+[15:05:18]       sscanf plugin loaded.     
+[15:05:18] 
+[15:05:18]          Version: 2.13.8
+[15:05:18] 
+[15:05:18]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:18] 
+[15:05:18]  ===============================
+[15:05:18] 
+[15:05:18]   Loaded.
+[15:05:18]  Loading plugin: dof2
+[15:05:18]   Failed.
+[15:05:18]  Loaded 1 plugins.
+
+[15:05:18] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:05:18] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:19] filterscripts = ""  (string)
+[15:05:19] 
+[15:05:19] Server Plugins
+[15:05:19] --------------
+[15:05:19]  Loading plugin: sscanf
+[15:05:19] 
+[15:05:19]  ===============================
+[15:05:19] 
+[15:05:19]       sscanf plugin loaded.     
+[15:05:19] 
+[15:05:19]          Version: 2.13.8
+[15:05:19] 
+[15:05:19]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:19] 
+[15:05:19]  ===============================
+[15:05:19] 
+[15:05:19]   Loaded.
+[15:05:19]  Loading plugin: dof2
+[15:05:19]   Failed.
+[15:05:19]  Loaded 1 plugins.
+
+[15:05:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:05:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:06:13] filterscripts = ""  (string)
+[15:06:13] 
+[15:06:13] Server Plugins
+[15:06:13] --------------
+[15:06:13]  Loading plugin: sscanf
+[15:06:13] 
+[15:06:13]  ===============================
+[15:06:13] 
+[15:06:13]       sscanf plugin loaded.     
+[15:06:13] 
+[15:06:13]          Version: 2.13.8
+[15:06:13] 
+[15:06:13]    (c) 2022 Alex "Y_Less" Cole  
+[15:06:13] 
+[15:06:13]  ===============================
+[15:06:13] 
+[15:06:13]   Loaded.
+[15:06:13]  Loading plugin: dof2
+[15:06:13]   Failed.
+[15:06:13]  Loaded 1 plugins.
+
+[15:06:13] 
+[15:06:13] Filterscripts
+[15:06:13] ---------------
+[15:06:13]   Loaded 0 filterscripts.
+
+[15:06:13] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[15:06:13] 
+---------------------------------------------------------------
+[15:06:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:06:13] 
+---------------------------------------------------------------
+[15:06:13] Number of vehicle models: 4
+[15:06:38] [connection] incoming connection: 127.0.0.1:55797 id: 0
+[15:06:38] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:52] filterscripts = ""  (string)
+[15:11:52] 
+[15:11:52] Server Plugins
+[15:11:52] --------------
+[15:11:52]  Loading plugin: sscanf
+[15:11:52] 
+[15:11:52]  ===============================
+[15:11:52] 
+[15:11:52]       sscanf plugin loaded.     
+[15:11:52] 
+[15:11:52]          Version: 2.13.8
+[15:11:52] 
+[15:11:52]    (c) 2022 Alex "Y_Less" Cole  
+[15:11:52] 
+[15:11:52]  ===============================
+[15:11:52] 
+[15:11:52]   Loaded.
+[15:11:52]  Loading plugin: dof2
+[15:11:52]   Failed.
+[15:11:52]  Loaded 1 plugins.
+
+[15:11:52] 
+[15:11:52] Filterscripts
+[15:11:52] ---------------
+[15:11:52]   Loaded 0 filterscripts.
+
+[15:11:52] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[15:11:52] 
+---------------------------------------------------------------
+[15:11:52]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:11:52] 
+---------------------------------------------------------------
+[15:11:52] Number of vehicle models: 4
+[15:11:56] [connection] incoming connection: 127.0.0.1:52257 id: 0
+[15:11:56] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:15:33] filterscripts = ""  (string)
+[15:15:33] 
+[15:15:33] Server Plugins
+[15:15:33] --------------
+[15:15:33]  Loading plugin: sscanf
+[15:15:33] 
+[15:15:33]  ===============================
+[15:15:33] 
+[15:15:33]       sscanf plugin loaded.     
+[15:15:33] 
+[15:15:33]          Version: 2.13.8
+[15:15:33] 
+[15:15:33]    (c) 2022 Alex "Y_Less" Cole  
+[15:15:33] 
+[15:15:33]  ===============================
+[15:15:33] 
+[15:15:33]   Loaded.
+[15:15:33]  Loading plugin: dof2
+[15:15:33]   Failed.
+[15:15:33]  Loaded 1 plugins.
+
+[15:15:33] 
+[15:15:33] Filterscripts
+[15:15:33] ---------------
+[15:15:33]   Loaded 0 filterscripts.
+
+[15:15:33] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[15:15:33] 
+---------------------------------------------------------------
+[15:15:33]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:15:33] 
+---------------------------------------------------------------
+[15:15:33] Number of vehicle models: 4
+[15:15:46] [connection] incoming connection: 127.0.0.1:62682 id: 0
+[15:15:46] [join] Storck has joined the server (0:127.0.0.1)
+[15:22:50] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:06] filterscripts = ""  (string)
+[15:24:06] 
+[15:24:06] Server Plugins
+[15:24:06] --------------
+[15:24:06]  Loading plugin: sscanf
+[15:24:06] 
+[15:24:06]  ===============================
+[15:24:06] 
+[15:24:06]       sscanf plugin loaded.     
+[15:24:06] 
+[15:24:06]          Version: 2.13.8
+[15:24:06] 
+[15:24:06]    (c) 2022 Alex "Y_Less" Cole  
+[15:24:06] 
+[15:24:06]  ===============================
+[15:24:06] 
+[15:24:06]   Loaded.
+[15:24:06]  Loading plugin: dof2
+[15:24:06]   Failed.
+[15:24:06]  Loaded 1 plugins.
+
+[15:24:06] 
+[15:24:06] Filterscripts
+[15:24:06] ---------------
+[15:24:06]   Loaded 0 filterscripts.
+
+[15:24:06] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[15:24:06] 
+---------------------------------------------------------------
+[15:24:06]   Bem-vindo ao meu servidor SAMP by: Storck
+[15:24:06] 
+---------------------------------------------------------------
+[15:24:06] Number of vehicle models: 4
+[15:25:42] [connection] incoming connection: 127.0.0.1:57101 id: 0
+[15:25:42] [join] Storck has joined the server (0:127.0.0.1)
+[15:27:07] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:08:39] filterscripts = ""  (string)
+[19:08:39] 
+[19:08:39] Server Plugins
+[19:08:39] --------------
+[19:08:39]  Loading plugin: sscanf
+[19:08:39] 
+[19:08:39]  ===============================
+[19:08:39] 
+[19:08:39]       sscanf plugin loaded.     
+[19:08:39] 
+[19:08:39]          Version: 2.13.8
+[19:08:39] 
+[19:08:39]    (c) 2022 Alex "Y_Less" Cole  
+[19:08:39] 
+[19:08:39]  ===============================
+[19:08:39] 
+[19:08:39]   Loaded.
+[19:08:39]  Loading plugin: dof2
+[19:08:39]   Failed.
+[19:08:39]  Loaded 1 plugins.
+
+[19:08:39] 
+[19:08:39] Filterscripts
+[19:08:39] ---------------
+[19:08:39]   Loaded 0 filterscripts.
+
+[19:08:39] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[19:08:39] 
+---------------------------------------------------------------
+[19:08:39]   Bem-vindo ao meu servidor SAMP by: Storck
+[19:08:39] 
+---------------------------------------------------------------
+[19:08:39] Number of vehicle models: 4
+[19:09:44] [connection] incoming connection: 127.0.0.1:62329 id: 0
+[19:09:44] [join] Storck has joined the server (0:127.0.0.1)
+[19:11:19] [part] Storck has left the server (0:0)
+[19:38:35] [connection] incoming connection: 127.0.0.1:65335 id: 0
+[19:38:35] [join] Storck has joined the server (0:127.0.0.1)
+[19:44:17] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:49:16] filterscripts = ""  (string)
+[19:49:16] 
+[19:49:16] Server Plugins
+[19:49:16] --------------
+[19:49:16]  Loading plugin: sscanf
+[19:49:16] 
+[19:49:16]  ===============================
+[19:49:16] 
+[19:49:16]       sscanf plugin loaded.     
+[19:49:16] 
+[19:49:16]          Version: 2.13.8
+[19:49:16] 
+[19:49:16]    (c) 2022 Alex "Y_Less" Cole  
+[19:49:16] 
+[19:49:16]  ===============================
+[19:49:16] 
+[19:49:16]   Loaded.
+[19:49:16]  Loading plugin: dof2
+[19:49:16]   Failed.
+[19:49:16]  Loaded 1 plugins.
+
+[19:49:16] 
+[19:49:16] Filterscripts
+[19:49:16] ---------------
+[19:49:16]   Loaded 0 filterscripts.
+
+[19:49:16] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[19:49:16] 
+---------------------------------------------------------------
+[19:49:16]   Bem-vindo ao meu servidor SAMP by: Storck
+[19:49:16] 
+---------------------------------------------------------------
+[19:49:16] Number of vehicle models: 4
+[19:49:35] [connection] incoming connection: 127.0.0.1:50543 id: 0
+[19:49:35] [join] Storck has joined the server (0:127.0.0.1)
+[19:49:53] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:49:58] filterscripts = ""  (string)
+[19:49:58] 
+[19:49:58] Server Plugins
+[19:49:58] --------------
+[19:49:58]  Loading plugin: sscanf
+[19:49:58] 
+[19:49:58]  ===============================
+[19:49:58] 
+[19:49:58]       sscanf plugin loaded.     
+[19:49:58] 
+[19:49:58]          Version: 2.13.8
+[19:49:58] 
+[19:49:58]    (c) 2022 Alex "Y_Less" Cole  
+[19:49:58] 
+[19:49:58]  ===============================
+[19:49:58] 
+[19:49:58]   Loaded.
+[19:49:58]  Loading plugin: dof2
+[19:49:58]   Failed.
+[19:49:58]  Loaded 1 plugins.
+
+[19:49:58] 
+[19:49:58] Filterscripts
+[19:49:58] ---------------
+[19:49:58]   Loaded 0 filterscripts.
+
+[19:49:58] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[19:49:58] 
+---------------------------------------------------------------
+[19:49:58]   Bem-vindo ao meu servidor SAMP by: Storck
+[19:49:58] 
+---------------------------------------------------------------
+[19:49:58] Number of vehicle models: 4
+[19:50:17] [connection] incoming connection: 127.0.0.1:55018 id: 0
+[19:50:17] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:58:30] filterscripts = ""  (string)
+[19:58:30] 
+[19:58:30] Server Plugins
+[19:58:30] --------------
+[19:58:30]  Loading plugin: sscanf
+[19:58:30] 
+[19:58:30]  ===============================
+[19:58:30] 
+[19:58:30]       sscanf plugin loaded.     
+[19:58:30] 
+[19:58:30]          Version: 2.13.8
+[19:58:30] 
+[19:58:30]    (c) 2022 Alex "Y_Less" Cole  
+[19:58:30] 
+[19:58:30]  ===============================
+[19:58:30] 
+[19:58:30]   Loaded.
+[19:58:30]  Loading plugin: dof2
+[19:58:30]   Failed.
+[19:58:30]  Loaded 1 plugins.
+
+[19:58:30] 
+[19:58:30] Filterscripts
+[19:58:30] ---------------
+[19:58:30]   Loaded 0 filterscripts.
+
+[19:58:30] [VEHICLE SYSTEM] Todos os veículos foram carregados.
+[19:58:30] 
+---------------------------------------------------------------
+[19:58:30]   Bem-vindo ao meu servidor SAMP by: Storck
+[19:58:30] 
+---------------------------------------------------------------
+[19:58:30] Number of vehicle models: 4
+[19:58:33] [connection] incoming connection: 127.0.0.1:56577 id: 0
+[19:58:33] [join] Storck has joined the server (0:127.0.0.1)
+[19:58:57] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:19:57] filterscripts = ""  (string)
+[20:19:57] 
+[20:19:57] Server Plugins
+[20:19:57] --------------
+[20:19:57]  Loading plugin: sscanf
+[20:19:57] 
+[20:19:57]  ===============================
+[20:19:57] 
+[20:19:57]       sscanf plugin loaded.     
+[20:19:57] 
+[20:19:57]          Version: 2.13.8
+[20:19:57] 
+[20:19:57]    (c) 2022 Alex "Y_Less" Cole  
+[20:19:57] 
+[20:19:57]  ===============================
+[20:19:57] 
+[20:19:57]   Loaded.
+[20:19:57]  Loading plugin: dof2
+[20:19:57]   Failed.
+[20:19:57]  Loaded 1 plugins.
+
+[20:19:57] 
+[20:19:57] Filterscripts
+[20:19:57] ---------------
+[20:19:57]   Loaded 0 filterscripts.
+
+[20:19:57] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:19:57] 
+---------------------------------------------------------------
+[20:19:57]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:19:57] 
+---------------------------------------------------------------
+[20:19:57] Number of vehicle models: 2
+[20:20:19] [connection] incoming connection: 127.0.0.1:58139 id: 0
+[20:20:19] [join] Storck has joined the server (0:127.0.0.1)
+[20:21:01] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:21:22] filterscripts = ""  (string)
+[20:21:22] 
+[20:21:22] Server Plugins
+[20:21:22] --------------
+[20:21:22]  Loading plugin: sscanf
+[20:21:22] 
+[20:21:22]  ===============================
+[20:21:22] 
+[20:21:22]       sscanf plugin loaded.     
+[20:21:22] 
+[20:21:22]          Version: 2.13.8
+[20:21:22] 
+[20:21:22]    (c) 2022 Alex "Y_Less" Cole  
+[20:21:22] 
+[20:21:22]  ===============================
+[20:21:22] 
+[20:21:22]   Loaded.
+[20:21:22]  Loading plugin: dof2
+[20:21:22]   Failed.
+[20:21:22]  Loaded 1 plugins.
+
+[20:21:22] 
+[20:21:22] Filterscripts
+[20:21:22] ---------------
+[20:21:22]   Loaded 0 filterscripts.
+
+[20:21:22] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:21:22] 
+---------------------------------------------------------------
+[20:21:22]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:21:22] 
+---------------------------------------------------------------
+[20:21:22] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:23:41] filterscripts = ""  (string)
+[20:23:41] 
+[20:23:41] Server Plugins
+[20:23:41] --------------
+[20:23:41]  Loading plugin: sscanf
+[20:23:41] 
+[20:23:41]  ===============================
+[20:23:41] 
+[20:23:41]       sscanf plugin loaded.     
+[20:23:41] 
+[20:23:41]          Version: 2.13.8
+[20:23:41] 
+[20:23:41]    (c) 2022 Alex "Y_Less" Cole  
+[20:23:41] 
+[20:23:41]  ===============================
+[20:23:41] 
+[20:23:41]   Loaded.
+[20:23:41]  Loading plugin: dof2
+[20:23:41]   Failed.
+[20:23:41]  Loaded 1 plugins.
+
+[20:23:41] 
+[20:23:41] Filterscripts
+[20:23:41] ---------------
+[20:23:41]   Loaded 0 filterscripts.
+
+[20:23:41] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:23:41] 
+---------------------------------------------------------------
+[20:23:41]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:23:41] 
+---------------------------------------------------------------
+[20:23:41] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:25:04] filterscripts = ""  (string)
+[20:25:04] 
+[20:25:04] Server Plugins
+[20:25:04] --------------
+[20:25:04]  Loading plugin: sscanf
+[20:25:04] 
+[20:25:04]  ===============================
+[20:25:04] 
+[20:25:04]       sscanf plugin loaded.     
+[20:25:04] 
+[20:25:04]          Version: 2.13.8
+[20:25:04] 
+[20:25:04]    (c) 2022 Alex "Y_Less" Cole  
+[20:25:04] 
+[20:25:04]  ===============================
+[20:25:04] 
+[20:25:04]   Loaded.
+[20:25:04]  Loading plugin: dof2
+[20:25:04]   Failed.
+[20:25:04]  Loaded 1 plugins.
+
+[20:25:04] 
+[20:25:04] Filterscripts
+[20:25:04] ---------------
+[20:25:04]   Loaded 0 filterscripts.
+
+[20:25:04] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:25:04] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:25:04] [JOBS] Todas as profissões foram inicializadas.
+[20:25:04] 
+---------------------------------------------------------------
+[20:25:04]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:25:04] 
+---------------------------------------------------------------
+[20:25:04] Number of vehicle models: 4
+[20:25:30] [connection] incoming connection: 127.0.0.1:50685 id: 0
+[20:25:30] [join] Storck has joined the server (0:127.0.0.1)
+[20:28:35] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:09] filterscripts = ""  (string)
+[20:30:09] 
+[20:30:09] Server Plugins
+[20:30:09] --------------
+[20:30:09]  Loading plugin: sscanf
+[20:30:09] 
+[20:30:09]  ===============================
+[20:30:09] 
+[20:30:09]       sscanf plugin loaded.     
+[20:30:09] 
+[20:30:09]          Version: 2.13.8
+[20:30:09] 
+[20:30:09]    (c) 2022 Alex "Y_Less" Cole  
+[20:30:09] 
+[20:30:09]  ===============================
+[20:30:09] 
+[20:30:09]   Loaded.
+[20:30:09]  Loading plugin: dof2
+[20:30:09]   Failed.
+[20:30:09]  Loaded 1 plugins.
+
+[20:30:09] 
+[20:30:09] Filterscripts
+[20:30:09] ---------------
+[20:30:09]   Loaded 0 filterscripts.
+
+[20:30:09] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:30:09] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:30:09] [JOBS] Todas as profissões foram inicializadas.
+[20:30:09] 
+---------------------------------------------------------------
+[20:30:09]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:30:09] 
+---------------------------------------------------------------
+[20:30:09] Number of vehicle models: 4
+[20:30:11] [connection] incoming connection: 127.0.0.1:60763 id: 0
+[20:30:12] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:02] filterscripts = ""  (string)
+[20:34:02] 
+[20:34:02] Server Plugins
+[20:34:02] --------------
+[20:34:02]  Loading plugin: sscanf
+[20:34:02] 
+[20:34:02]  ===============================
+[20:34:02] 
+[20:34:02]       sscanf plugin loaded.     
+[20:34:02] 
+[20:34:02]          Version: 2.13.8
+[20:34:02] 
+[20:34:02]    (c) 2022 Alex "Y_Less" Cole  
+[20:34:02] 
+[20:34:02]  ===============================
+[20:34:02] 
+[20:34:02]   Loaded.
+[20:34:02]  Loading plugin: dof2
+[20:34:02]   Failed.
+[20:34:02]  Loaded 1 plugins.
+
+[20:34:02] 
+[20:34:02] Filterscripts
+[20:34:02] ---------------
+[20:34:02]   Loaded 0 filterscripts.
+
+[20:34:02] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:34:02] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:34:02] [JOBS] Todas as profissões foram inicializadas.
+[20:34:02] 
+---------------------------------------------------------------
+[20:34:02]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:34:02] 
+---------------------------------------------------------------
+[20:34:02] Number of vehicle models: 4
+[20:34:06] [connection] incoming connection: 127.0.0.1:63639 id: 0
+[20:34:07] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:35:24] filterscripts = ""  (string)
+[20:35:24] 
+[20:35:24] Server Plugins
+[20:35:24] --------------
+[20:35:24]  Loading plugin: sscanf
+[20:35:24] 
+[20:35:24]  ===============================
+[20:35:24] 
+[20:35:24]       sscanf plugin loaded.     
+[20:35:24] 
+[20:35:24]          Version: 2.13.8
+[20:35:24] 
+[20:35:24]    (c) 2022 Alex "Y_Less" Cole  
+[20:35:24] 
+[20:35:24]  ===============================
+[20:35:24] 
+[20:35:24]   Loaded.
+[20:35:24]  Loading plugin: dof2
+[20:35:24]   Failed.
+[20:35:24]  Loaded 1 plugins.
+
+[20:35:24] 
+[20:35:24] Filterscripts
+[20:35:24] ---------------
+[20:35:24]   Loaded 0 filterscripts.
+
+[20:35:24] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:35:24] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:35:24] [JOBS] Todas as profissões foram inicializadas.
+[20:35:24] 
+---------------------------------------------------------------
+[20:35:24]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:35:24] 
+---------------------------------------------------------------
+[20:35:24] Number of vehicle models: 4
+[20:35:27] [connection] incoming connection: 127.0.0.1:53549 id: 0
+[20:35:27] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:36:48] filterscripts = ""  (string)
+[20:36:48] 
+[20:36:48] Server Plugins
+[20:36:48] --------------
+[20:36:48]  Loading plugin: sscanf
+[20:36:48] 
+[20:36:48]  ===============================
+[20:36:48] 
+[20:36:48]       sscanf plugin loaded.     
+[20:36:48] 
+[20:36:48]          Version: 2.13.8
+[20:36:48] 
+[20:36:48]    (c) 2022 Alex "Y_Less" Cole  
+[20:36:48] 
+[20:36:48]  ===============================
+[20:36:48] 
+[20:36:48]   Loaded.
+[20:36:48]  Loading plugin: dof2
+[20:36:48]   Failed.
+[20:36:48]  Loaded 1 plugins.
+
+[20:36:48] 
+[20:36:48] Filterscripts
+[20:36:48] ---------------
+[20:36:48]   Loaded 0 filterscripts.
+
+[20:36:48] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:36:48] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:36:48] [JOBS] Todas as profissões foram inicializadas.
+[20:36:48] 
+---------------------------------------------------------------
+[20:36:48]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:36:48] 
+---------------------------------------------------------------
+[20:36:48] Number of vehicle models: 4
+[20:37:06] [connection] incoming connection: 127.0.0.1:51914 id: 0
+[20:37:06] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:46] filterscripts = ""  (string)
+[20:39:46] 
+[20:39:46] Server Plugins
+[20:39:46] --------------
+[20:39:46]  Loading plugin: sscanf
+[20:39:46] 
+[20:39:46]  ===============================
+[20:39:46] 
+[20:39:46]       sscanf plugin loaded.     
+[20:39:46] 
+[20:39:46]          Version: 2.13.8
+[20:39:46] 
+[20:39:46]    (c) 2022 Alex "Y_Less" Cole  
+[20:39:46] 
+[20:39:46]  ===============================
+[20:39:46] 
+[20:39:46]   Loaded.
+[20:39:46]  Loading plugin: dof2
+[20:39:46]   Failed.
+[20:39:46]  Loaded 1 plugins.
+
+[20:39:46] 
+[20:39:46] Filterscripts
+[20:39:46] ---------------
+[20:39:46]   Loaded 0 filterscripts.
+
+[20:39:46] [VEHICLE SYSTEM] Veículos gerais carregados.
+[20:39:46] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[20:39:46] [JOBS] Todas as profissões foram inicializadas.
+[20:39:46] 
+---------------------------------------------------------------
+[20:39:46]   Bem-vindo ao meu servidor SAMP by: Storck
+[20:39:46] 
+---------------------------------------------------------------
+[20:39:46] Number of vehicle models: 4
+[20:39:55] [connection] incoming connection: 127.0.0.1:57568 id: 0
+[20:39:55] [join] Storck has joined the server (0:127.0.0.1)
+[20:42:19] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:11:30] filterscripts = ""  (string)
+[08:11:30] 
+[08:11:30] Server Plugins
+[08:11:30] --------------
+[08:11:30]  Loading plugin: sscanf
+[08:11:30] 
+[08:11:30]  ===============================
+[08:11:30] 
+[08:11:30]       sscanf plugin loaded.     
+[08:11:30] 
+[08:11:30]          Version: 2.13.8
+[08:11:30] 
+[08:11:30]    (c) 2022 Alex "Y_Less" Cole  
+[08:11:30] 
+[08:11:30]  ===============================
+[08:11:30] 
+[08:11:30]   Loaded.
+[08:11:30]  Loading plugin: dof2
+[08:11:30]   Failed.
+[08:11:30]  Loaded 1 plugins.
+
+[08:11:30] 
+[08:11:30] Filterscripts
+[08:11:30] ---------------
+[08:11:30]   Loaded 0 filterscripts.
+
+[08:11:30] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:11:30] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[08:11:30] [JOBS] Todas as profissões foram inicializadas.
+[08:11:30] 
+---------------------------------------------------------------
+[08:11:30]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:11:30] 
+---------------------------------------------------------------
+[08:11:30] Number of vehicle models: 4
+[08:11:57] [connection] incoming connection: 127.0.0.1:57844 id: 0
+[08:12:01] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:26:31] filterscripts = ""  (string)
+[08:26:31] 
+[08:26:31] Server Plugins
+[08:26:31] --------------
+[08:26:31]  Loading plugin: sscanf
+[08:26:31] 
+[08:26:31]  ===============================
+[08:26:31] 
+[08:26:31]       sscanf plugin loaded.     
+[08:26:31] 
+[08:26:31]          Version: 2.13.8
+[08:26:31] 
+[08:26:31]    (c) 2022 Alex "Y_Less" Cole  
+[08:26:31] 
+[08:26:31]  ===============================
+[08:26:31] 
+[08:26:31]   Loaded.
+[08:26:31]  Loading plugin: dof2
+[08:26:31]   Failed.
+[08:26:31]  Loaded 1 plugins.
+
+[08:26:31] 
+[08:26:31] Filterscripts
+[08:26:31] ---------------
+[08:26:31]   Loaded 0 filterscripts.
+
+[08:26:31] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:26:31] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[08:26:31] [JOBS] Todas as profissões foram inicializadas.
+[08:26:31] 
+---------------------------------------------------------------
+[08:26:31]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:26:31] 
+---------------------------------------------------------------
+[08:26:31] Number of vehicle models: 4
+[08:26:37] [connection] incoming connection: 127.0.0.1:52710 id: 0
+[08:26:37] [join] Storck has joined the server (0:127.0.0.1)
+[08:30:06] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:33:17] filterscripts = ""  (string)
+[08:33:17] 
+[08:33:17] Server Plugins
+[08:33:17] --------------
+[08:33:17]  Loading plugin: sscanf
+[08:33:17] 
+[08:33:17]  ===============================
+[08:33:17] 
+[08:33:17]       sscanf plugin loaded.     
+[08:33:17] 
+[08:33:17]          Version: 2.13.8
+[08:33:17] 
+[08:33:17]    (c) 2022 Alex "Y_Less" Cole  
+[08:33:17] 
+[08:33:17]  ===============================
+[08:33:17] 
+[08:33:17]   Loaded.
+[08:33:17]  Loading plugin: dof2
+[08:33:17]   Failed.
+[08:33:17]  Loaded 1 plugins.
+
+[08:33:17] 
+[08:33:17] Filterscripts
+[08:33:17] ---------------
+[08:33:17]   Loaded 0 filterscripts.
+
+[08:33:17] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:33:17] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[08:33:17] [JOBS] Todas as profissões foram inicializadas.
+[08:33:17] 
+---------------------------------------------------------------
+[08:33:17]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:33:17] 
+---------------------------------------------------------------
+[08:33:17] Number of vehicle models: 4
+[08:33:37] [connection] incoming connection: 127.0.0.1:56841 id: 0
+[08:33:37] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:36:29] filterscripts = ""  (string)
+[08:36:29] 
+[08:36:29] Server Plugins
+[08:36:29] --------------
+[08:36:29]  Loading plugin: sscanf
+[08:36:29] 
+[08:36:29]  ===============================
+[08:36:29] 
+[08:36:29]       sscanf plugin loaded.     
+[08:36:29] 
+[08:36:29]          Version: 2.13.8
+[08:36:29] 
+[08:36:29]    (c) 2022 Alex "Y_Less" Cole  
+[08:36:29] 
+[08:36:29]  ===============================
+[08:36:29] 
+[08:36:29]   Loaded.
+[08:36:29]  Loading plugin: dof2
+[08:36:29]   Failed.
+[08:36:29]  Loaded 1 plugins.
+
+[08:36:29] 
+[08:36:29] Filterscripts
+[08:36:29] ---------------
+[08:36:29]   Loaded 0 filterscripts.
+
+[08:36:29] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:36:29] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[08:36:29] [JOBS] Todas as profissões foram inicializadas.
+[08:36:29] 
+---------------------------------------------------------------
+[08:36:29]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:36:29] 
+---------------------------------------------------------------
+[08:36:29] Number of vehicle models: 4
+[08:36:48] [connection] incoming connection: 127.0.0.1:57145 id: 0
+[08:36:49] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:46:08] filterscripts = ""  (string)
+[08:46:08] 
+[08:46:08] Server Plugins
+[08:46:08] --------------
+[08:46:08]  Loading plugin: sscanf
+[08:46:08] 
+[08:46:08]  ===============================
+[08:46:08] 
+[08:46:08]       sscanf plugin loaded.     
+[08:46:08] 
+[08:46:08]          Version: 2.13.8
+[08:46:08] 
+[08:46:08]    (c) 2022 Alex "Y_Less" Cole  
+[08:46:08] 
+[08:46:08]  ===============================
+[08:46:08] 
+[08:46:08]   Loaded.
+[08:46:08]  Loading plugin: dof2
+[08:46:08]   Failed.
+[08:46:08]  Loaded 1 plugins.
+
+[08:46:08] 
+[08:46:08] Filterscripts
+[08:46:08] ---------------
+[08:46:08]   Loaded 0 filterscripts.
+
+[08:46:08] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:46:08] [TRUCKER] Veículos da profissão caminhoneiro carregados.
+[08:46:08] [JOBS] Todas as profissões foram inicializadas.
+[08:46:08] 
+---------------------------------------------------------------
+[08:46:08]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:46:08] 
+---------------------------------------------------------------
+[08:46:08] Number of vehicle models: 4
+[08:46:26] [connection] incoming connection: 127.0.0.1:64971 id: 0
+[08:46:26] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:57:42] filterscripts = ""  (string)
+[08:57:42] 
+[08:57:42] Server Plugins
+[08:57:42] --------------
+[08:57:42]  Loading plugin: sscanf
+[08:57:42] 
+[08:57:42]  ===============================
+[08:57:42] 
+[08:57:42]       sscanf plugin loaded.     
+[08:57:42] 
+[08:57:42]          Version: 2.13.8
+[08:57:42] 
+[08:57:42]    (c) 2022 Alex "Y_Less" Cole  
+[08:57:42] 
+[08:57:42]  ===============================
+[08:57:42] 
+[08:57:42]   Loaded.
+[08:57:42]  Loading plugin: dof2
+[08:57:42]   Failed.
+[08:57:42]  Loaded 1 plugins.
+
+[08:57:42] 
+[08:57:42] Filterscripts
+[08:57:42] ---------------
+[08:57:42]   Loaded 0 filterscripts.
+
+[08:57:42] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:57:42] [TRUCKER] Frota da profissão carregada.
+[08:57:42] [JOBS] Todas as profissões foram inicializadas.
+[08:57:42] 
+---------------------------------------------------------------
+[08:57:42]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:57:42] 
+---------------------------------------------------------------
+[08:57:42] Number of vehicle models: 5
+[08:57:53] [connection] incoming connection: 127.0.0.1:58239 id: 0
+[08:57:53] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:06:35] filterscripts = ""  (string)
+[09:06:35] 
+[09:06:35] Server Plugins
+[09:06:35] --------------
+[09:06:35]  Loading plugin: sscanf
+[09:06:35] 
+[09:06:35]  ===============================
+[09:06:35] 
+[09:06:35]       sscanf plugin loaded.     
+[09:06:35] 
+[09:06:35]          Version: 2.13.8
+[09:06:35] 
+[09:06:35]    (c) 2022 Alex "Y_Less" Cole  
+[09:06:35] 
+[09:06:35]  ===============================
+[09:06:35] 
+[09:06:35]   Loaded.
+[09:06:35]  Loading plugin: dof2
+[09:06:35]   Failed.
+[09:06:35]  Loaded 1 plugins.
+
+[09:06:35] 
+[09:06:35] Filterscripts
+[09:06:35] ---------------
+[09:06:35]   Loaded 0 filterscripts.
+
+[09:06:35] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:06:35] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:06:35] [JOBS] Todas as profissões foram inicializadas.
+[09:06:35] 
+---------------------------------------------------------------
+[09:06:35]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:06:35] 
+---------------------------------------------------------------
+[09:06:35] Number of vehicle models: 5
+[09:06:37] [connection] incoming connection: 127.0.0.1:63988 id: 0
+[09:06:37] [join] Storck has joined the server (0:127.0.0.1)
+[09:11:19] [part] Storck has left the server (0:1)
+[09:13:00] [connection] incoming connection: 127.0.0.1:52843 id: 0
+[09:13:00] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:20:21] filterscripts = ""  (string)
+[09:20:21] 
+[09:20:21] Server Plugins
+[09:20:21] --------------
+[09:20:21]  Loading plugin: sscanf
+[09:20:21] 
+[09:20:21]  ===============================
+[09:20:21] 
+[09:20:21]       sscanf plugin loaded.     
+[09:20:21] 
+[09:20:21]          Version: 2.13.8
+[09:20:21] 
+[09:20:21]    (c) 2022 Alex "Y_Less" Cole  
+[09:20:21] 
+[09:20:21]  ===============================
+[09:20:21] 
+[09:20:21]   Loaded.
+[09:20:21]  Loading plugin: dof2
+[09:20:21]   Failed.
+[09:20:21]  Loaded 1 plugins.
+
+[09:20:21] 
+[09:20:21] Filterscripts
+[09:20:21] ---------------
+[09:20:21]   Loaded 0 filterscripts.
+
+[09:20:21] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:20:21] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:20:21] [JOBS] Todas as profissões foram inicializadas.
+[09:20:21] 
+---------------------------------------------------------------
+[09:20:21]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:20:21] 
+---------------------------------------------------------------
+[09:20:21] Number of vehicle models: 5
+[09:20:26] [connection] incoming connection: 127.0.0.1:59650 id: 0
+[09:20:26] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:25:17] filterscripts = ""  (string)
+[09:25:17] 
+[09:25:17] Server Plugins
+[09:25:17] --------------
+[09:25:17]  Loading plugin: sscanf
+[09:25:17] 
+[09:25:17]  ===============================
+[09:25:17] 
+[09:25:17]       sscanf plugin loaded.     
+[09:25:17] 
+[09:25:17]          Version: 2.13.8
+[09:25:17] 
+[09:25:17]    (c) 2022 Alex "Y_Less" Cole  
+[09:25:17] 
+[09:25:17]  ===============================
+[09:25:17] 
+[09:25:17]   Loaded.
+[09:25:17]  Loading plugin: dof2
+[09:25:17]   Failed.
+[09:25:17]  Loaded 1 plugins.
+
+[09:25:17] 
+[09:25:17] Filterscripts
+[09:25:17] ---------------
+[09:25:17]   Loaded 0 filterscripts.
+
+[09:25:17] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:25:17] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:25:17] [JOBS] Todas as profissões foram inicializadas.
+[09:25:17] 
+---------------------------------------------------------------
+[09:25:17]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:25:17] 
+---------------------------------------------------------------
+[09:25:17] Number of vehicle models: 5
+[09:25:20] [connection] incoming connection: 127.0.0.1:63823 id: 0
+[09:25:20] [join] Storck has joined the server (0:127.0.0.1)
+[09:28:36] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:10:32] filterscripts = ""  (string)
+[10:10:32] 
+[10:10:32] Server Plugins
+[10:10:32] --------------
+[10:10:32]  Loading plugin: sscanf
+[10:10:32] 
+[10:10:32]  ===============================
+[10:10:32] 
+[10:10:32]       sscanf plugin loaded.     
+[10:10:32] 
+[10:10:32]          Version: 2.13.8
+[10:10:32] 
+[10:10:32]    (c) 2022 Alex "Y_Less" Cole  
+[10:10:32] 
+[10:10:32]  ===============================
+[10:10:32] 
+[10:10:32]   Loaded.
+[10:10:32]  Loading plugin: dof2
+[10:10:32]   Failed.
+[10:10:32]  Loaded 1 plugins.
+
+[10:10:32] 
+[10:10:32] Filterscripts
+[10:10:32] ---------------
+[10:10:32]   Loaded 0 filterscripts.
+
+[10:10:32] [VEHICLE SYSTEM] Veículos gerais carregados.
+[10:10:32] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[10:10:32] [JOBS] Todas as profissões foram inicializadas.
+[10:10:32] 
+---------------------------------------------------------------
+[10:10:32]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:10:32] 
+---------------------------------------------------------------
+[10:10:32] Number of vehicle models: 5
+[10:12:57] [connection] incoming connection: 127.0.0.1:63333 id: 0
+[10:12:58] [join] Storck has joined the server (0:127.0.0.1)
+[10:28:30] [part] Storck has left the server (0:1)

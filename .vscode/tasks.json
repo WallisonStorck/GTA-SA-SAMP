@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "${workspaceFolder}/pawno/pawncc.exe",
+      "args": [
+        "\"${file}\"",
+        "-i${workspaceFolder}/include",
+        "-i${workspaceFolder}/include/core",
+        "-i${workspaceFolder}/include/modules",
+        "-i${workspaceFolder}/include/modules/admin",
+        "-i${workspaceFolder}/include/modules/player",
+        "-i${workspaceFolder}/include/modules/vehicles",
+        "-i${workspaceFolder}/pawno/include",
+        "-d3"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    }
+  ]
+}
