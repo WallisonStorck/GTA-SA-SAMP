@@ -25,7 +25,7 @@ stock Player_OnConnect(playerid)
 {
     PlayerData[playerid][IsLogged]   = false;
     PlayerData[playerid][Level]      = 1;
-    PlayerData[playerid][Money]      = 500;
+    PlayerData[playerid][Money]      = 1500;
     // PlayerData[playerid][AdminLevel] = ROLE_PLAYER;
 
     Player_LoadAccount(playerid);

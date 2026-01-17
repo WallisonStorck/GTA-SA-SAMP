@@ -1,30 +1,58 @@
+// {
+//   "version": "2.0.0",
+//   "tasks": [
+//     {
+//       "label": "build",
+//       "type": "shell",
+//       "command": "${workspaceFolder}/pawno/pawncc.exe",
+//       "args": [
+//         "\"${file}\"",
+//         "-i${workspaceFolder}/include",
+//         "-i${workspaceFolder}/include/core",
+//         "-i${workspaceFolder}/include/modules",
+//         "-i${workspaceFolder}/include/modules/admin",
+//         "-i${workspaceFolder}/include/modules/player",
+//         "-i${workspaceFolder}/include/modules/vehicles",
+//         "-i${workspaceFolder}/pawno/include",
+//         "-d3"
+//       ],
+//       "group": {
+//         "kind": "build",
+//         "isDefault": true
+//       },
+//       "presentation": {
+//         "reveal": "always",
+//         "panel": "dedicated"
+//       },
+//       "problemMatcher": "$pawncc"
+//     }
+//   ]
+// }
+
 {
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build",
+      "label": "Compilar Pawn (main.pwn)",
       "type": "shell",
-      "command": "${workspaceFolder}/pawno/pawncc.exe",
+      "command": "C:\\MyServerStorcks\\pawno\\pawncc.exe",
       "args": [
-        "\"${file}\"",
-        "-i${workspaceFolder}/include",
-        "-i${workspaceFolder}/include/core",
-        "-i${workspaceFolder}/include/modules",
-        "-i${workspaceFolder}/include/modules/admin",
-        "-i${workspaceFolder}/include/modules/player",
-        "-i${workspaceFolder}/include/modules/vehicles",
-        "-i${workspaceFolder}/pawno/include",
-        "-d3"
+        "C:\\MyServerStorcks\\gamemodes\\main.pwn",
+        "-oC:\\MyServerStorcks\\gamemodes\\main.amx",
+        "-;+", // Mostra mais detalhes
+        "-(+", // Mostra warnings formatados
+        "-d3" // Geração de debug (opcional)
       ],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
+      "group": "build",
       "presentation": {
         "reveal": "always",
-        "panel": "dedicated"
+        "panel": "shared",
+        "echo": true,
+        "focus": false,
+        "showReuseMessage": true,
+        "clear": true
       },
-      "problemMatcher": "$pawncc"
+      "problemMatcher": []
     }
   ]
 }

@@ -160,7 +160,7 @@ CMD:asf(playerid, params[])
     return 1;
 }
 
-CMD:spawn(playerid, params[])
+CMD:w(playerid, params[])
 {
     if (!IsAdmin(playerid, ROLE_ADMIN2))
         return SendError(playerid, "Você não tem permissão!");

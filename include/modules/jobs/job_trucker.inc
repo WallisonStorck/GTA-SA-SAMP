@@ -3,11 +3,6 @@
 #endif
 #define _JOB_TRUCKER_INC_
 
-
-// ===============================================================
-//  DEFINES EXCLUSIVOS DA PROFISSÃO
-// ===============================================================
-
 #define TRUCK_MODEL            403     // Linerunner
 #define TRUCK_COLOR_1          10      // Azul
 #define TRUCK_COLOR_2          10      // Azul
@@ -20,7 +15,7 @@
 
 
 // ===============================================================
-//  SPAWN GERAL
+//  Ocean Docks - LS
 //  Caminhões + Tankers (435)
 // ===============================================================
 
@@ -40,14 +35,51 @@ new Float:tanker_spawns_general[][4] =
 {
     { 2174.55, -2265.69, 14.00, 224.30 },
     { 2167.02, -2272.98, 14.00, 224.30 },
-    { 2160.49, -2279.32, 14.00, 224.30 },
+    // { 2160.49, -2279.32, 14.00, 224.30 },
 
-    { 2194.22, -2237.04, 14.18, 224.00 },
-    { 2201.22, -2230.04, 14.18, 224.00 },
-    { 2208.22, -2223.04, 14.18, 224.00 }
+    { 2207.34, -2276.83, 14.18, 45.00 },
+    { 2214.64, -2269.53, 14.18, 45.00 },
+    { 2221.94, -2262.23, 14.18, 45.00 },
+    { 2229.24, -2254.93, 14.18, 45.00 },
+    { 2236.54, -2247.63, 14.18, 45.00 },
+
+    { 2184.70, -2226.22, 14.18, 225.50 },
+    { 2189.02, -2221.75, 14.18, 225.50 },
+    { 2193.33, -2217.29, 14.18, 225.50 },
+    { 2197.65, -2212.82, 14.18, 225.50 },
+    { 2201.96, -2208.36, 14.18, 225.50 },
+    { 2206.28, -2203.89, 14.18, 225.50 }
 
 };
 
+stock Trucker_RemoveMap(playerid)
+{
+    // Ocean Docks - LS (Spawn Caminhoneiro)
+    RemoveBuildingForPlayer(playerid, 3686, 2195.0859, -2216.8438, 15.9063, 0.25);
+    RemoveBuildingForPlayer(playerid, 3744, 2193.2578, -2286.2891, 14.8125, 0.25);
+    RemoveBuildingForPlayer(playerid, 5305, 2198.8516, -2213.9219, 14.8828, 0.25);
+
+    RemoveBuildingForPlayer(playerid, 3747, 2234.3906, -2244.8281, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3747, 2226.9688, -2252.1406, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3747, 2219.4219, -2259.5234, 14.8828, 0.25);
+    RemoveBuildingForPlayer(playerid, 3747, 2212.0938, -2267.0703, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3747, 2204.6328, -2274.4141, 14.9375, 0.25);
+
+    RemoveBuildingForPlayer(playerid, 3578, 2165.0703, -2288.9688, 13.2578, 0.25);
+    RemoveBuildingForPlayer(playerid, 3574, 2193.2578, -2286.2891, 14.8125, 0.25);
+
+    RemoveBuildingForPlayer(playerid, 3569, 2204.6328, -2274.4141, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3569, 2212.0938, -2267.0703, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3569, 2219.4219, -2259.5234, 14.8828, 0.25);
+    RemoveBuildingForPlayer(playerid, 3569, 2226.9688, -2252.1406, 14.9375, 0.25);
+    RemoveBuildingForPlayer(playerid, 3569, 2234.3906, -2244.8281, 14.9375, 0.25);
+
+    RemoveBuildingForPlayer(playerid, 3578, 2235.1641, -2231.8516, 13.2578, 0.25);
+    RemoveBuildingForPlayer(playerid, 3627, 2195.0859, -2216.8438, 15.9063, 0.25);
+    RemoveBuildingForPlayer(playerid, 5244, 2198.8516, -2213.9219, 14.8828, 0.25);
+
+    return 1;
+}
 
 
 // ===============================================================
@@ -86,12 +118,6 @@ new Float:trailer_spawns_refinery[][4] =
     { 2508.72, -2112.80, 14.50, 359.00 },
     { 2515.72, -2112.80, 14.50, 359.00 }
 };
-
-
-
-// ===============================================================
-//  CRIADOR DE VEÍCULOS DA PROFISSÃO
-// ===============================================================
 
 stock Trucker_CreateVehicles()
 {
@@ -156,7 +182,6 @@ stock Trucker_CreateVehicles()
 }
 
 
-
 // ===============================================================
 //  FUNÇÃO PRINCIPAL DA PROFISSÃO
 //  Chamado automaticamente por jobs.inc
@@ -171,5 +196,12 @@ stock Trucker_OnGameModeInit()
     // Trucker_InitCommands();
     // Trucker_InitPayments();
 
+    return 1;
+}
+
+
+stock Trucker_OnPlayerConnect(playerid)
+{
+    Trucker_RemoveMap(playerid);
     return 1;
 }

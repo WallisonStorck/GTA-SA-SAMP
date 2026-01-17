@@ -59,6 +59,7 @@ new Float:TruckerRoutes[][e_route] = {
     { 1350.22, 260.44, 19.55 },  // Montgomery
     { -2156.22, -2444.88, 30.60 }, // Angel Pine
     { 2035.51, 1342.22, 10.60 },  // Las Venturas Centro
+    { 1614.76, 2348.19, 10.82, 184.09 } // Las Venturas Centro 2
     { -1622.22, 707.33, 13.60 }   // San Fierro (doca, aeroporto etc.)
 };
 ```

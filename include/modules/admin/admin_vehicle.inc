@@ -1,9 +1,9 @@
 // (car, poscar, spawncar)
 
 // =============================================================
-// /car Criar veículo no local (Admin2+)
+// /v Criar veículo no local (Admin2+)
 // =============================================================
-CMD:car(playerid, params[])
+CMD:v(playerid, params[])
 {
     if (!IsAdmin(playerid, ROLE_ADMIN2))
         return SendError(playerid, "Você não tem permissão para criar veículos!");
@@ -37,10 +37,10 @@ CMD:car(playerid, params[])
 }
 
 // =============================================================
-// /poscar Salvar posição do veículo atual (MASTER)
+// /posv Salvar posição do veículo atual (MASTER)
 // Log: scriptfiles/savedpositions/vehicle_positions.log
 // =============================================================
-CMD:poscar(playerid)
+CMD:posv(playerid)
 {
     if (!IsAdmin(playerid, ROLE_MASTER))
         return SendError(playerid, "Você não tem permissão!");
@@ -160,6 +160,60 @@ CMD:dv(playerid, params[])
     CmdAdmin(playerid, "Veículo destruído com sucesso.");
     return 1;
 }
+
+// =============================================================
+// /vhp | Verifica a saúde do veículo (Admin2+)
+// =============================================================
+CMD:vhp(playerid, params[])
+{
+    if (!IsAdmin(playerid, ROLE_ADMIN2))
+            return SendError(playerid, "Você não tem permissão.");
+
+    if (!IsPlayerInAnyVehicle(playerid))
+        return SendError(playerid, "Você não está dentro de um veículo.");
+
+    new vehicleid = GetPlayerVehicleID(playerid);
+    new Float:health;
+
+    GetVehicleHealth(vehicleid, health);
+
+    new msg[128];
+    format(msg, sizeof(msg), "Saúde do veículo: %.2f", health);
+    CmdAdmin(playerid, msg);
+
+    return 1;
+}
+
+// =============================================================
+// /setvhp [valor] | Define a saúde do veículo (Admin2+)
+// =============================================================
+CMD:setvhp(playerid, params[])
+{
+    if (!IsAdmin(playerid, ROLE_ADMIN2))
+        return SendError(playerid, "Você não tem permissão.");
+
+    if (!IsPlayerInAnyVehicle(playerid))
+        return SendError(playerid, "Você não está dentro de um veículo.");
+
+    new Float:health;
+    if (sscanf(params, "f", health))
+        return SendError(playerid, "Uso correto: /setvhp [valor]");
+
+    // Validação básica
+    if (health < 0 || health > 1000.0)
+        return SendError(playerid, "A saúde deve estar entre 0 e 1000.");
+
+    new vehicleid = GetPlayerVehicleID(playerid);
+
+    SetVehicleHealth(vehicleid, health);
+
+    new msg[128];
+    format(msg, sizeof(msg), "Saúde do veículo definida para %.2f!", health);
+    CmdAdmin(playerid, msg);
+
+    return 1;
+}
+
 
 
 // =============================================================

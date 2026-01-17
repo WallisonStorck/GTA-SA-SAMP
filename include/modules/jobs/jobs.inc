@@ -13,11 +13,7 @@
 //  INCLUDES DE TODAS AS PROFISSÕES
 // ---------------------------------------------
 #include "../include/modules/jobs/job_trucker.inc"
-// futuramente:
-// #include "job_police.inc"
-// #include "job_miner.inc"
-// #include "job_farmer.inc"
-// etc.
+#include "../include/modules/jobs/job_scrap.inc"
 
 
 // ==========================================================
@@ -33,5 +29,12 @@ stock Jobs_OnGameModeInit()
     // ...
 
     print("[JOBS] Todas as profissões foram inicializadas.");
+    return 1;
+}
+
+stock Jobs_OnPlayerConnect(playerid)
+{
+    Trucker_OnPlayerConnect(playerid);
+
     return 1;
 }

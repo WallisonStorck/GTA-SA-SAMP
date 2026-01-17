@@ -5996,3 +5996,1267 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [10:12:57] [connection] incoming connection: 127.0.0.1:63333 id: 0
 [10:12:58] [join] Storck has joined the server (0:127.0.0.1)
 [10:28:30] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:58] filterscripts = ""  (string)
+[17:48:58] 
+[17:48:58] Server Plugins
+[17:48:58] --------------
+[17:48:58]  Loading plugin: sscanf
+[17:48:58] 
+[17:48:58]  ===============================
+[17:48:58] 
+[17:48:58]       sscanf plugin loaded.     
+[17:48:58] 
+[17:48:58]          Version: 2.13.8
+[17:48:58] 
+[17:48:58]    (c) 2022 Alex "Y_Less" Cole  
+[17:48:58] 
+[17:48:58]  ===============================
+[17:48:58] 
+[17:48:58]   Loaded.
+[17:48:58]  Loading plugin: dof2
+[17:48:58]   Failed.
+[17:48:58]  Loaded 1 plugins.
+
+[17:48:58] 
+[17:48:58] Filterscripts
+[17:48:58] ---------------
+[17:48:58]   Loaded 0 filterscripts.
+
+[17:48:58] [VEHICLE SYSTEM] Veículos gerais carregados.
+[17:48:58] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[17:48:58] [JOBS] Todas as profissões foram inicializadas.
+[17:48:58] 
+---------------------------------------------------------------
+[17:48:58]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:48:58] 
+---------------------------------------------------------------
+[17:48:58] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:50:59] filterscripts = ""  (string)
+[17:50:59] 
+[17:50:59] Server Plugins
+[17:50:59] --------------
+[17:50:59]  Loading plugin: sscanf
+[17:50:59] 
+[17:50:59]  ===============================
+[17:50:59] 
+[17:50:59]       sscanf plugin loaded.     
+[17:50:59] 
+[17:50:59]          Version: 2.13.8
+[17:50:59] 
+[17:50:59]    (c) 2022 Alex "Y_Less" Cole  
+[17:50:59] 
+[17:50:59]  ===============================
+[17:50:59] 
+[17:50:59]   Loaded.
+[17:50:59]  Loaded 1 plugins.
+
+[17:50:59] 
+[17:50:59] Filterscripts
+[17:50:59] ---------------
+[17:50:59]   Loaded 0 filterscripts.
+
+[17:50:59] [VEHICLE SYSTEM] Veículos gerais carregados.
+[17:50:59] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[17:50:59] [JOBS] Todas as profissões foram inicializadas.
+[17:50:59] 
+---------------------------------------------------------------
+[17:50:59]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:50:59] 
+---------------------------------------------------------------
+[17:50:59] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:20] filterscripts = ""  (string)
+[17:52:20] 
+[17:52:20] Server Plugins
+[17:52:20] --------------
+[17:52:20]  Loading plugin: sscanf
+[17:52:20] 
+[17:52:20]  ===============================
+[17:52:20] 
+[17:52:20]       sscanf plugin loaded.     
+[17:52:20] 
+[17:52:20]          Version: 2.13.8
+[17:52:20] 
+[17:52:20]    (c) 2022 Alex "Y_Less" Cole  
+[17:52:20] 
+[17:52:20]  ===============================
+[17:52:20] 
+[17:52:20]   Loaded.
+[17:52:20]  Loaded 1 plugins.
+
+[17:52:20] 
+[17:52:20] Filterscripts
+[17:52:20] ---------------
+[17:52:20]   Loaded 0 filterscripts.
+
+[17:52:20] [VEHICLE SYSTEM] Veículos gerais carregados.
+[17:52:20] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[17:52:20] [JOBS] Todas as profissões foram inicializadas.
+[17:52:20] 
+---------------------------------------------------------------
+[17:52:20]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:52:20] 
+---------------------------------------------------------------
+[17:52:20] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:45] filterscripts = ""  (string)
+[17:52:45] 
+[17:52:45] Server Plugins
+[17:52:45] --------------
+[17:52:45]  Loading plugin: sscanf
+[17:52:45] 
+[17:52:45]  ===============================
+[17:52:45] 
+[17:52:45]       sscanf plugin loaded.     
+[17:52:45] 
+[17:52:45]          Version: 2.13.8
+[17:52:45] 
+[17:52:45]    (c) 2022 Alex "Y_Less" Cole  
+[17:52:45] 
+[17:52:45]  ===============================
+[17:52:45] 
+[17:52:45]   Loaded.
+[17:52:45]  Loaded 1 plugins.
+
+[17:52:45] 
+[17:52:45] Filterscripts
+[17:52:45] ---------------
+[17:52:45]   Loaded 0 filterscripts.
+
+[17:52:45] [VEHICLE SYSTEM] Veículos gerais carregados.
+[17:52:45] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[17:52:45] [JOBS] Todas as profissões foram inicializadas.
+[17:52:45] 
+---------------------------------------------------------------
+[17:52:45]   Bem-vindo ao meu servidor SAMP by: Storck
+[17:52:45] 
+---------------------------------------------------------------
+[17:52:45] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:27:49] filterscripts = ""  (string)
+[08:27:49] 
+[08:27:49] Server Plugins
+[08:27:49] --------------
+[08:27:49]  Loading plugin: sscanf
+[08:27:49] 
+[08:27:49]  ===============================
+[08:27:49] 
+[08:27:49]       sscanf plugin loaded.     
+[08:27:49] 
+[08:27:49]          Version: 2.13.8
+[08:27:49] 
+[08:27:49]    (c) 2022 Alex "Y_Less" Cole  
+[08:27:49] 
+[08:27:49]  ===============================
+[08:27:49] 
+[08:27:49]   Loaded.
+[08:27:49]  Loaded 1 plugins.
+
+[08:27:49] 
+[08:27:49] Filterscripts
+[08:27:49] ---------------
+[08:27:49]   Loaded 0 filterscripts.
+
+[08:27:49] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:27:49] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[08:27:49] [JOBS] Todas as profissões foram inicializadas.
+[08:27:49] 
+---------------------------------------------------------------
+[08:27:49]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:27:49] 
+---------------------------------------------------------------
+[08:27:49] Number of vehicle models: 5
+[08:28:14] [connection] incoming connection: 127.0.0.1:51746 id: 0
+[08:28:14] [join] Storck has joined the server (0:127.0.0.1)
+[08:32:43] [part] Storck has left the server (0:1)
+[08:46:28] [connection] incoming connection: 127.0.0.1:53150 id: 0
+[08:46:28] [join] Storck has joined the server (0:127.0.0.1)
+[08:52:40] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:40:03] filterscripts = ""  (string)
+[08:40:03] 
+[08:40:03] Server Plugins
+[08:40:03] --------------
+[08:40:03]  Loading plugin: sscanf
+[08:40:03] 
+[08:40:03]  ===============================
+[08:40:03] 
+[08:40:03]       sscanf plugin loaded.     
+[08:40:03] 
+[08:40:03]          Version: 2.13.8
+[08:40:03] 
+[08:40:03]    (c) 2022 Alex "Y_Less" Cole  
+[08:40:03] 
+[08:40:03]  ===============================
+[08:40:03] 
+[08:40:03]   Loaded.
+[08:40:03]  Loaded 1 plugins.
+
+[08:40:03] 
+[08:40:03] Filterscripts
+[08:40:03] ---------------
+[08:40:03]   Loaded 0 filterscripts.
+
+[08:40:03] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:40:03] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[08:40:03] [JOBS] Todas as profissões foram inicializadas.
+[08:40:03] 
+---------------------------------------------------------------
+[08:40:03]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:40:03] 
+---------------------------------------------------------------
+[08:40:03] Number of vehicle models: 5
+[08:40:28] [connection] incoming connection: 127.0.0.1:60157 id: 0
+[08:40:28] [join] Storck has joined the server (0:127.0.0.1)
+[08:55:11] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:18:27] filterscripts = ""  (string)
+[09:18:27] 
+[09:18:27] Server Plugins
+[09:18:27] --------------
+[09:18:27]  Loading plugin: sscanf
+[09:18:27] 
+[09:18:27]  ===============================
+[09:18:27] 
+[09:18:27]       sscanf plugin loaded.     
+[09:18:27] 
+[09:18:27]          Version: 2.13.8
+[09:18:27] 
+[09:18:27]    (c) 2022 Alex "Y_Less" Cole  
+[09:18:27] 
+[09:18:27]  ===============================
+[09:18:27] 
+[09:18:27]   Loaded.
+[09:18:27]  Loaded 1 plugins.
+
+[09:18:27] 
+[09:18:27] Filterscripts
+[09:18:27] ---------------
+[09:18:27]   Loaded 0 filterscripts.
+
+[09:18:27] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:18:27] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:18:27] [JOBS] Todas as profissões foram inicializadas.
+[09:18:27] 
+---------------------------------------------------------------
+[09:18:27]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:18:27] 
+---------------------------------------------------------------
+[09:18:27] Number of vehicle models: 5
+[09:18:30] [connection] incoming connection: 127.0.0.1:62403 id: 0
+[09:18:30] [join] Storck has joined the server (0:127.0.0.1)
+[09:23:31] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:11:22] filterscripts = ""  (string)
+[10:11:22] 
+[10:11:22] Server Plugins
+[10:11:22] --------------
+[10:11:22]  Loading plugin: sscanf
+[10:11:22] 
+[10:11:22]  ===============================
+[10:11:22] 
+[10:11:22]       sscanf plugin loaded.     
+[10:11:22] 
+[10:11:22]          Version: 2.13.8
+[10:11:22] 
+[10:11:22]    (c) 2022 Alex "Y_Less" Cole  
+[10:11:22] 
+[10:11:22]  ===============================
+[10:11:22] 
+[10:11:22]   Loaded.
+[10:11:22]  Loaded 1 plugins.
+
+[10:11:22] 
+[10:11:22] Filterscripts
+[10:11:22] ---------------
+[10:11:22]   Loaded 0 filterscripts.
+
+[10:11:22] [VEHICLE SYSTEM] Veículos gerais carregados.
+[10:11:22] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[10:11:22] [JOBS] Todas as profissões foram inicializadas.
+[10:11:22] 
+---------------------------------------------------------------
+[10:11:22]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:11:22] 
+---------------------------------------------------------------
+[10:11:22] Number of vehicle models: 5
+[10:11:48] [connection] incoming connection: 127.0.0.1:54579 id: 0
+[10:11:48] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:18:29] filterscripts = ""  (string)
+[10:18:29] 
+[10:18:29] Server Plugins
+[10:18:29] --------------
+[10:18:29]  Loading plugin: sscanf
+[10:18:29] 
+[10:18:29]  ===============================
+[10:18:29] 
+[10:18:29]       sscanf plugin loaded.     
+[10:18:29] 
+[10:18:29]          Version: 2.13.8
+[10:18:29] 
+[10:18:29]    (c) 2022 Alex "Y_Less" Cole  
+[10:18:29] 
+[10:18:29]  ===============================
+[10:18:29] 
+[10:18:29]   Loaded.
+[10:18:29]  Loaded 1 plugins.
+
+[10:18:29] 
+[10:18:29] Filterscripts
+[10:18:29] ---------------
+[10:18:29]   Loaded 0 filterscripts.
+
+[10:18:29] [VEHICLE SYSTEM] Veículos gerais carregados.
+[10:18:29] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[10:18:29] [JOBS] Todas as profissões foram inicializadas.
+[10:18:29] 
+---------------------------------------------------------------
+[10:18:29]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:18:29] 
+---------------------------------------------------------------
+[10:18:29] Number of vehicle models: 5
+[10:18:34] [connection] incoming connection: 127.0.0.1:54134 id: 0
+[10:18:34] [join] Storck has joined the server (0:127.0.0.1)
+[10:28:39] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:46:55] filterscripts = ""  (string)
+[10:46:55] 
+[10:46:55] Server Plugins
+[10:46:55] --------------
+[10:46:55]  Loading plugin: sscanf
+[10:46:55] 
+[10:46:55]  ===============================
+[10:46:55] 
+[10:46:55]       sscanf plugin loaded.     
+[10:46:55] 
+[10:46:55]          Version: 2.13.8
+[10:46:55] 
+[10:46:55]    (c) 2022 Alex "Y_Less" Cole  
+[10:46:55] 
+[10:46:55]  ===============================
+[10:46:55] 
+[10:46:55]   Loaded.
+[10:46:55]  Loaded 1 plugins.
+
+[10:46:55] 
+[10:46:55] Filterscripts
+[10:46:55] ---------------
+[10:46:55]   Loaded 0 filterscripts.
+
+[10:46:55] [VEHICLE SYSTEM] Veículos gerais carregados.
+[10:46:55] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[10:46:55] [JOBS] Todas as profissões foram inicializadas.
+[10:46:55] 
+---------------------------------------------------------------
+[10:46:55]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:46:55] 
+---------------------------------------------------------------
+[10:46:55] Number of vehicle models: 5
+[10:47:13] [connection] incoming connection: 127.0.0.1:61780 id: 0
+[10:47:13] [join] Storck has joined the server (0:127.0.0.1)
+[10:50:19] [SCRAP] Carcaça criada no slot 0 (2095.22 -2081.71 14.18)
+[10:51:09] [SCRAP] Carcaça criada no slot 1 (2120.04 -2062.77 13.41)
+[10:51:57] [SCRAP] Carcaça criada no slot 2 (2163.61 -2109.93 13.41)
+[10:52:12] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:55:13] filterscripts = ""  (string)
+[10:55:13] 
+[10:55:13] Server Plugins
+[10:55:13] --------------
+[10:55:13]  Loading plugin: sscanf
+[10:55:13] 
+[10:55:13]  ===============================
+[10:55:13] 
+[10:55:13]       sscanf plugin loaded.     
+[10:55:13] 
+[10:55:13]          Version: 2.13.8
+[10:55:13] 
+[10:55:13]    (c) 2022 Alex "Y_Less" Cole  
+[10:55:13] 
+[10:55:13]  ===============================
+[10:55:13] 
+[10:55:13]   Loaded.
+[10:55:13]  Loaded 1 plugins.
+
+[10:55:13] 
+[10:55:13] Filterscripts
+[10:55:13] ---------------
+[10:55:13]   Loaded 0 filterscripts.
+
+[10:55:13] [VEHICLE SYSTEM] Veículos gerais carregados.
+[10:55:13] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[10:55:13] [JOBS] Todas as profissões foram inicializadas.
+[10:55:13] 
+---------------------------------------------------------------
+[10:55:13]   Bem-vindo ao meu servidor SAMP by: Storck
+[10:55:13] 
+---------------------------------------------------------------
+[10:55:13] Number of vehicle models: 5
+[10:55:39] [connection] incoming connection: 127.0.0.1:58605 id: 0
+[10:55:39] [join] Storck has joined the server (0:127.0.0.1)
+[10:56:35] [SCRAP] Carcaça criada no slot 0 (2240.66 -2225.53 13.41)
+[10:58:11] [SCRAP] Carcaça criada no slot 1 (2167.92 -2289.54 13.84)
+[11:02:34] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:04:14] filterscripts = ""  (string)
+[11:04:14] 
+[11:04:14] Server Plugins
+[11:04:14] --------------
+[11:04:14]  Loading plugin: sscanf
+[11:04:14] 
+[11:04:14]  ===============================
+[11:04:14] 
+[11:04:14]       sscanf plugin loaded.     
+[11:04:14] 
+[11:04:14]          Version: 2.13.8
+[11:04:14] 
+[11:04:14]    (c) 2022 Alex "Y_Less" Cole  
+[11:04:14] 
+[11:04:14]  ===============================
+[11:04:14] 
+[11:04:14]   Loaded.
+[11:04:14]  Loaded 1 plugins.
+
+[11:04:14] 
+[11:04:14] Filterscripts
+[11:04:14] ---------------
+[11:04:14]   Loaded 0 filterscripts.
+
+[11:04:14] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:04:14] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:04:14] [JOBS] Todas as profissões foram inicializadas.
+[11:04:14] 
+---------------------------------------------------------------
+[11:04:14]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:04:14] 
+---------------------------------------------------------------
+[11:04:14] Number of vehicle models: 5
+[11:04:32] [connection] incoming connection: 127.0.0.1:63177 id: 0
+[11:04:33] [join] Storck has joined the server (0:127.0.0.1)
+[11:04:58] [SCRAP] Carcaça criada no slot 0 (2163.99 -2301.39 14.13)
+[11:05:25] [SCRAP] Carcaça criada no slot 1 (2162.86 -2300.86 14.68)
+[11:05:51] [SCRAP] Carcaça criada no slot 2 (2190.58 -2269.42 14.15)
+[11:06:09] [SCRAP] Carcaça criada no slot 3 (2196.60 -2254.06 13.42)
+[11:06:30] [SCRAP] Carcaça criada no slot 4 (2201.66 -2250.80 13.41)
+[11:06:56] [SCRAP] Carcaça criada no slot 5 (2220.10 -2229.55 13.43)
+[11:07:59] [SCRAP] Carcaça criada no slot 6 (2238.66 -2208.20 14.01)
+[11:09:04] [SCRAP] Carcaça criada no slot 7 (2159.35 -2406.71 13.40)
+[11:09:32] [SCRAP] Carcaça criada no slot 8 (2177.34 -2607.37 13.41)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:16:55] filterscripts = ""  (string)
+[11:16:55] 
+[11:16:55] Server Plugins
+[11:16:55] --------------
+[11:16:55]  Loading plugin: sscanf
+[11:16:55] 
+[11:16:55]  ===============================
+[11:16:55] 
+[11:16:55]       sscanf plugin loaded.     
+[11:16:55] 
+[11:16:55]          Version: 2.13.8
+[11:16:55] 
+[11:16:55]    (c) 2022 Alex "Y_Less" Cole  
+[11:16:55] 
+[11:16:55]  ===============================
+[11:16:55] 
+[11:16:55]   Loaded.
+[11:16:55]  Loaded 1 plugins.
+
+[11:16:55] 
+[11:16:55] Filterscripts
+[11:16:55] ---------------
+[11:16:55]   Loaded 0 filterscripts.
+
+[11:16:55] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:16:55] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:16:55] [JOBS] Todas as profissões foram inicializadas.
+[11:16:55] 
+---------------------------------------------------------------
+[11:16:55]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:16:55] 
+---------------------------------------------------------------
+[11:16:55] Number of vehicle models: 5
+[11:17:03] [connection] incoming connection: 127.0.0.1:54067 id: 0
+[11:17:03] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:01] filterscripts = ""  (string)
+[11:19:01] 
+[11:19:01] Server Plugins
+[11:19:01] --------------
+[11:19:01]  Loading plugin: sscanf
+[11:19:01] 
+[11:19:01]  ===============================
+[11:19:01] 
+[11:19:01]       sscanf plugin loaded.     
+[11:19:01] 
+[11:19:01]          Version: 2.13.8
+[11:19:01] 
+[11:19:01]    (c) 2022 Alex "Y_Less" Cole  
+[11:19:01] 
+[11:19:01]  ===============================
+[11:19:01] 
+[11:19:01]   Loaded.
+[11:19:01]  Loaded 1 plugins.
+
+[11:19:01] 
+[11:19:01] Filterscripts
+[11:19:01] ---------------
+[11:19:01]   Loaded 0 filterscripts.
+
+[11:19:01] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:19:01] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:19:01] [JOBS] Todas as profissões foram inicializadas.
+[11:19:01] 
+---------------------------------------------------------------
+[11:19:01]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:19:01] 
+---------------------------------------------------------------
+[11:19:01] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:27] filterscripts = ""  (string)
+[11:19:27] 
+[11:19:27] Server Plugins
+[11:19:27] --------------
+[11:19:27]  Loading plugin: sscanf
+[11:19:27] 
+[11:19:27]  ===============================
+[11:19:27] 
+[11:19:27]       sscanf plugin loaded.     
+[11:19:27] 
+[11:19:27]          Version: 2.13.8
+[11:19:27] 
+[11:19:27]    (c) 2022 Alex "Y_Less" Cole  
+[11:19:27] 
+[11:19:27]  ===============================
+[11:19:27] 
+[11:19:27]   Loaded.
+[11:19:27]  Loaded 1 plugins.
+
+[11:19:27] 
+[11:19:27] Filterscripts
+[11:19:27] ---------------
+[11:19:27]   Loaded 0 filterscripts.
+
+[11:19:27] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:19:27] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:19:27] [JOBS] Todas as profissões foram inicializadas.
+[11:19:27] 
+---------------------------------------------------------------
+[11:19:27]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:19:27] 
+---------------------------------------------------------------
+[11:19:27] Number of vehicle models: 5
+[11:19:28] [connection] incoming connection: 127.0.0.1:61908 id: 0
+[11:19:28] [join] Storck has joined the server (0:127.0.0.1)
+[11:20:31] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:21:32] filterscripts = ""  (string)
+[11:21:32] 
+[11:21:32] Server Plugins
+[11:21:32] --------------
+[11:21:32]  Loading plugin: sscanf
+[11:21:32] 
+[11:21:32]  ===============================
+[11:21:32] 
+[11:21:32]       sscanf plugin loaded.     
+[11:21:32] 
+[11:21:32]          Version: 2.13.8
+[11:21:32] 
+[11:21:32]    (c) 2022 Alex "Y_Less" Cole  
+[11:21:32] 
+[11:21:32]  ===============================
+[11:21:32] 
+[11:21:32]   Loaded.
+[11:21:32]  Loaded 1 plugins.
+
+[11:21:32] 
+[11:21:32] Filterscripts
+[11:21:32] ---------------
+[11:21:32]   Loaded 0 filterscripts.
+
+[11:21:32] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:21:32] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:21:32] [JOBS] Todas as profissões foram inicializadas.
+[11:21:32] 
+---------------------------------------------------------------
+[11:21:32]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:21:32] 
+---------------------------------------------------------------
+[11:21:32] Number of vehicle models: 5
+[11:21:51] [connection] incoming connection: 127.0.0.1:53652 id: 0
+[11:21:51] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:23:11] filterscripts = ""  (string)
+[11:23:11] 
+[11:23:11] Server Plugins
+[11:23:11] --------------
+[11:23:11]  Loading plugin: sscanf
+[11:23:11] 
+[11:23:11]  ===============================
+[11:23:11] 
+[11:23:11]       sscanf plugin loaded.     
+[11:23:11] 
+[11:23:11]          Version: 2.13.8
+[11:23:11] 
+[11:23:11]    (c) 2022 Alex "Y_Less" Cole  
+[11:23:11] 
+[11:23:11]  ===============================
+[11:23:11] 
+[11:23:11]   Loaded.
+[11:23:11]  Loaded 1 plugins.
+
+[11:23:11] 
+[11:23:11] Filterscripts
+[11:23:11] ---------------
+[11:23:11]   Loaded 0 filterscripts.
+
+[11:23:11] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:23:11] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:23:11] [JOBS] Todas as profissões foram inicializadas.
+[11:23:11] 
+---------------------------------------------------------------
+[11:23:11]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:23:11] 
+---------------------------------------------------------------
+[11:23:11] Number of vehicle models: 5
+[11:23:12] [connection] incoming connection: 127.0.0.1:54694 id: 0
+[11:23:13] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:55] filterscripts = ""  (string)
+[11:28:55] 
+[11:28:55] Server Plugins
+[11:28:55] --------------
+[11:28:55]  Loading plugin: sscanf
+[11:28:55] 
+[11:28:55]  ===============================
+[11:28:55] 
+[11:28:55]       sscanf plugin loaded.     
+[11:28:55] 
+[11:28:55]          Version: 2.13.8
+[11:28:55] 
+[11:28:55]    (c) 2022 Alex "Y_Less" Cole  
+[11:28:55] 
+[11:28:55]  ===============================
+[11:28:55] 
+[11:28:55]   Loaded.
+[11:28:55]  Loaded 1 plugins.
+
+[11:28:55] 
+[11:28:55] Filterscripts
+[11:28:55] ---------------
+[11:28:55]   Loaded 0 filterscripts.
+
+[11:28:55] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:28:55] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:28:55] [JOBS] Todas as profissões foram inicializadas.
+[11:28:55] 
+---------------------------------------------------------------
+[11:28:55]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:28:55] 
+---------------------------------------------------------------
+[11:28:55] Number of vehicle models: 5
+[11:29:02] [connection] incoming connection: 127.0.0.1:54583 id: 0
+[11:29:02] [join] Storck has joined the server (0:127.0.0.1)
+[11:30:51] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:20:43] filterscripts = ""  (string)
+[08:20:43] 
+[08:20:43] Server Plugins
+[08:20:43] --------------
+[08:20:43]  Loading plugin: sscanf
+[08:20:43] 
+[08:20:43]  ===============================
+[08:20:43] 
+[08:20:43]       sscanf plugin loaded.     
+[08:20:43] 
+[08:20:43]          Version: 2.13.8
+[08:20:43] 
+[08:20:43]    (c) 2022 Alex "Y_Less" Cole  
+[08:20:43] 
+[08:20:43]  ===============================
+[08:20:43] 
+[08:20:43]   Loaded.
+[08:20:43]  Loaded 1 plugins.
+
+[08:20:43] 
+[08:20:43] Filterscripts
+[08:20:43] ---------------
+[08:20:43]   Loaded 0 filterscripts.
+
+[08:20:43] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:20:43] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[08:20:43] [JOBS] Todas as profissões foram inicializadas.
+[08:20:43] 
+---------------------------------------------------------------
+[08:20:43]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:20:43] 
+---------------------------------------------------------------
+[08:20:43] Number of vehicle models: 5
+[08:21:08] [connection] incoming connection: 127.0.0.1:54568 id: 0
+[08:21:08] [join] Storck has joined the server (0:127.0.0.1)
+[08:29:57] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:41:57] filterscripts = ""  (string)
+[08:41:57] 
+[08:41:57] Server Plugins
+[08:41:57] --------------
+[08:41:57]  Loading plugin: sscanf
+[08:41:57] 
+[08:41:57]  ===============================
+[08:41:57] 
+[08:41:57]       sscanf plugin loaded.     
+[08:41:57] 
+[08:41:57]          Version: 2.13.8
+[08:41:57] 
+[08:41:57]    (c) 2022 Alex "Y_Less" Cole  
+[08:41:57] 
+[08:41:57]  ===============================
+[08:41:57] 
+[08:41:57]   Loaded.
+[08:41:57]  Loaded 1 plugins.
+
+[08:41:57] 
+[08:41:57] Filterscripts
+[08:41:57] ---------------
+[08:41:57]   Loaded 0 filterscripts.
+
+[08:41:57] [VEHICLE SYSTEM] Veículos gerais carregados.
+[08:41:57] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[08:41:57] [JOBS] Todas as profissões foram inicializadas.
+[08:41:57] 
+---------------------------------------------------------------
+[08:41:57]   Bem-vindo ao meu servidor SAMP by: Storck
+[08:41:57] 
+---------------------------------------------------------------
+[08:41:57] Number of vehicle models: 5
+[08:42:26] [connection] incoming connection: 127.0.0.1:54726 id: 0
+[08:42:26] [join] Storck has joined the server (0:127.0.0.1)
+[08:43:11] [part] Storck has left the server (0:1)
+[08:43:30] [connection] incoming connection: 127.0.0.1:61117 id: 0
+[08:43:30] [join] Storck has joined the server (0:127.0.0.1)
+[08:46:42] [part] Storck has left the server (0:1)
+[10:31:56] [connection] incoming connection: 127.0.0.1:61958 id: 0
+[10:31:56] [join] Storck has joined the server (0:127.0.0.1)
+[10:38:21] [part] Storck has left the server (0:1)
+[10:39:47] [connection] incoming connection: 127.0.0.1:59456 id: 0
+[10:39:47] [join] Storck has joined the server (0:127.0.0.1)
+[10:40:08] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:12:09] filterscripts = ""  (string)
+[11:12:09] 
+[11:12:09] Server Plugins
+[11:12:09] --------------
+[11:12:09]  Loading plugin: sscanf
+[11:12:09] 
+[11:12:09]  ===============================
+[11:12:09] 
+[11:12:09]       sscanf plugin loaded.     
+[11:12:09] 
+[11:12:09]          Version: 2.13.8
+[11:12:09] 
+[11:12:09]    (c) 2022 Alex "Y_Less" Cole  
+[11:12:09] 
+[11:12:09]  ===============================
+[11:12:09] 
+[11:12:09]   Loaded.
+[11:12:09]  Loaded 1 plugins.
+
+[11:12:09] 
+[11:12:09] Filterscripts
+[11:12:09] ---------------
+[11:12:09]   Loaded 0 filterscripts.
+
+[11:12:09] [VEHICLE SYSTEM] Veículos gerais carregados.
+[11:12:09] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[11:12:09] [JOBS] Todas as profissões foram inicializadas.
+[11:12:09] 
+---------------------------------------------------------------
+[11:12:09]   Bem-vindo ao meu servidor SAMP by: Storck
+[11:12:09] 
+---------------------------------------------------------------
+[11:12:09] Number of vehicle models: 5
+[11:12:30] [connection] incoming connection: 127.0.0.1:56939 id: 0
+[11:12:30] [join] Storck has joined the server (0:127.0.0.1)
+[11:16:50] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:37:37] filterscripts = ""  (string)
+[09:37:37] 
+[09:37:37] Server Plugins
+[09:37:37] --------------
+[09:37:37]  Loading plugin: sscanf
+[09:37:37] 
+[09:37:37]  ===============================
+[09:37:37] 
+[09:37:37]       sscanf plugin loaded.     
+[09:37:37] 
+[09:37:37]          Version: 2.13.8
+[09:37:37] 
+[09:37:37]    (c) 2022 Alex "Y_Less" Cole  
+[09:37:37] 
+[09:37:37]  ===============================
+[09:37:37] 
+[09:37:37]   Loaded.
+[09:37:37]  Loaded 1 plugins.
+
+[09:37:37] 
+[09:37:37] Filterscripts
+[09:37:37] ---------------
+[09:37:37]   Loaded 0 filterscripts.
+
+[09:37:37] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:37:37] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:37:37] [JOBS] Todas as profissões foram inicializadas.
+[09:37:37] 
+---------------------------------------------------------------
+[09:37:37]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:37:37] 
+---------------------------------------------------------------
+[09:37:37] Number of vehicle models: 5
+[09:38:06] [connection] incoming connection: 127.0.0.1:58556 id: 0
+[09:38:07] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:41:02] filterscripts = ""  (string)
+[09:41:02] 
+[09:41:02] Server Plugins
+[09:41:02] --------------
+[09:41:02]  Loading plugin: sscanf
+[09:41:02] 
+[09:41:02]  ===============================
+[09:41:02] 
+[09:41:02]       sscanf plugin loaded.     
+[09:41:02] 
+[09:41:02]          Version: 2.13.8
+[09:41:02] 
+[09:41:02]    (c) 2022 Alex "Y_Less" Cole  
+[09:41:02] 
+[09:41:02]  ===============================
+[09:41:02] 
+[09:41:02]   Loaded.
+[09:41:02]  Loaded 1 plugins.
+
+[09:41:02] 
+[09:41:02] Filterscripts
+[09:41:02] ---------------
+[09:41:02]   Loaded 0 filterscripts.
+
+[09:41:02] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:41:02] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:41:02] [JOBS] Todas as profissões foram inicializadas.
+[09:41:02] 
+---------------------------------------------------------------
+[09:41:02]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:41:02] 
+---------------------------------------------------------------
+[09:41:02] Number of vehicle models: 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:41:47] filterscripts = ""  (string)
+[09:41:47] 
+[09:41:47] Server Plugins
+[09:41:47] --------------
+[09:41:47]  Loading plugin: sscanf
+[09:41:47] 
+[09:41:47]  ===============================
+[09:41:47] 
+[09:41:47]       sscanf plugin loaded.     
+[09:41:47] 
+[09:41:47]          Version: 2.13.8
+[09:41:47] 
+[09:41:47]    (c) 2022 Alex "Y_Less" Cole  
+[09:41:47] 
+[09:41:47]  ===============================
+[09:41:47] 
+[09:41:47]   Loaded.
+[09:41:47]  Loaded 1 plugins.
+
+[09:41:47] 
+[09:41:47] Filterscripts
+[09:41:47] ---------------
+[09:41:47]   Loaded 0 filterscripts.
+
+[09:41:47] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:41:47] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:41:47] [JOBS] Todas as profissões foram inicializadas.
+[09:41:47] 
+---------------------------------------------------------------
+[09:41:47]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:41:47] 
+---------------------------------------------------------------
+[09:41:47] Number of vehicle models: 5
+[09:41:49] [connection] incoming connection: 127.0.0.1:56534 id: 0
+[09:41:59] [connection] incoming connection: 127.0.0.1:65019 id: 0
+[09:42:09] [connection] incoming connection: 127.0.0.1:63056 id: 0
+[09:42:09] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:57:24] filterscripts = ""  (string)
+[09:57:24] 
+[09:57:24] Server Plugins
+[09:57:24] --------------
+[09:57:24]  Loading plugin: sscanf
+[09:57:24] 
+[09:57:24]  ===============================
+[09:57:24] 
+[09:57:24]       sscanf plugin loaded.     
+[09:57:24] 
+[09:57:24]          Version: 2.13.8
+[09:57:24] 
+[09:57:24]    (c) 2022 Alex "Y_Less" Cole  
+[09:57:24] 
+[09:57:24]  ===============================
+[09:57:24] 
+[09:57:24]   Loaded.
+[09:57:24]  Loaded 1 plugins.
+
+[09:57:24] 
+[09:57:24] Filterscripts
+[09:57:24] ---------------
+[09:57:24]   Loaded 0 filterscripts.
+
+[09:57:24] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:57:24] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:57:24] [JOBS] Todas as profissões foram inicializadas.
+[09:57:24] 
+---------------------------------------------------------------
+[09:57:24]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:57:24] 
+---------------------------------------------------------------
+[09:57:24] Number of vehicle models: 5
+[09:57:26] [connection] incoming connection: 127.0.0.1:62338 id: 0
+[09:57:27] [join] Storck has joined the server (0:127.0.0.1)
+[10:09:21] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:10] filterscripts = ""  (string)
+[12:10:10] 
+[12:10:10] Server Plugins
+[12:10:10] --------------
+[12:10:10]  Loading plugin: sscanf
+[12:10:10] 
+[12:10:10]  ===============================
+[12:10:10] 
+[12:10:10]       sscanf plugin loaded.     
+[12:10:10] 
+[12:10:10]          Version: 2.13.8
+[12:10:10] 
+[12:10:10]    (c) 2022 Alex "Y_Less" Cole  
+[12:10:10] 
+[12:10:10]  ===============================
+[12:10:10] 
+[12:10:10]   Loaded.
+[12:10:10]  Loaded 1 plugins.
+
+[12:10:10] 
+[12:10:10] Filterscripts
+[12:10:10] ---------------
+[12:10:10]   Loaded 0 filterscripts.
+
+[12:10:10] [VEHICLE SYSTEM] Veículos gerais carregados.
+[12:10:10] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[12:10:10] [JOBS] Todas as profissões foram inicializadas.
+[12:10:10] 
+---------------------------------------------------------------
+[12:10:10]   Bem-vindo ao meu servidor SAMP by: Storck
+[12:10:10] 
+---------------------------------------------------------------
+[12:10:10] Number of vehicle models: 5
+[12:10:33] [connection] incoming connection: 127.0.0.1:57009 id: 0
+[12:10:33] [join] Storck has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:53] filterscripts = ""  (string)
+[14:30:53] 
+[14:30:53] Server Plugins
+[14:30:53] --------------
+[14:30:53]  Loading plugin: sscanf
+[14:30:53] 
+[14:30:53]  ===============================
+[14:30:53] 
+[14:30:53]       sscanf plugin loaded.     
+[14:30:53] 
+[14:30:53]          Version: 2.13.8
+[14:30:53] 
+[14:30:53]    (c) 2022 Alex "Y_Less" Cole  
+[14:30:53] 
+[14:30:53]  ===============================
+[14:30:53] 
+[14:30:53]   Loaded.
+[14:30:53]  Loaded 1 plugins.
+
+[14:30:53] 
+[14:30:53] Filterscripts
+[14:30:53] ---------------
+[14:30:53]   Loaded 0 filterscripts.
+
+[14:30:53] [VEHICLE SYSTEM] Veículos gerais carregados.
+[14:30:53] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[14:30:53] [JOBS] Todas as profissões foram inicializadas.
+[14:30:53] 
+---------------------------------------------------------------
+[14:30:53]   Bem-vindo ao meu servidor SAMP by: Storck
+[14:30:53] 
+---------------------------------------------------------------
+[14:30:53] Number of vehicle models: 5
+[14:30:56] [connection] incoming connection: 127.0.0.1:65307 id: 0
+[14:30:56] [join] Storck has joined the server (0:127.0.0.1)
+[14:33:11] [part] Storck has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:37:39] filterscripts = ""  (string)
+[09:37:39] 
+[09:37:39] Server Plugins
+[09:37:39] --------------
+[09:37:39]  Loading plugin: sscanf
+[09:37:39] 
+[09:37:39]  ===============================
+[09:37:39] 
+[09:37:39]       sscanf plugin loaded.     
+[09:37:39] 
+[09:37:39]          Version: 2.13.8
+[09:37:39] 
+[09:37:39]    (c) 2022 Alex "Y_Less" Cole  
+[09:37:39] 
+[09:37:39]  ===============================
+[09:37:39] 
+[09:37:39]   Loaded.
+[09:37:39]  Loaded 1 plugins.
+
+[09:37:39] 
+[09:37:39] Filterscripts
+[09:37:39] ---------------
+[09:37:39]   Loaded 0 filterscripts.
+
+[09:37:39] [VEHICLE SYSTEM] Veículos gerais carregados.
+[09:37:39] [TRUCKER] Frota da profissão caminhoneiro criada com sucesso.
+[09:37:39] [JOBS] Todas as profissões foram inicializadas.
+[09:37:39] 
+---------------------------------------------------------------
+[09:37:39]   Bem-vindo ao meu servidor SAMP by: Storck
+[09:37:39] 
+---------------------------------------------------------------
+[09:37:39] Number of vehicle models: 5
+[09:38:32] [connection] incoming connection: 127.0.0.1:53335 id: 0
+[09:38:32] [join] Storck has joined the server (0:127.0.0.1)
+[09:52:43] [part] Storck has left the server (0:1)

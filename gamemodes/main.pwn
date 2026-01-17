@@ -40,9 +40,11 @@ public OnPlayerConnect(playerid)
 {
     SendClientMessage(playerid, COLOR_INFO, " ");
     SendClientMessage(playerid, COLOR_INFO, "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-    SendClientMessage(playerid, COLOR_INFO, "   Bem-vindo ao meu servidor SAMP by: Storck ");
+    SendClientMessage(playerid, COLOR_INFO, "   Bem-vindo ao Brasil Life Stories! ");
     SendClientMessage(playerid, COLOR_INFO, "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"); 
     SendClientMessage(playerid, COLOR_INFO, " "); 
+
+    Jobs_OnPlayerConnect(playerid);
 
     Player_OnConnect(playerid);
     return 1;

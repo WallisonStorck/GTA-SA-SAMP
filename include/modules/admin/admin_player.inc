@@ -177,6 +177,69 @@ CMD:givegun(playerid, params[])
 }
 
 // =============================================================
+// /weaponpack | Pack de armas pesado (Admin)
+// =============================================================
+CMD:wpk(playerid, params[])
+{
+    // Verificação de permissão
+    if (!IsAdmin(playerid, ROLE_ADMIN2))
+        return SendError(playerid, "Você não tem permissão para usar este comando!");
+
+    // Vida e colete
+    SetPlayerHealth(playerid, 100.0);
+    SetPlayerArmour(playerid, 100.0);
+
+    // Limpa armas antigas (opcional, mas recomendado)
+    ResetPlayerWeapons(playerid);
+
+    // Pack de armas
+    GivePlayerWeapon(playerid, 24, 999);   // Desert Eagle
+    GivePlayerWeapon(playerid, 31, 999);   // M4
+    GivePlayerWeapon(playerid, 34, 99);    // Sniper Rifle
+    GivePlayerWeapon(playerid, 35, 99);    // Bazuca (RPG)
+    GivePlayerWeapon(playerid, 38, 9999);  // Minigun
+
+    // Feedback
+    CmdAdmin(playerid, "Pack de armas pesado concedido!");
+
+    return 1;
+}
+
+// =============================================================
+// /disarm [id] | Remove todas as armas de um jogador (Admin2+)
+// =============================================================
+CMD:disarm(playerid, params[])
+{
+    new targetid;
+
+    // Verificação de permissão
+    if (!IsAdmin(playerid, ROLE_ADMIN2))
+        return SendError(playerid, "Você não tem permissão para usar este comando!");
+
+    // Leitura do ID do jogador
+    if (sscanf(params, "i", targetid))
+        return SendError(playerid, "Uso correto: /disarm [id]");
+
+    // Verifica se o jogador existe
+    if (!IsPlayerConnected(targetid))
+        return SendError(playerid, "Jogador não conectado.");
+
+    // Remove todas as armas do jogador
+    ResetPlayerWeapons(targetid);
+
+    // Mensagem para o admin
+    new msg[128];
+    format(msg, sizeof(msg), "Você desarmou o jogador ID %d.", targetid);
+    CmdAdmin(playerid, msg);
+
+    // Mensagem para o jogador desarmado
+    SendWarning(targetid, "Um administrador removeu todas as suas armas!");
+
+    return 1;
+}
+
+
+// =============================================================
 // /setskin Define a skin do jogador (Admin2+)
 // Uso: /setskin [id] [skin]
 // =============================================================
